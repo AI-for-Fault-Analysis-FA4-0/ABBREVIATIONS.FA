@@ -9,7 +9,7 @@ A detail description of the folders/files is seen below
 	
 ```
 
-### Conttributors
+### Contributors
 ```bash
 The repo can be forked and updated by the public especially those whose domain jargon is correlated with the microelectronic industries.
 	
