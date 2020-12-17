@@ -5,7 +5,7 @@
 A detail description of the folders/files is seen below
 
 ```bash
-|---abbreviations.csv: Contains english abbreviations and together with those used in the microelectronic industries.
+|---abbreviations.csv: Contains english abbreviations and technical jargons used in the microelectronic industries.
 	
 ```
 
