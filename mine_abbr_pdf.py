@@ -14,10 +14,10 @@ import pandas as pd
 from itertools import chain #recurssive list flatening...
 from tika import parser #extract text from pdf
 
-pdf_path = 'C:\\Users\\emse\\Documents\\FA4.0\Houari'
+pdf_path = 'pdf path'
 
-path = {'data': 'C:\\Users\\emse\\Documents\\FA4.0\\Mireille\\Donnes\\hdf5', #hdf5 database
-        'utils': 'C:\\Users\\emse\\Documents\\FA4.0\\kenneth\\Scripts\\utils' #kenneth utils
+path = {'data': 'data path', #hdf5 database
+        'utils': 'stopword path' #kenneth utils
         }
 
 #import stopwords
@@ -26,16 +26,16 @@ with open(join(path['utils'], 'stopwords.txt'), 'r+',encoding="utf8") as st:
         
 
 
-# text = np.load(join(path['data'], 'book_mine\\fa_houari.npy'), allow_pickle=True)
+# text = np.load(join(path['data'], 'book_mine\\fa_.npy'), allow_pickle=True)
 # text = list(np.atleast_1d(text))[0]
 # text = text.replace('\n', ' ')
 
 class AbbreviationMiner(object):
     '''AbbreviationMiner is used for extracting abbreviations in the Wiley book:
         
-        'Failure Analys is : A Practical Guide for Manufacturers of Electronic Components and Systems , First Edition.
+        'Failure Analysis : A Practical Guide for Manufacturers of Electronic Components and Systems , First Edition.
         Marius I. Bazu and Titu-Marius I. Bajenescu.
-        © 2011 John Wiley & Sons, Ltd. P ublis hed 2011 by John Wiley & Sons , Ltd. ISBN: 978-0-470-74824-4'
+        © 2011 John Wiley & Sons, Ltd. Publis hed 2011 by John Wiley & Sons , Ltd. ISBN: 978-0-470-74824-4'
         
         Source: https://www.wiley.com/en-us/Failure+Analysis%3A+A+Practical+Guide+for+Manufacturers+of+Electronic+Components+and+Systems-p-9781119990000
         
@@ -229,7 +229,7 @@ class AbbreviationMiner(object):
                 if not ii == 'Acronyms':
                     #chek if the first index is in upper case
                     if ii.isupper():
-                        #check the the index that follows it is lower case (or atleast, mostly lowercase)
+                        #check that the index following it is lower case (or atleast, mostly lowercase)
                         if not self.txt[enum+2].strip('-').strip('()').strip(';').isupper():
                             pp = ' '.join(x for x in self.txt[enum+2].strip('-').split(';'))
                             #remove punctuations before appending...
