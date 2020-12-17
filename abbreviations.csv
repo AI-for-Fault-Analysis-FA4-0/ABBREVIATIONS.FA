@@ -1,5681 +1,776 @@
 Abbreviations;Meaning
-LCD;
-Rim;
-Lxx;
-Yau;
-tas;
-wgr;
-qlq;
-OTA;
-MPa;
-PVC;
-pon;
-Yue;
-XJ;
-TPI;
-MCu;
-GMC;
-opp;
-HSE;
-eSE;
-Avg;
-TDI;
-RTP;
-PcP;
-CIP;
-PQV;
-Eco;
-WI;
-OY;
-IH;
-scn;
-rth;
-VER;
-peb;
-Cob;
-seg;
-YHS;
-Wbg;
-ews;
-oof;
-hto;
-FPB;
-LSE;
-ZL;
-Nel;
-HDD;
-ECM;
-Cmp;
-MtB;
-Cnt;
-ROI;
-SDO;
-VCS;
-SAN;
-RST;
-lil;
-SIC;
-FPN;
-JOB;
-ude;
-LTS;
-TPY;
-Nwl;
-ahm;
-rod;
-rdt;
-MUT;
-cup;
-wp;
-Hw;
-Sog;
-rPJ;
-ION;
-AV;
-lvp;
-mrd;
-SHZ;
-ATR;
-ijn;
-MOV;
-Rag;
-LLT;
-VRT;
-SEP;
-TOR;
-RA;
-RER;
-ras;
-HDI;
-NGU;
-FPC;
-EKC;
-SMU;
-mf;
-LCR;
-Sbf;
-LGI;
-NOK;
-PCB;
-GIS;
-Cvd;
-wen;
-LZ;
-nem;
-FIL;
-gox;
-SAC;
-cls;
-SDL;
-box;
-lsa;
-gel;
-BEC;
-CB;
-ned;
-Bak;
-SCK;
-FHS;
-wk;
-spl;
-VPP;
-JPR;
-BPV;
-VEH;
-Ist;
-UMB;
-DOW;
-IAR;
-eqt;
-ard;
-VCP;
-nok;
-FRO;
-msp;
-gff;
-XBB;
-SID;
-lit;
-nly;
-IMI;
-olt;
-Cio;
-OOF;
-amo;
-SWP;
-sf;
-MLR;
-dps;
-Lif;
-DAI;
-zav;
-moy;
-SBa;
-Acp;
-SIO;
-ICT;
-IMU;
-RNW;
-CSN;
-CoD;
-PYA;
-APT;
-YDF;
-Hl;
-STV;
-ADG;
-sdi;
-RPS;
-csp;
-sq;
-PLS;
-VEE;
-ERK;
-AFT;
-POD;
-OOs;
-Sxx;
-OAD;
-VCR;
-ORO;
-Raw;
-Df;
-POI;
-DGS;
-Pia;
-TDH;
-IBN;
-tof;
-ZN;
-USg;
-SJR;
-Sen;
-TRR;
-dal;
-Vin;
-ena;
-cno;
-LP;
-HPD;
-LNB;
-mai;
-CQO;
-EDS;
-AQL;
-Gnd;
-HDS;
-SMB;
-CHM;
-CHN;
-BPN;
-el;
-TWN;
-ny;
-QKT;
-Luc;
-Cai;
-FWP;
-exp;
-LSB;
-vor;
-Npi;
-GOB;
-ERD;
-Ctl;
-Wac;
-BUV;
-Tom;
-dtc;
-Vdc;
-VXP;
-Prt;
-SPP;
-Kun;
-NEY;
-PMD;
-TEO;
-fnd;
-amb;
-ss;
-CTC;
-HVC;
-Fai;
-sem;
-iun;
-bot;
-WRS;
-Tag;
-ctn;
-OCE;
-BHF;
-WTP;
-RDI;
-UVW;
-LTO;
-Vd;
-PCV;
-Kap;
-MRC;
-CUu;
-NAT;
-ICR;
-uan;
-AWL;
-Nn;
-ply;
-Afi;
-fie;
-fct;
-dff;
-HRM;
-EQH;
-Cfr;
-MVP;
-Peh;
-Dam;
-vf;
-UO;
-WDT;
-NOE;
-OB;
-wbs;
-TIR;
-MFG;
-diu;
-Pc;
-Fl;
-IOA;
-Ech;
-EOW;
-ADS;
-BMD;
-RG;
-Zin;
-kwh;
-TOD;
-LQ;
-APR;
-ebd;
-EXT;
-dbl;
-Tat;
-DIE;
-BCI;
-OS;
-tem;
-EFC;
-RB;
-QS;
-UAE;
-Ics;
-OEE;
-Jie;
-RIF;
-pls;
-GFR;
-ECV;
-Yun;
-yld;
-VOM;
-UL;
-ULT;
-TSL;
-Iss;
-EDA;
-LPO;
-isk;
-GSD;
-MAP;
-BQ;
-ohm;
-Wax;
-COY;
-JW;
-Qrr;
-PSA;
-BIZ;
-aa;
-ChR;
-Jee;
-eV;
-Mal;
-Van;
-TRE;
-ARL;
-BBB;
-ToF;
-È;
-Sam;
-NOF;
-Def;
-Dma;
-eau;
-HSS;
-Hp;
-PWA;
-Cat;
-WHZ;
-wut;
-CHs;
-Ine;
-lat;
-boe;
-WU;
-Lo;
-AES;
-BMC;
-usa;
-JR;
-LIV;
-TPM;
-Arc;
-lay;
-IBO;
-mtx;
-INP;
-sia;
-HB;
-FPD;
-TTT;
-PRX;
-pep;
-Leo;
-TAB;
-STI;
-AED;
-VDC;
-fu;
-ALS;
-csn;
-ilT;
-CQS;
-JLT;
-mel;
-aul;
-HRS;
-pwm;
-ase;
-FcI;
-PFA;
-ddp;
-Tze;
-CoX;
-SVP;
-pzt;
-HCI;
-Hdp;
-KHU;
-Qox;
-chD;
-HPK;
-LAO;
-ppl;
-LAU;
-RFI;
-DBV;
-ROS;
-TOK;
-GDN;
-STE;
-ROW;
-PGo;
-edg;
-IBS;
-HVS;
-TX;
-WVI;
-Tvx;
-HMB;
-amk;
-cod;
-Ras;
-eso;
-Mkt;
-ars;
-QBH;
-DBH;
-TCN;
-AEX;
-Ios;
-PKG;
-Mft;
-Ych;
-nbl;
-VTp;
-mam;
-OCV;
-FTS;
-btn;
-WSO;
-nel;
-Asm;
-fur;
-UAM;
-PNE;
-Jay;
-STi;
-WBE;
-EPM;
-Cas;
-fis;
-SOG;
-uo;
-Dar;
-MIX;
-Eau;
-lsm;
-NUP;
-RV;
-amp;
-TGT;
-SUG;
-ndi;
-cut;
-FRT;
-XOR;
-MIM;
-Vk;
-pup;
-ecu;
-XR;
-SST;
-DNA;
-EF;
-Av;
-IMB;
-abd;
-rox;
-cfr;
-ANE;
-TLM;
-DH;
-pod;
-ì;
-DxZ;
-CPS;
-VL;
-btw;
-QT;
-dd;
-Ate;
-PWL;
-CCD;
-Cb;
-aSi;
-axl;
-rom;
-RAM;
-skw;
-VMI;
-Sba;
-fIb;
-qd;
-tre;
-ims;
-LFs;
-Agr;
-Dia;
-XDu;
-Qua;
-TÜV;
-eof;
-GLx;
-PQP;
-HTs;
-OpA;
-HVP;
-MHD;
-GRR;
-GOX;
-frm;
-KEW;
-FAP;
-bhd;
-FPM;
-oil;
-PGA;
-nou;
-BBi;
-sIc;
-Wu;
-Wb;
-RTH;
-GNB;
-CTO;
-AA;
-IIN;
-Gil;
-FN;
-EVK;
-ame;
-wl;
-lO;
-dpo;
-PAM;
-hd;
-UVP;
-zOT;
-Sze;
-FMG;
-bor;
-fra;
-DSQ;
-WDI;
-TFI;
-pxl;
-dam;
-dyr;
-MSI;
-KT;
-ANA;
-CAD;
-flo;
-LOC;
-ESI;
-ns;
-bnx;
-Ein;
-CRs;
-AFC;
-SLR;
-Jem;
-LFM;
-Qfn;
-Drx;
-EPI;
-Nno;
-mdt;
-MNG;
-WFO;
-DGB;
-SPC;
-TCR;
-OVL;
-wha;
-Mio;
-nv;
-ave;
-Eow;
-lié;
-Lay;
-jn;
-IAC;
-ISS;
-mom;
-NVd;
-RF;
-EQR;
-WT;
-SLS;
-LUW;
-WRC;
-jet;
-srp;
-Shu;
-TSK;
-Dr;
-MCO;
-QE;
-Irm;
-EW;
-SCI;
-dov;
-Rp;
-inn;
-AMP;
-Gli;
-GEN;
-RVT;
-Cnx;
-dot;
-BOB;
-HS;
-DCU;
-Lkg;
-OC;
-Lai;
-BBN;
-pbs;
-IDI;
-VOB;
-Dut;
-ENB;
-HSD;
-KTB;
-IVI;
-pCB;
-FW;
-Zxx;
-HJD;
-AlO;
-ATC;
-ASM;
-HST;
-WiW;
-tot;
-FID;
-ac;
-dw;
-deI;
-mlp;
-Gim;
-FSI;
-sep;
-Dx;
-ECC;
-pwp;
-Stn;
-otp;
-Di;
-fii;
-UIE;
-è;
-MEG;
-fer;
-FPU;
-Tdp;
-XON;
-ekc;
-Lat;
-PPS;
-pry;
-Bad;
-MSB;
-FT;
-gun;
-VTn;
-GAN;
-Hts;
-ins;
-TL;
-zqc;
-BBI;
-FTB;
-Dab;
-EOS;
-TVS;
-WGL;
-AOL;
-EPE;
-AgF;
-IEC;
-RCA;
-MMM;
-SCT;
-SKM;
-YL;
-pò;
-Por;
-Mod;
-JUN;
-WB;
-GOO;
-Sem;
-DNF;
-PNA;
-EFR;
-mxd;
-LGA;
-Iii;
-bay;
-los;
-Jeo;
-TAU;
-MI;
-vo;
-TFR;
-Smd;
-OVC;
-RIB;
-SUN;
-COT;
-UVH;
-KMC;
-IQE;
-RTD;
-Thb;
-VGM;
-SPM;
-WFC;
-EVG;
-lga;
-dns;
-USI;
-aso;
-svr;
-PEK;
-Hfe;
-BCM;
-VTO;
-OCC;
-HHG;
-HAO;
-WTR;
-Apg;
-FQ;
-cb;
-PO;
-Chm;
-inv;
-YW;
-ppm;
-ALT;
-DCG;
-AJ;
-TEH;
-RAP;
-SNR;
-EDR;
-MRP;
-Lap;
-PUL;
-wax;
-Hte;
-CPx;
-ENG;
-Iav;
-Acs;
-ip;
-chx;
-Xu;
-fil;
-TIA;
-pak;
-NLS;
-ECT;
-Mtx;
-Csr;
-NDI;
-dle;
-PDU;
-lab;
-Zrl;
-Cro;
-Uni;
-pto;
-WLA;
-HEX;
-BLP;
-RDl;
-API;
-WK;
-TEB;
-ddt;
-kla;
-Alk;
-DB;
-BOT;
-fim;
-gds;
-ICM;
-prb;
-EDC;
-cts;
-DIF;
-pnp;
-LTE;
-NIT;
-Rth;
-mis;
-FOG;
-Tl;
-tei;
-IPG;
-LW;
-FSW;
-SSW;
-Hxx;
-IP;
-bip;
-SBY;
-PDA;
-RAY;
-Poi;
-QD;
-ENg;
-Clk;
-Kai;
-WOx;
-RWK;
-ime;
-SPK;
-ood;
-UJ;
-VK;
-teh;
-ABS;
-bk;
-PDM;
-XIR;
-OCM;
-BQI;
-DL;
-Lib;
-Rr;
-INM;
-IIH;
-Edx;
-LNA;
-Hao;
-VDG;
-JTE;
-RSB;
-Ito;
-pcm;
-OBN;
-più;
-JPP;
-GOH;
-Wei;
-met;
-Prd;
-oa;
-VBL;
-PCG;
-pcp;
-Ark;
-vbd;
-ECB;
-tfr;
-nex;
-cop;
-RAD;
-Coc;
-NCM;
-VLT;
-IOL;
-Met;
-TiO;
-Xe;
-RBS;
-fon;
-TPV;
-tpy;
-NOG;
-YAO;
-PMS;
-aut;
-FBE;
-TNA;
-lwe;
-fno;
-PET;
-Vrm;
-GES;
-SoC;
-Zen;
-DSI;
-tbc;
-RSH;
-Hv;
-DMR;
-ums;
-sxp;
-DDL;
-XXX;
-wto;
-ONG;
-SPN;
-ZEP;
-spi;
-Jet;
-RAS;
-Bin;
-WtW;
-XDT;
-EOx;
-kif;
-Opr;
-LSP;
-SHI;
-oos;
-HCL;
-Rx;
-lvs;
-POS;
-fan;
-ew;
-TiN;
-VDP;
-fck;
-SSR;
-THb;
-BSK;
-GX;
-WPB;
-VF;
-CKN;
-MPS;
-Sgp;
-VBP;
-STB;
-Kia;
-Set;
-Loo;
-CPL;
-sûr;
-EAM;
-XA;
-CSS;
-gir;
-CRP;
-MID;
-LTN;
-Fis;
-SSF;
-upt;
-ved;
-DIR;
-Abd;
-NV;
-BUS;
-CEZ;
-CAP;
-afm;
-bue;
-RPC;
-Qi;
-bet;
-SRM;
-PMP;
-Fei;
-VLD;
-XPT;
-HAL;
-Wi;
-ode;
-LCP;
-EMC;
-Fie;
-CCI;
-sla;
-CAF;
-iv;
-NTF;
-tun;
-CHR;
-SUI;
-die;
-Pts;
-nch;
-BBK;
-Odd;
-Bow;
-SOL;
-Ya;
-WFs;
-INx;
-Vbo;
-PMs;
-OCL;
-LKG;
-Max;
-TLS;
-RPD;
-LNM;
-Ct;
-OAK;
-ERO;
-Drm;
-PEP;
-PDI;
-BPF;
-Iib;
-DGO;
-DAL;
-lau;
-ESD;
-gnb;
-EOI;
-wil;
-PRS;
-dég;
-leu;
-MDB;
-DP;
-leg;
-SSD;
-TMS;
-XS;
-frs;
-BSF;
-UVT;
-DLL;
-dee;
-Epy;
-GHz;
-ZRO;
-wan;
-amd;
-Pte;
-ATK;
-BSI;
-FWS;
-Dif;
-Ded;
-Vt;
-mie;
-Apr;
-Zn;
-GEL;
-DDE;
-CPK;
-Waf;
-FOT;
-Yih;
-ptt;
-IBM;
-Ipd;
-PQR;
-ifo;
-cji;
-TAN;
-cpc;
-GCI;
-FS;
-ART;
-dpn;
-REQ;
-PhR;
-Zp;
-KAR;
-qls;
-HBV;
-UNI;
-ecp;
-PS;
-CCC;
-WP;
-Joy;
-DNC;
-BMF;
-GeN;
-cmq;
-NEB;
-TRS;
-Bal;
-VRJ;
-Ipc;
-POL;
-tIW;
-BPI;
-ISO;
-NVT;
-SAE;
-DC;
-UH;
-SDa;
-MSC;
-dif;
-nnn;
-mJ;
-REV;
-SÜD;
-cav;
-doo;
-opf;
-ELL;
-Lip;
-Dip;
-REL;
-DEO;
-MXZ;
-Lg;
-ILF;
-AGR;
-GHx;
-suo;
-CVD;
-TPH;
-GOF;
-BC;
-PRQ;
-én;
-vla;
-TMR;
-DQE;
-FAs;
-POA;
-MIS;
-Vbd;
-SVR;
-FOE;
-MDI;
-MIN;
-Idd;
-Huy;
-bdp;
-Lan;
-CDR;
-MED;
-Amg;
-Ax;
-POW;
-idi;
-Fa;
-ACO;
-Fpn;
-oft;
-QBA;
-tôt;
-ob;
-Wen;
-WAC;
-VCA;
-Vup;
-Sao;
-Cpd;
-var;
-Tiw;
-TCK;
-DCO;
-WLT;
-ARM;
-REP;
-RCB;
-pi;
-OES;
-gum;
-Dbl;
-INN;
-RGA;
-PTB;
-ent;
-DPA;
-hw;
-TEg;
-FQS;
-wid;
-SSE;
-MDG;
-Jan;
-UF;
-Brd;
-ALU;
-uuu;
-GC;
-qq;
-MMµ;
-Taa;
-AOR;
-ABR;
-FU;
-PSD;
-HLI;
-chk;
-FOB;
-RX;
-VTM;
-éét;
-wii;
-EFK;
-Dri;
-tag;
-SAT;
-vz;
-IBL;
-rec;
-BEX;
-TOU;
-ROM;
-CRS;
-zy;
-QEC;
-os;
-rft;
-PLY;
-nom;
-poy;
-RAm;
-ÊMX;
-PXI;
-CHS;
-txp;
-set;
-MMY;
-SFD;
-esi;
-del;
-SPI;
-QH;
-efa;
-EMI;
-atf;
-FP;
-VBE;
-CKE;
-ana;
-vdc;
-Obj;
-FOD;
-TxT;
-Exp;
-dti;
-EPi;
-vd;
-iin;
-SMA;
-NRA;
-vle;
-Fil;
-Poh;
-Rg;
-SEH;
-RDT;
-CUI;
-GEO;
-Oui;
-CQF;
-ock;
-aun;
-SRB;
-tmc;
-HVT;
-che;
-odi;
-BPO;
-PhA;
-AOX;
-PPA;
-sae;
-ctm;
-WEI;
-ZnO;
-BDU;
-sx;
-ème;
-axe;
-SMF;
-Vgd;
-PTM;
-DSM;
-nie;
-FAN;
-TOW;
-UCH;
-imm;
-ecd;
-war;
-yaw;
-std;
-UPE;
-OOR;
-FNO;
-MWE;
-RCP;
-DMP;
-ocs;
-TBD;
-mgt;
-Tao;
-JBS;
-Adv;
-HOS;
-Eol;
-Tec;
-CSE;
-ATP;
-UT;
-Xra;
-LAb;
-WPe;
-WSC;
-por;
-KLM;
-CUT;
-TNT;
-hor;
-DVD;
-YK;
-tjs;
-zcd;
-BCU;
-CBU;
-Pwm;
-bu;
-Ees;
-Kev;
-MSL;
-PoC;
-DBB;
-Ig;
-PEX;
-axi;
-VDS;
-beu;
-Ove;
-ABI;
-fom;
-EFO;
-PBC;
-Lil;
-ATF;
-Pod;
-tch;
-oon;
-XT;
-rcb;
-Gds;
-HSI;
-tap;
-DVS;
-Kah;
-ffu;
-lon;
-deL;
-hrs;
-WL;
-Pok;
-QIN;
-pIQ;
-OTG;
-ZHU;
-NIV;
-LAW;
-EQT;
-Adg;
-pot;
-NPW;
-oOS;
-ASS;
-JN;
-YMP;
-CGW;
-MUX;
-BJT;
-PEC;
-Joo;
-gtm;
-Pat;
-Cad;
-NB;
-MTL;
-lse;
-STO;
-tpo;
-APG;
-RHO;
-Pei;
-Ron;
-ROn;
-STP;
-ea;
-LiP;
-CMQ;
-cré;
-PLF;
-VW;
-UD;
-TSA;
-cel;
-PWM;
-TAP;
-Pro;
-Cox;
-TiF;
-DEG;
-SUi;
-FOL;
-GHI;
-HBr;
-aon;
-tro;
-SAG;
-YEM;
-SPG;
-BGN;
-JUL;
-aps;
-RDS;
-LOI;
-sac;
-Snt;
-AMF;
-biz;
-Adc;
-poa;
-UC;
-ldd;
-XI;
-DBF;
-Rox;
-APF;
-LVX;
-usg;
-DMA;
-EFL;
-AFH;
-Pvd;
-RC;
-OBS;
-Ims;
-age;
-jrs;
-NCP;
-VUE;
-PDL;
-XIN;
-pya;
-FcQ;
-TIm;
-WRT;
-EDP;
-mus;
-Sel;
-CDM;
-Pic;
-GCS;
-pvd;
-AMR;
-imp;
-DI;
-AlF;
-unr;
-SOB;
-UIS;
-Vpp;
-Yan;
-Liu;
-Hau;
-NN;
-gia;
-GAZ;
-MUS;
-LDR;
-TCO;
-TIW;
-OLR;
-num;
-SP;
-nro;
-Og;
-Kal;
-NAC;
-Win;
-AKE;
-GIF;
-Alt;
-FTC;
-orn;
-ooS;
-EBO;
-TPD;
-lei;
-fig;
-RK;
-DEL;
-uv;
-XC;
-Chk;
-CKB;
-TEG;
-LIM;
-WBP;
-val;
-sky;
-BOW;
-DRI;
-SIN;
-EEA;
-Dis;
-LCO;
-odf;
-VLL;
-Rib;
-Vtm;
-BPS;
-SUl;
-Ctn;
-uen;
-PMd;
-PSE;
-WAX;
-LD;
-ppt;
-Sun;
-ail;
-nwe;
-wnt;
-eol;
-EMU;
-KGK;
-SAM;
-PUF;
-DLC;
-LHR;
-SXM;
-CTA;
-CpK;
-Mic;
-TOF;
-HAP;
-BBP;
-TXP;
-DPD;
-TOH;
-fa;
-Vxr;
-CSK;
-TCB;
-ctt;
-feb;
-Fan;
-tuo;
-Ib;
-WSS;
-UPC;
-wks;
-URC;
-JVC;
-apr;
-SEm;
-LFO;
-LEO;
-SIM;
-IUP;
-Pad;
-fà;
-Dyn;
-Ant;
-MTU;
-Opt;
-ZAJ;
-RIE;
-RAT;
-UNO;
-Ace;
-doi;
-FMF;
-LEG;
-log;
-VIS;
-VFD;
-RIQ;
-TeC;
-AC;
-hlt;
-SDS;
-alu;
-Tap;
-ILV;
-imd;
-XXL;
-CLB;
-TRC;
-EPP;
-WxP;
-CDs;
-HFE;
-TID;
-DVT;
-FAF;
-ira;
-LVP;
-Vue;
-DQM;
-LIT;
-ver;
-Ops;
-ECR;
-CMU;
-CNR;
-MMS;
-ome;
-ddo;
-hFE;
-Sma;
-AGT;
-RSM;
-od;
-Pto;
-Hoe;
-MiM;
-wt;
-Dir;
-UMF;
-tet;
-Bao;
-Ias;
-Ida;
-OSF;
-SPB;
-pPT;
-GFI;
-Red;
-DED;
-Asg;
-lle;
-qua;
-PaD;
-fal;
-zig;
-DIC;
-DMD;
-HW;
-FQA;
-rue;
-sto;
-SUL;
-VAR;
-vt;
-att;
-GPA;
-hpg;
-Zhu;
-AIP;
-AAC;
-asm;
-RBO;
-UAR;
-GST;
-PSC;
-AFE;
-icc;
-CNT;
-ERH;
-ps;
-dbm;
-épi;
-sin;
-BSE;
-DYN;
-mix;
-SLB;
-lsd;
-XM;
-FEM;
-nez;
-cio;
-pbY;
-brd;
-dpa;
-ide;
-Rj;
-em;
-QGN;
-XB;
-fsy;
-VRS;
-FLI;
-Ser;
-fpr;
-DLV;
-bei;
-Lam;
-tdk;
-ANC;
-AGM;
-pFA;
-FPY;
-Bis;
-JEM;
-UTI;
-SND;
-qlc;
-NY;
-Po;
-BCB;
-uC;
-Gel;
-FGA;
-LVT;
-AMK;
-RWW;
-TRU;
-Qg;
-wso;
-RLM;
-VCD;
-vmi;
-wy;
-KYC;
-OPM;
-GRN;
-GoF;
-xet;
-Mya;
-EFA;
-mio;
-wg;
-xls;
-Pxx;
-odd;
-Ela;
-PEN;
-fro;
-ATe;
-RON;
-typ;
-Riq;
-SCS;
-LFA;
-Cav;
-usb;
-ERL;
-jbs;
-Add;
-xj;
-aà;
-GPL;
-LSA;
-EIT;
-DRV;
-LAM;
-LRF;
-SUD;
-vv;
-IRR;
-AXA;
-adc;
-UDx;
-QFN;
-mos;
-uno;
-AAt;
-TIF;
-pad;
-Pio;
-QMI;
-SLP;
-SOE;
-COW;
-lim;
-FC;
-ahs;
-Dxx;
-CBs;
-PTT;
-IMD;
-wts;
-Ory;
-mia;
-ACS;
-ric;
-dft;
-ENn;
-XY;
-Yld;
-WEL;
-auf;
-LKA;
-MF;
-CPD;
-ds;
-yop;
-TUO;
-FLX;
-Ngo;
-arr;
-DIV;
-alc;
-CoW;
-OQ;
-wre;
-pck;
-bnd;
-dpi;
-CLV;
-QQ;
-EA;
-ddd;
-nvd;
-MEb;
-EIG;
-LCL;
-HMM;
-stk;
-ful;
-KON;
-Wj;
-SEB;
-FG;
-Wfr;
-CMR;
-Asd;
-ILT;
-CRF;
-swp;
-BCP;
-Vcc;
-PAD;
-ITF;
-ATE;
-DIL;
-TED;
-DHF;
-Tsi;
-USO;
-NSW;
-Ptd;
-DFM;
-SGP;
-OIC;
-Dot;
-TRD;
-lmk;
-PWR;
-NEI;
-MSS;
-Vsx;
-CFA;
-BER;
-Mux;
-bsk;
-SSP;
-BHS;
-WIN;
-PIK;
-ven;
-EoW;
-ct;
-FSL;
-mph;
-DOP;
-LAT;
-IGT;
-MCS;
-War;
-APD;
-TEM;
-eco;
-Prs;
-Ip;
-MGM;
-MIG;
-Trd;
-BNP;
-SFR;
-SEV;
-Ado;
-PCE;
-RAL;
-BX;
-SNA;
-WRK;
-sog;
-WPI;
-MOD;
-BDs;
-PZ;
-KAB;
-PUO;
-sBL;
-AIm;
-DHC;
-pus;
-AB;
-Vds;
-esp;
-gaN;
-DDD;
-eun;
-DWL;
-uis;
-ipp;
-som;
-PoR;
-HTS;
-OST;
-ra;
-Chs;
-TCS;
-Spe;
-GAp;
-CPC;
-kHz;
-MSD;
-TAG;
-ODR;
-uil;
-ThS;
-CDD;
-HJT;
-Cxx;
-MHP;
-CRO;
-UVa;
-qfp;
-IVF;
-BLR;
-Guy;
-fT;
-AUG;
-clk;
-hRF;
-src;
-eUP;
-vdp;
-ict;
-Mcd;
-CLS;
-etr;
-AUD;
-Jin;
-ERA;
-Tem;
-OPI;
-XOP;
-Gen;
-APf;
-ORA;
-ko;
-ANL;
-TTL;
-Arm;
-cin;
-pce;
-WxL;
-nus;
-JCR;
-OCS;
-Jia;
-TNk;
-EPO;
-Pre;
-kit;
-UPD;
-KCC;
-PVD;
-DTT;
-bec;
-Niv;
-CUM;
-Gan;
-PBG;
-bee;
-hbm;
-cul;
-ISM;
-obs;
-pSV;
-LPF;
-Yen;
-rea;
-CVS;
-Ray;
-CEL;
-Key;
-XX;
-TDM;
-CW;
-Reh;
-dil;
-det;
-MVI;
-BTW;
-zep;
-Lx;
-SBD;
-ivi;
-pct;
-LSL;
-Mcp;
-LVS;
-HVN;
-Vo;
-IC;
-BIN;
-AAA;
-wfS;
-HF;
-HIC;
-WDC;
-pde;
-SiP;
-THT;
-ULK;
-PCF;
-Tie;
-tec;
-GAU;
-SOD;
-LSM;
-Bus;
-das;
-CAC;
-PAd;
-dy;
-ep;
-Dl;
-op;
-HZ;
-tra;
-BVR;
-key;
-rRF;
-Dao;
-JU;
-abs;
-CIR;
-RDC;
-iIN;
-QTI;
-CTK;
-yy;
-Bot;
-FRD;
-CSP;
-NTD;
-lm;
-Vj;
-rie;
-DPC;
-BAA;
-SiH;
-aft;
-VBS;
-Meb;
-dry;
-pzB;
-VOH;
-AEs;
-Hun;
-Hsi;
-Ic;
-FBB;
-vbr;
-laa;
-fli;
-woo;
-psq;
-ECO;
-SCC;
-pcb;
-ZGO;
-Hd;
-Mhz;
-GIO;
-suu;
-Dig;
-ITO;
-OQC;
-MMD;
-Fam;
-LMF;
-BCi;
-BP;
-DUT;
-TRw;
-LAB;
-edn;
-ap;
-mêm;
-lvt;
-vih;
-LSx;
-wip;
-hgh;
-MTF;
-chè;
-EEB;
-SXP;
-Wan;
-Yin;
-pZ;
-WSi;
-Frq;
-Nb;
-Hs;
-OHM;
-Mox;
-MMB;
-Kit;
-Osc;
-SCU;
-SBA;
-WBU;
-dui;
-CAM;
-DEv;
-OoS;
-dev;
-sii;
-MIV;
-rif;
-IPP;
-VX;
-DNP;
-AMG;
-Edb;
-CAI;
-Paw;
-FEI;
-ChA;
-rho;
-Mgt;
-SF;
-CBQ;
-AZO;
-MiR;
-FOC;
-CQA;
-USD;
-HTF;
-cpk;
-YP;
-BPR;
-WSX;
-VIL;
-MMC;
-art;
-Jit;
-Pel;
-VOI;
-GLI;
-Pwr;
-csd;
-lla;
-spr;
-DFP;
-BIP;
-Oil;
-seq;
-Cp;
-VH;
-GIR;
-EUR;
-tbd;
-chC;
-VJ;
-dis;
-ROY;
-BLZ;
-cuf;
-XD;
-CUK;
-TOh;
-ISL;
-Shd;
-SPL;
-nvl;
-BFx;
-isa;
-lop;
-Pcs;
-Cpk;
-Piu;
-BAJ;
-Atm;
-ALE;
-wj;
-BMI;
-Mep;
-CPA;
-UPH;
-sig;
-Vge;
-Lim;
-aea;
-Hrs;
-QB;
-ASE;
-RMA;
-JuP;
-DIW;
-USB;
-MEB;
-rAY;
-Zap;
-Vtp;
-Dry;
-pQF;
-GAY;
-Isk;
-Mei;
-SAm;
-IW;
-dye;
-FUL;
-SEM;
-DX;
-SHT;
-Dou;
-CHY;
-npn;
-Qbd;
-WV;
-sma;
-Del;
-ZAP;
-ADZ;
-Mmd;
-LPE;
-anl;
-IVA;
-fox;
-ERF;
-SMT;
-Mcu;
-qqs;
-REJ;
-IMc;
-CCS;
-CMP;
-fei;
-Wrp;
-DIl;
-Ti;
-µs;
-nn;
-nvx;
-cus;
-Fro;
-xSD;
-mrb;
-Rf;
-HSA;
-aqs;
-dv;
-MOX;
-VCG;
-VAC;
-REY;
-Mao;
-ISQ;
-AYY;
-cyc;
-bgn;
-bal;
-NCT;
-WFS;
-lif;
-dia;
-HD;
-sun;
-max;
-CDx;
-von;
-Vf;
-SFA;
-lec;
-HSH;
-NXP;
-wfr;
-mor;
-PBs;
-TDO;
-mns;
-AIM;
-Nit;
-CNW;
-EMM;
-EOw;
-sef;
-FDO;
-CLK;
-VGO;
-VMP;
-vsT;
-RPR;
-msl;
-EDx;
-voi;
-SUA;
-PAx;
-sax;
-bed;
-wie;
-SRL;
-kev;
-PbS;
-Rbb;
-XPS;
-Vrh;
-IOs;
-CHK;
-IPS;
-Tin;
-ERR;
-IFV;
-NOA;
-RSD;
-MAA;
-Bsk;
-CEI;
-TIN;
-DCB;
-LDD;
-pj;
-LSI;
-add;
-SHL;
-SCB;
-Vod;
-SDM;
-AOI;
-DCC;
-PCL;
-POU;
-edl;
-CDT;
-PQS;
-AME;
-Foe;
-VEN;
-din;
-PIO;
-VSL;
-dI;
-ATW;
-hai;
-IIL;
-VLX;
-Smb;
-ATS;
-arm;
-KCY;
-PSB;
-MBB;
-MAK;
-Oon;
-iih;
-SMP;
-WBS;
-BOU;
-Toa;
-sot;
-FOX;
-vnc;
-umA;
-bLt;
-BRP;
-CHF;
-KEV;
-VRH;
-EHT;
-Azo;
-RVB;
-wb;
-Dà;
-ALO;
-Evo;
-MCA;
-deu;
-bur;
-QIP;
-SQI;
-Led;
-RPW;
-col;
-PAI;
-RGB;
-Ind;
-KTV;
-JK;
-pso;
-BEF;
-Pkg;
-puu;
-DOM;
-MDX;
-OVV;
-pb;
-WWK;
-SQA;
-FE;
-DOE;
-TAY;
-MAG;
-eb;
-RH;
-Rnd;
-HDO;
-Pi;
-ere;
-AX;
-ann;
-ono;
-BAG;
-TCI;
-SFS;
-SIP;
-OBC;
-FPG;
-bga;
-Gof;
-Acc;
-OPT;
-GUN;
-eq;
-EGG;
-ydf;
-GWC;
-EVO;
-NDV;
-RSU;
-CuO;
-TSW;
-REl;
-Eve;
-oC;
-cys;
-SIc;
-Ann;
-éco;
-uff;
-Sul;
-DCS;
-Att;
-HHH;
-LH;
-ZDi;
-VSS;
-HRW;
-SFT;
-acc;
-PDP;
-CUH;
-PMB;
-IAK;
-Hoo;
-Nei;
-hh;
-ret;
-PV;
-lct;
-Koh;
-CoF;
-ADN;
-Xs;
-NiV;
-JAN;
-avc;
-txf;
-FCI;
-ACK;
-SUE;
-Ste;
-kWh;
-Gia;
-CMC;
-LO;
-NEP;
-Idl;
-vth;
-Uno;
-GOI;
-XRD;
-Min;
-LHC;
-ATB;
-EEC;
-ICV;
-MSP;
-CMM;
-ile;
-wa;
-KRN;
-SDA;
-SiO;
-oly;
-dip;
-EBR;
-Ash;
-DTS;
-Vth;
-BOx;
-LIQ;
-UBD;
-FOM;
-Dbc;
-TDL;
-pIN;
-Abn;
-PiQ;
-bul;
-EGE;
-DF;
-VGD;
-USA;
-QFX;
-PBx;
-Flo;
-Ov;
-Ips;
-iul;
-AET;
-CUP;
-POR;
-VDH;
-MCM;
-CKL;
-dbc;
-sbf;
-Oct;
-ALu;
-WTi;
-eac;
-BSC;
-BFT;
-QFB;
-PQA;
-ATQ;
-RSF;
-PUU;
-OKM;
-ooc;
-xxx;
-hee;
-BOG;
-VM;
-wsi;
-RTE;
-CIN;
-Pz;
-UCP;
-SBP;
-GDS;
-JIH;
-mem;
-FH;
-sck;
-ia;
-ies;
-PLL;
-Ri;
-INL;
-Ld;
-VCC;
-sdr;
-Lga;
-iMX;
-wc;
-RTC;
-HfO;
-Mlt;
-PPC;
-sir;
-air;
-Fer;
-Dap;
-ROP;
-QAF;
-SCA;
-µM;
-red;
-ASD;
-KKD;
-rxt;
-WIH;
-Tau;
-GDR;
-mar;
-DR;
-ENA;
-IFA;
-Vss;
-Sue;
-SKY;
-Lab;
-BSA;
-siC;
-CPI;
-Wpt;
-LSC;
-TNF;
-Xin;
-Pld;
-xcr;
-DLS;
-Ciò;
-PAL;
-LUO;
-Tir;
-NiP;
-GIA;
-Mis;
-sdo;
-Cmd;
-VUS;
-IGt;
-ang;
-NEC;
-Sea;
-ope;
-ITR;
-PnP;
-piq;
-LGD;
-CT;
-idd;
-PRT;
-Hua;
-ths;
-SPA;
-dul;
-Imd;
-Eva;
-MAR;
-KOH;
-MEK;
-mur;
-ttf;
-apx;
-HAI;
-VLS;
-SAF;
-Tun;
-Kk;
-Nm;
-Guz;
-PSG;
-tep;
-phd;
-DCL;
-eox;
-ben;
-ILK;
-PTE;
-CEN;
-SOA;
-Hb;
-VOR;
-thb;
-IRs;
-Rep;
-MTX;
-XRR;
-CQ;
-SEL;
-Xi;
-bod;
-McU;
-OCP;
-AST;
-ya;
-OOS;
-IQA;
-RSC;
-ARH;
-SBH;
-wey;
-IDS;
-mak;
-Aug;
-Rel;
-LVN;
-EWS;
-BIT;
-rs;
-elc;
-Hz;
-ect;
-FBA;
-HVG;
-ul;
-pcs;
-pc;
-SCR;
-bef;
-pgm;
-GAG;
-cnd;
-CCM;
-psg;
-CKR;
-meb;
-puo;
-suI;
-PSS;
-mi;
-FRN;
-VbR;
-VDR;
-SDI;
-PRG;
-Med;
-TI;
-Vma;
-STK;
-MKT;
-ale;
-ccm;
-Ka;
-Mfg;
-BTM;
-TSB;
-GPU;
-ovc;
-CRL;
-Rcp;
-TxZ;
-PFP;
-VO;
-KeV;
-FPR;
-DFD;
-GRG;
-TRA;
-Pvt;
-LLA;
-PRD;
-eFA;
-mcs;
-hfe;
-CSF;
-Amy;
-bac;
-EBC;
-Ibo;
-avl;
-KUA;
-IHJ;
-EOX;
-PTU;
-GUI;
-Vx;
-Wah;
-HPP;
-wi;
-TST;
-NTL;
-adi;
-III;
-iso;
-PNC;
-kV;
-VTh;
-oro;
-ANS;
-CP;
-sen;
-sil;
-EWX;
-unn;
-MCs;
-dés;
-IPB;
-pei;
-RAy;
-CLF;
-DTV;
-DPE;
-CUR;
-WAR;
-mic;
-RFB;
-JLL;
-Dog;
-VFB;
-iqc;
-Gao;
-Hf;
-Già;
-PUM;
-FSP;
-sez;
-GTK;
-Ioh;
-VIN;
-GTM;
-TEE;
-LOE;
-Mae;
-rx;
-bcp;
-EXC;
-abl;
-PCO;
-Fet;
-Wip;
-UBM;
-OoO;
-mod;
-Ana;
-pam;
-FAT;
-Sud;
-peo;
-onj;
-QTR;
-CUF;
-POE;
-WAT;
-Npn;
-pui;
-pez;
-RET;
-JRJ;
-bar;
-ass;
-OOC;
-Rq;
-NGK;
-PTN;
-ipc;
-TME;
-sTI;
-DAG;
-bcb;
-EpI;
-AMC;
-ICC;
-ear;
-SIV;
-TIM;
-WPR;
-TSR;
-Lei;
-VPC;
-CCL;
-mux;
-BIS;
-MoO;
-YAN;
-Dec;
-OLT;
-RES;
-VJA;
-FSF;
-WBp;
-AVO;
-DDR;
-KHO;
-foe;
-ABT;
-fib;
-PLR;
-DBv;
-gen;
-gof;
-MBD;
-Val;
-MRX;
-dcp;
-PNS;
-RNG;
-sdn;
-HSP;
-MET;
-SAL;
-REj;
-ODT;
-èer;
-ABD;
-PEM;
-Eos;
-ctr;
-FWM;
-BAX;
-una;
-TCr;
-VDD;
-cha;
-éme;
-LTX;
-UDX;
-Pop;
-PSI;
-FXC;
-CSR;
-qfn;
-PI;
-rsh;
-PBN;
-Nvx;
-DRM;
-dep;
-apd;
-cvd;
-ei;
-SaM;
-VP;
-NYA;
-ppx;
-EOL;
-SBF;
-DUV;
-TRL;
-Lou;
-MB;
-CVV;
-PVT;
-ITU;
-GIG;
-IDD;
-eà;
-LOD;
-pop;
-ETE;
-bae;
-WEE;
-OpB;
-edi;
-CDP;
-JRK;
-TiW;
-Os;
-GFF;
-FCA;
-nw;
-MMI;
-WNB;
-cap;
-MCU;
-Vcl;
-FQC;
-Axe;
-GK;
-BDA;
-SNC;
-arc;
-DS;
-Rtc;
-df;
-BDP;
-é;
-LX;
-Vdd;
-SVT;
-MDT;
-ENC;
-eal;
-RoN;
-PHT;
-giù;
-EPA;
-SDC;
-RTS;
-WXL;
-WW;
-HMG;
-Cop;
-sué;
-DHB;
-Kv;
-CRM;
-RED;
-NTC;
-sam;
-ASL;
-Tra;
-ESN;
-Vfb;
-UAQ;
-pch;
-nin;
-DOT;
-Vsd;
-lll;
-Ast;
-FIb;
-ACx;
-SDP;
-VHV;
-Fib;
-VGH;
-rpm;
-Ira;
-lin;
-NBU;
-GON;
-zon;
-IBP;
-JPN;
-DEV;
-DSi;
-BIC;
-dan;
-DRE;
-aHM;
-TLY;
-nuo;
-BWT;
-Ipp;
-ura;
-lf;
-PCS;
-dse;
-wd;
-LLB;
-VAK;
-NCR;
-AMb;
-HLT;
-god;
-pbm;
-tan;
-ACI;
-loy;
-rdl;
-rev;
-HSQ;
-EBD;
-Tee;
-esr;
-SOP;
-EVA;
-TFB;
-pun;
-EOT;
-DIe;
-HRK;
-Fox;
-OPC;
-Mtl;
-SBS;
-ssg;
-VUR;
-Msd;
-tox;
-XRF;
-Ong;
-lam;
-ISP;
-Axl;
-SPU;
-Ful;
-REC;
-pow;
-KRG;
-sim;
-AXL;
-noi;
-tla;
-Daf;
-vec;
-IV;
-IUC;
-MAI;
-bsa;
-OCR;
-IMC;
-nè;
-spH;
-MLB;
-CHD;
-Wl;
-nop;
-POP;
-TCU;
-mbd;
-TaO;
-µA;
-SMO;
-BIE;
-NVM;
-PSV;
-Fin;
-TVC;
-epr;
-Vgs;
-Npd;
-FET;
-CMF;
-DTN;
-COA;
-QLF;
-NRS;
-ATO;
-sic;
-SFV;
-STC;
-Nxx;
-HTC;
-AFR;
-tha;
-Nom;
-NCS;
-USG;
-Tqm;
-bad;
-CAT;
-Lin;
-CPN;
-NIR;
-SER;
-Oro;
-FEB;
-SiN;
-ded;
-càd;
-ciò;
-OVS;
-HTN;
-tx;
-ChB;
-µH;
-fne;
-rig;
-LSb;
-APC;
-LVG;
-NSX;
-LOS;
-Nch;
-sde;
-BAD;
-KGR;
-bow;
-FIN;
-BeO;
-SRR;
-Sys;
-FVT;
-boo;
-SDR;
-ndt;
-FTV;
-nle;
-DiW;
-OA;
-Vbr;
-fh;
-ICL;
-DGF;
-obi;
-QR;
-WKS;
-Qqs;
-STS;
-Neg;
-psv;
-Mia;
-wir;
-OG;
-lea;
-AY;
-AFM;
-osc;
-fIB;
-Dai;
-KOR;
-bxr;
-SIT;
-pz;
-HPT;
-eni;
-NVD;
-den;
-WD;
-DoE;
-OIT;
-BKW;
-DD;
-dûs;
-vdh;
-jvt;
-CTc;
-PRA;
-Ctc;
-EDW;
-Iot;
-SRx;
-PTA;
-NSS;
-VNC;
-Bar;
-lor;
-WRL;
-Kam;
-EQC;
-Rs;
-pdf;
-Ydf;
-gte;
-Qr;
-prg;
-OAO;
-ue;
-FFI;
-TDK;
-EPC;
-OIL;
-LHS;
-App;
-Pls;
-pwt;
-UV;
-UHR;
-snr;
-stc;
-Ltx;
-rc;
-bOM;
-DBC;
-bag;
-wfs;
-AVV;
-CDA;
-TSF;
-hcd;
-qaf;
-MCD;
-EO;
-ocn;
-VT;
-MOM;
-COO;
-CRC;
-vpp;
-Joe;
-pmc;
-VPD;
-HTO;
-MTR;
-PLQ;
-nAu;
-NNK;
-div;
-VPS;
-FiB;
-PFM;
-FTR;
-DPG;
-bou;
-CMS;
-Bga;
-Anl;
-vbe;
-CRN;
-PIX;
-Kio;
-Vce;
-taN;
-FB;
-ADI;
-VCM;
-mdo;
-ERE;
-ell;
-Mel;
-Pac;
-OKI;
-voh;
-KMG;
-pix;
-Iit;
-Wp;
-PTS;
-QCA;
-CPE;
-lOE;
-TUV;
-Lid;
-ony;
-ALF;
-DFN;
-CRE;
-NBD;
-DEI;
-BAN;
-plq;
-vgs;
-LM;
-tsv;
-DSE;
-sà;
-Xps;
-ela;
-BUJ;
-Lao;
-DOL;
-CEA;
-QRP;
-LYd;
-LOT;
-RHS;
-thr;
-SW;
-aid;
-BOM;
-PCP;
-cle;
-PCK;
-FBS;
-DG;
-EVZ;
-hdp;
-gan;
-ost;
-tua;
-RnD;
-BID;
-orm;
-iDD;
-Tij;
-oui;
-pll;
-XLY;
-FIH;
-TRM;
-DEP;
-BSD;
-BAP;
-Xiu;
-DDP;
-PCs;
-Bu;
-SOO;
-tcr;
-DLI;
-SLI;
-coi;
-bl;
-Gox;
-Tb;
-Eff;
-VXO;
-fmt;
-STJ;
-viw;
-PPD;
-TFE;
-TCu;
-RFA;
-cru;
-Map;
-LUP;
-mag;
-dn;
-SDD;
-VSE;
-dor;
-Ss;
-Sac;
-vue;
-pB;
-PZR;
-AGA;
-gpl;
-fA;
-TSE;
-vir;
-QSR;
-Hot;
-OD;
-rej;
-VIO;
-zna;
-OL;
-RTV;
-Lyn;
-DCR;
-MVN;
-DBx;
-DCI;
-BL;
-pâs;
-JET;
-Dye;
-ASY;
-ACJ;
-LN;
-rip;
-goo;
-WFE;
-MTl;
-Reg;
-px;
-TER;
-LIp;
-EHD;
-TFS;
-HTE;
-sta;
-CPk;
-Sq;
-dai;
-KNS;
-AMB;
-Mar;
-PLT;
-SRO;
-ABM;
-eDX;
-BCS;
-ndf;
-DBW;
-UIG;
-El;
-iys;
-LTC;
-fnc;
-AFB;
-Tan;
-FRM;
-Fog;
-CSI;
-BAR;
-PTH;
-MTT;
-PFG;
-NEA;
-Dsc;
-aim;
-blu;
-Ko;
-pfa;
-COB;
-Sp;
-Fen;
-HPG;
-VRM;
-WFR;
-DCM;
-µ;
-vil;
-deo;
-erp;
-RLC;
-ERx;
-PEB;
-EPY;
-RBB;
-wo;
-Mag;
-Isp;
-DAQ;
-dig;
-CTH;
-eqr;
-CLC;
-CFM;
-rim;
-Los;
-BIB;
-EME;
-BRL;
-SEQ;
-CRR;
-PAT;
-ain;
-TXL;
-TMC;
-MOx;
-epd;
-NEi;
-cUT;
-Vio;
-Vte;
-Req;
-abt;
-ESd;
-IoT;
-URD;
-HSC;
-Cib;
-ADC;
-FFT;
-Cld;
-UB;
-XO;
-Ban;
-GEn;
-Blt;
-PSU;
-AHM;
-SWD;
-CAV;
-PWD;
-res;
-PSM;
-qqe;
-VRL;
-PIn;
-EMS;
-unt;
-COF;
-LIL;
-BLI;
-dév;
-Ecc;
-SVC;
-EPS;
-SEZ;
-KLA;
-DRN;
-Nre;
-Nº;
-oS;
-CHA;
-DBT;
-mtb;
-Fre;
-STM;
-PC;
-Qty;
-CSt;
-XLC;
-SPE;
-Xjb;
-bby;
-HiK;
-Gon;
-NSK;
-Yi;
-IVS;
-kt;
-FRA;
-PII;
-Gyo;
-OOB;
-eme;
-OQA;
-DV;
-KEY;
-sui;
-POT;
-PIC;
-XZ;
-WCM;
-Bip;
-ti;
-Swe;
-mal;
-xps;
-RI;
-MIR;
-aou;
-LAI;
-Jhi;
-aSI;
-Sez;
-BYD;
-RQ;
-inf;
-def;
-ASP;
-Sim;
-EFT;
-eng;
-pdt;
-TMA;
-sF;
-ete;
-PHL;
-SiC;
-CAB;
-HAZ;
-Sir;
-tue;
-fly;
-vcc;
-Ssg;
-DVI;
-HCU;
-DVF;
-cnx;
-VTy;
-ste;
-cps;
-Ean;
-TTF;
-Pey;
-VGA;
-MIC;
-Ohm;
-WLC;
-HG;
-PLC;
-HUN;
-Sto;
-LG;
-ril;
-kA;
-RN;
-DTW;
-DAM;
-SMC;
-WSU;
-lvl;
-OWS;
-eVI;
-NAV;
-Nvm;
-BHZ;
-VIE;
-Log;
-UCL;
-Bor;
-dto;
-ICs;
-sue;
-IDR;
-PWG;
-eHQ;
-ROL;
-Nee;
-STD;
-prv;
-ln;
-GAS;
-ui;
-VST;
-HWM;
-rep;
-Ket;
-GPS;
-Kee;
-ax;
-TCT;
-MQK;
-HMO;
-fev;
-PCM;
-VTC;
-pay;
-gnd;
-Dei;
-BGA;
-SPH;
-Pim;
-DOC;
-Trr;
-RTN;
-EQ;
-Cgk;
-Tox;
-rcp;
-Yew;
-ADV;
-SAS;
-THA;
-doe;
-PGE;
-Pul;
-AAT;
-XW;
-Nip;
-BOE;
-EYE;
-Shi;
-tiN;
-EXP;
-EVI;
-LoT;
-LSW;
-MRT;
-Hit;
-teg;
-PDG;
-MCP;
-DNM;
-pou;
-TAE;
-dt;
-ALI;
-smt;
-Ds;
-VHX;
-ij;
-nrj;
-LVI;
-pmd;
-Bit;
-Thk;
-isd;
-LAN;
-THD;
-oct;
-opi;
-Dép;
-FML;
-rad;
-BOD;
-Ks;
-Plq;
-CSM;
-Teg;
-RRP;
-eft;
-ltc;
-NEG;
-IMM;
-WRR;
-Job;
-Sod;
-ZYL;
-xl;
-VON;
-Iae;
-WJ;
-SSL;
-MBO;
-evo;
-opn;
-Air;
-NOV;
-LPN;
-ero;
-ava;
-IA;
-bOX;
-Rev;
-ARF;
-emi;
-dop;
-BKM;
-ATM;
-EoP;
-Hwa;
-QTT;
-tvt;
-ETL;
-sle;
-PPT;
-Pso;
-FEA;
-RDV;
-VRP;
-UNa;
-PRL;
-FWD;
-AHU;
-RCT;
-snk;
-opt;
-ADR;
-HBM;
-UTX;
-LID;
-PB;
-dIE;
-EVT;
-TDR;
-DW;
-taa;
-lap;
-Slo;
-sul;
-WEN;
-sUL;
-CPn;
-Sip;
-gaz;
-Esd;
-LGG;
-lkg;
-rum;
-BUG;
-tru;
-Rxx;
-EPX;
-nat;
-WG;
-Bom;
-ink;
-IPC;
-NDS;
-Irr;
-MEP;
-rew;
-PQE;
-ab;
-VR;
-Dow;
-ri;
-VBG;
-LTP;
-WC;
-Vr;
-PLD;
-Vrf;
-VCL;
-Cir;
-Pin;
-esd;
-Rce;
-Imc;
-AQC;
-scr;
-ray;
-LEM;
-Ctr;
-NCH;
-IHC;
-può;
-nS;
-LEV;
-anr;
-HMx;
-Dpg;
-cfm;
-ESV;
-EVD;
-dun;
-Gui;
-TCD;
-tea;
-fai;
-PSK;
-KGP;
-dap;
-PRE;
-SIA;
-Kcy;
-Ns;
-SPS;
-ASG;
-OPm;
-MIT;
-CTN;
-MHT;
-PRB;
-FAM;
-lie;
-Eqt;
-SCP;
-RL;
-iol;
-VSG;
-NPD;
-IFB;
-APS;
-pin;
-Jy;
-SMM;
-NTT;
-SOH;
-Sui;
-NRG;
-NPN;
-KnS;
-DBL;
-sum;
-YI;
-mac;
-DRC;
-rj;
-PTC;
-VEP;
-pit;
-MOS;
-Pql;
-CPM;
-SPZ;
-DIS;
-PBO;
-dei;
-Roy;
-KO;
-HL;
-ove;
-fow;
-WN;
-LPD;
-hit;
-Nbr;
-kv;
-onn;
-IOH;
-JPG;
-bom;
-Plz;
-ALM;
-PPF;
-XEM;
-enb;
-dow;
-wew;
-CRK;
-Cal;
-OPE;
-CBC;
-BLT;
-VTP;
-slt;
-déf;
-ULA;
-OPB;
-KMS;
-Xay;
-OLP;
-dio;
-oen;
-OPS;
-DRX;
-MNF;
-KGU;
-iIl;
-lip;
-Veh;
-dec;
-HOR;
-uni;
-aba;
-ica;
-RUE;
-ULP;
-oe;
-ZV;
-DLH;
-riz;
-Sum;
-law;
-zoa;
-scm;
-MLP;
-Bug;
-ACC;
-okm;
-Hpc;
-rel;
-Ems;
-INB;
-IPM;
-PQF;
-TOf;
-LAt;
-PED;
-ESC;
-efr;
-OOD;
-µC;
-MYS;
-DQ;
-ALC;
-pté;
-JL;
-ppa;
-SET;
-wss;
-Ver;
-CGM;
-AMT;
-rf;
-Dim;
-Rc;
-FOA;
-Dsa;
-NM;
-Gpa;
-CID;
-DEC;
-CDW;
-hex;
-HV;
-AOP;
-PAG;
-TQ;
-yd;
-SKW;
-BBA;
-Mpa;
-Tay;
-chb;
-uTR;
-Mdg;
-Jar;
-Dcg;
-pAD;
-Lun;
-ESM;
-Pck;
-lEO;
-db;
-Mem;
-SNS;
-adn;
-WM;
-SCM;
-UUT;
-HC;
-NCL;
-PWB;
-pwr;
-DIB;
-NEM;
-PCH;
-QDB;
-YB;
-IFN;
-Op;
-oes;
-Fig;
-FIZ;
-tct;
-llo;
-QFA;
-OIR;
-Sep;
-Mac;
-NBL;
-TPE;
-TLC;
-uci;
-BIA;
-XE;
-HPR;
-DT;
-PPM;
-HTB;
-Env;
-Jyh;
-dir;
-EOP;
-sw;
-PLA;
-exc;
-HDP;
-Meg;
-nan;
-RND;
-TEC;
-Yee;
-ead;
-PEA;
-ouv;
-MMU;
-alt;
-doc;
-wit;
-EDB;
-PIN;
-sua;
-ROU;
-VZ;
-ZK;
-Alu;
-ADM;
-NEO;
-DAC;
-MRG;
-ild;
-Amk;
-Pqe;
-REG;
-nrs;
-GAP;
-Ocè;
-IPO;
-PNG;
-xx;
-Twn;
-RS;
-THM;
-pee;
-INJ;
-MPK;
-Box;
-Rig;
-Vy;
-FIB;
-NRJ;
-Eqp;
-POC;
-niv;
-UVI;
-kcy;
-dà;
-DPT;
-EEF;
-hz;
-CDF;
-Rej;
-msk;
-AGC;
-EI;
-ANR;
-WLR;
-FCE;
-mnf;
-NWs;
-PD;
-MDM;
-lo;
-AIN;
-CLX;
-ot;
-sno;
-RDX;
-prt;
-raw;
-STR;
-pds;
-CHI;
-dl;
-pag;
-BSW;
-Ugo;
-fe;
-dc;
-IDs;
-FTP;
-PRI;
-Wha;
-ALV;
-Mid;
-òa;
-mew;
-ONO;
-svc;
-fff;
-Tpy;
-EV;
-Btm;
-HWG;
-HTJ;
-Soo;
-kOH;
-Ora;
-KPK;
-Pit;
-vis;
-Nrs;
-GKR;
-sti;
-YLD;
-tps;
-PCR;
-bin;
-TLP;
-lOT;
-DIA;
-Sw;
-OPA;
-PCW;
-WId;
-IMP;
-uta;
-spF;
-Wet;
-HiZ;
-AlD;
-GOY;
-po;
-RAO;
-ort;
-BGM;
-FOS;
-led;
-ACA;
-bpv;
-mbl;
-ggg;
-OPF;
-FZ;
-IMG;
-epy;
-Iso;
-hb;
-QTY;
-SCL;
-LPM;
-Doe;
-PRM;
-ENa;
-SVG;
-EBV;
-OFT;
-SBR;
-Soe;
-psc;
-chR;
-app;
-COP;
-Dio;
-GRB;
-ZF;
-TGO;
-DfT;
-fiB;
-CTT;
-enW;
-Tim;
-ina;
-CDI;
-Dal;
-eqp;
-NOP;
-Soc;
-VFV;
-iFB;
-neg;
-RFT;
-ESA;
-TSi;
-Cst;
-Eng;
-VQ;
-BNN;
-ChL;
-Bxr;
-INa;
-HSU;
-RGG;
-map;
-VSP;
-FaV;
-bdx;
-xy;
-ATT;
-dB;
-Zhi;
-nee;
-BXR;
-Voh;
-Vhv;
-Pix;
-DAP;
-SEn;
-EVN;
-ans;
-BST;
-HPB;
-Igt;
-IOx;
-ORM;
-und;
-DCT;
-BAF;
-PAY;
-IMS;
-ZnS;
-CoB;
-pro;
-AAB;
-eye;
-TCL;
-phy;
-QRO;
-Bec;
-THS;
-Mxx;
-ter;
-SPR;
-dur;
-MKE;
-Rho;
-San;
-LED;
-fot;
-xIR;
-DLG;
-vcf;
-riq;
-fed;
-Pry;
-AFN;
-Puo;
-BLK;
-MHz;
-Sid;
-VCE;
-AlN;
-lot;
-ext;
-IPs;
-AIS;
-YEO;
-HMC;
-MAO;
-IPA;
-POX;
-ecc;
-BAY;
-ISC;
-Xia;
-pub;
-WWX;
-ZRL;
-ère;
-ODD;
-Vxp;
-SIL;
-Gap;
-Rou;
-VIP;
-ace;
-OEM;
-RM;
-MPW;
-pzA;
-ANT;
-OBA;
-SpZ;
-TPF;
-Rob;
-SIn;
-TRI;
-TDS;
-Piq;
-COX;
-PHY;
-wet;
-IRX;
-Ews;
-CDO;
-Fav;
-NOM;
-SYS;
-blt;
-aec;
-BAK;
-Mee;
-cdm;
-MOP;
-Fe;
-SRD;
-SBC;
-eè;
-ZI;
-ACU;
-BCX;
-SPT;
-TBC;
-LPS;
-atm;
-IPD;
-Gaz;
-MHC;
-QMM;
-Ven;
-BIF;
-JIN;
-MQA;
-bp;
-EIH;
-sel;
-OIN;
-Jun;
-OJ;
-sbl;
-TPS;
-NGE;
-Ea;
-pul;
-HCD;
-dla;
-liq;
-Luo;
-ETS;
-EB;
-ODM;
-ZTD;
-Hai;
-mim;
-Num;
-CoC;
-PSi;
-nit;
-SHO;
-env;
-Mrb;
-pab;
-eos;
-Pb;
-VIn;
-HMI;
-VQS;
-kyo;
-plu;
-Sat;
-HVc;
-dek;
-ROs;
-cca;
-Fab;
-lef;
-LEE;
-GUO;
-CAO;
-ur;
-Vcr;
-HOT;
-BIn;
-BLL;
-wif;
-DCN;
-JY;
-hts;
-QI;
-Xj;
-Mkg;
-hve;
-EDX;
-opc;
-lee;
-OZ;
-egg;
-GPG;
-Ln;
-Rt;
-HRP;
-SYL;
-TCA;
-REM;
-EFF;
-LIU;
-Fct;
-dem;
-Loc;
-pre;
-Hor;
-dû;
-qst;
-bcd;
-Wuu;
-mcd;
-PSO;
-DXF;
-ERS;
-BOR;
-GPO;
-QY;
-UDM;
-Ft;
-BK;
-Pos;
-cmp;
-WAF;
-vdd;
-NGO;
-rr;
-Boy;
-RLP;
-QDR;
-FL;
-DPa;
-fda;
-FVI;
-QFn;
-RTA;
-DFE;
-Pep;
-Tpe;
-KEC;
-Pbs;
-CuP;
-ine;
-GOD;
-AMS;
-Amo;
-dde;
-zip;
-Rif;
-ilm;
-qtt;
-VSW;
-Rdt;
-MPU;
-tin;
-Ivy;
-WWC;
-NCh;
-WTK;
-OIS;
-EL;
-UAJ;
-rtc;
-jam;
-Epd;
-ABB;
-CSA;
-CAQ;
-row;
-PRO;
-hv;
-MAS;
-csu;
-nm;
-CPT;
-STL;
-Gin;
-isp;
-TnR;
-PSR;
-CPU;
-str;
-IFx;
-OPN;
-FAE;
-Hub;
-Nov;
-TBH;
-kÅ;
-Bef;
-FST;
-NFC;
-DTQ;
-ski;
-LDL;
-VIH;
-Ken;
-cob;
-Pmo;
-GIà;
-PUB;
-DAD;
-Ã;
-MEM;
-Ink;
-DPI;
-FCT;
-Ret;
-Clb;
-mcu;
-QFP;
-DAF;
-KAN;
-sid;
-GXF;
-cui;
-Han;
-fit;
-ant;
-hhh;
-PEO;
-PIQ;
-alo;
-ic;
-ieu;
-cow;
-LLC;
-JRQ;
-DNS;
-pré;
-ubm;
-WSQ;
-NUM;
-HAW;
-ANN;
-ERM;
-GaN;
-piu;
-NDT;
-HFT;
-dog;
-PBL;
-ebr;
-HHD;
-TRW;
-kid;
-IDH;
-svp;
-hot;
-ême;
-Cut;
-pic;
-HVO;
-VSD;
-FMR;
-lar;
-SpH;
-slf;
-bus;
-cp;
-Qc;
-ç;
-Vcg;
-PhD;
-OpF;
-WNC;
-hcl;
-DRY;
-Src;
-TPs;
-KV;
-kEV;
-SHD;
-opD;
-KHZ;
-BIL;
-ADP;
-JC;
-foa;
-TWT;
-DCE;
-Col;
-sei;
-Cnr;
-PQ;
-TFM;
-ICP;
-ecg;
-Kim;
-MBL;
-DVB;
-DDM;
-IOS;
-UR;
-Chi;
-NSR;
-Bcd;
-WO;
-CRD;
-Phy;
-Ams;
-Bob;
-aat;
-IHP;
-DOR;
-Deg;
-HH;
-Tof;
-cur;
-OBD;
-IGN;
-ALd;
-APP;
-OSC;
-OVD;
-pda;
-KS;
-PCI;
-fel;
-PLP;
-réf;
-POF;
-WBD;
-sas;
-QP;
-QF;
-Vxy;
-diP;
-IHV;
-coe;
-ion;
-IDF;
-Wee;
-Ids;
-Ep;
-ald;
-WIP;
-KrF;
-TWS;
-AVI;
-aby;
-pti;
-Wk;
-Dn;
-iat;
-qté;
-cat;
-chn;
-Dil;
-GeP;
-MIH;
-tal;
-Hik;
-req;
-ITP;
-BVO;
-RPO;
-scc;
-xw;
-RdL;
-Cap;
-yrs;
-Ard;
-PHP;
-iff;
-RTO;
-ISB;
-FBI;
-blz;
-EoL;
-PDF;
-tds;
-CiP;
-ora;
-TEY;
-tim;
-rdp;
-keV;
-Pot;
-flh;
-GNR;
-ECP;
-Afm;
-Rso;
-ele;
-ih;
-TSD;
-NSD;
-PCT;
-HCl;
-DBP;
-CSD;
-ROT;
-opo;
-pli;
-eet;
-BLU;
-Blu;
-FOW;
-drv;
-HUB;
-MAM;
-Dp;
-CTs;
-NTK;
-ULL;
-GBL;
-LNH;
-TCM;
-ABA;
-fOx;
-Rea;
-ov;
-PCC;
-ors;
-Mun;
-lwf;
-Bk;
-Rft;
-Qin;
-PNP;
-dim;
-IG;
-EMT;
-CHB;
-anc;
-Tos;
-ò;
-cas;
-aC;
-rek;
-SbS;
-Kei;
-TOT;
-nbr;
-PFC;
-Hig;
-DYE;
-Kin;
-SQH;
-waf;
-VXR;
-TaN;
-LSD;
-DN;
-Icc;
-Pay;
-cds;
-MTB;
-DMM;
-rtn;
-EM;
-DPN;
-µm;
-TOS;
-rot;
-RSW;
-PVI;
-QN;
-sat;
-VAL;
-XRA;
-EIN;
-TLT;
-UID;
-nM;
-XXs;
-pos;
-Dum;
-dûe;
-OE;
-Leg;
-Ä;
-APM;
-BEN;
-VBO;
-HTP;
-ADL;
-DFA;
-Pce;
-exe;
-QM;
-Jr;
-MIA;
-Kok;
-NHS;
-VSR;
-nan;
-BOX;
-Mms;
-Sgm;
-CEO;
-HGR;
-chm;
-VB;
-Fri;
-ASe;
-VQT;
-ASU;
-OSZ;
-png;
-Lok;
-RIO;
-WNT;
-Mse;
-pbo;
-VD;
-LCN;
-PPE;
-Tgt;
-DDA;
-VFF;
-chi;
-atz;
-Feb;
-eck;
-vss;
-QZ;
-stp;
-Lf;
-Pd;
-HIN;
-Ibp;
-GTI;
-CCP;
-sou;
-MUK;
-ron;
-sp;
-MMs;
-kns;
-ECU;
-Sbl;
-Cpa;
-WPE;
-KHz;
-ate;
-loc;
-LMA;
-avt;
-HP;
-sip;
-fat;
-AUT;
-suL;
-WA;
-LOL;
-Row;
-RKD;
-DSC;
-cpu;
-DIO;
-ReR;
-FCD;
-OpD;
-GLY;
-FMs;
-KYO;
-IOT;
-LOH;
-oKm;
-Sie;
-TIO;
-FRS;
-TCP;
-VOO;
-PDN;
-TnF;
-crû;
-Vdp;
-ILE;
-day;
-sut;
-mLT;
-cal;
-kms;
-RDP;
-OT;
-pzC;
-Sby;
-YA;
-efo;
-DCK;
-IPd;
-Mai;
-THK;
-XIA;
-Sef;
-ncl;
-zap;
-CRB;
-XYZ;
-puh;
-NPI;
-eds;
-qin;
-RDL;
-Epi;
-IME;
-CIM;
-LOt;
-reg;
-LEB;
-ALD;
-WLD;
-tab;
-Std;
-ENI;
-IBE;
-ks;
-opm;
-Rdl;
-FaF;
-OBI;
-MFC;
-PVF;
-Rst;
-KNw;
-DIG;
-SX;
-mid;
-SWR;
-SSA;
-PZT;
-der;
-PQC;
-MDE;
-DMS;
-SDN;
-GAO;
-FRF;
-mtl;
-ptc;
-pvc;
-fab;
-DEX;
-Tx;
-OTP;
-ECD;
-SOF;
-PTV;
-LDS;
-THR;
-dèf;
-TBP;
-feq;
-VMA;
-JF;
-Aim;
-MLO;
-Res;
-EP;
-med;
-DRS;
-ZHB;
-SME;
-Sin;
-PJ;
-spc;
-Mmy;
-TVT;
-EPB;
-CAS;
-NS;
-OTH;
-Pqr;
-KPI;
-CGB;
-Kar;
-SMD;
-SBL;
-aoi;
-unl;
-ASI;
-EAC;
-Gee;
-PLy;
-BAI;
-RR;
-ZY;
-Ox;
-AAD;
-RAW;
-FSM;
-Phi;
-Wsi;
-cor;
-Ø;
-FAB;
-Iin;
-eve;
-Vip;
-BDM;
-VZP;
-iCC;
-SHM;
-Tps;
-ECN;
-RMS;
-XP;
-XU;
-TEm;
-vb;
-deg;
-XSP;
-wlr;
-OVP;
-BFX;
-LVx;
-jsr;
-KA;
-HPC;
-DIP;
-Fra;
-TAO;
-MoM;
-chA;
-buf;
-Amp;
-Tre;
-FDC;
-tgt;
-Lvp;
-ram;
-COL;
-Yaw;
-TCV;
-OEF;
-ipm;
-mll;
-MAi;
-Rey;
-NW;
-hf;
-MCT;
-Mig;
-chB;
-PCA;
-KIT;
-dyn;
-Å;
-Nur;
-bre;
-tir;
-VBr;
-FAV;
-avg;
-SUO;
-OFt;
-Eye;
-LCT;
-DPS;
-CHE;
-asy;
-WPT;
-ple;
-PIU;
-CTS;
-JVT;
-SLp;
-AID;
-ILD;
-pSi;
-fac;
-PEF;
-als;
-YOP;
-GNG;
-Ext;
-Dep;
-ADD;
-LMI;
-Bai;
-rta;
-TUN;
-già;
-job;
-RCC;
-HCN;
-tor;
-mas;
-TCH;
-RSK;
-NQE;
-FLH;
-clé;
-HDR;
-PCN;
-TQR;
-tob;
-RSA;
-Eps;
-nde;
-LFS;
-cad;
-paX;
-Dég;
-VHB;
-Dic;
-jig;
-EPG;
-KGB;
-EMG;
-LiL;
-AEC;
-VCI;
-QUA;
-PBA;
-NFI;
-epi;
-Tab;
-EAU;
-MAT;
-Ra;
-btm;
-YAP;
-MRD;
-nue;
-Olo;
-dus;
-Wfs;
-opé;
-ASA;
-VNI;
-edx;
-BIM;
-îes;
-jel;
-PCh;
-glu;
-INH;
-AMO;
-Wid;
-tte;
-EHQ;
-OBE;
-WBG;
-cam;
-UMC;
-MAC;
-BLE;
-JSR;
-thk;
-JMB;
-GPP;
-JDI;
-DDC;
-LOO;
-DLP;
-poi;
-XG;
-AIR;
-ABU;
-eop;
-CTP;
-DEF;
-Amb;
-PDR;
-Yao;
-WDG;
-pIX;
-uot;
-ISH;
-PiP;
-jeu;
-tia;
-pkg;
-ESL;
-Doc;
-lag;
-Ian;
-fw;
-els;
-ith;
-FSG;
-NPB;
-Gas;
-PTI;
-WSI;
-BDx;
-xyz;
-PzA;
-tio;
-AAP;
-PDB;
-MSH;
-hyp;
-ÂµA;
-DRL;
-OV;
-FMD;
-VBD;
-dBV;
-DFT;
-WES;
-FA;
-ISA;
-hs;
-TDP;
-NHL;
-IFX;
-ut;
-Blz;
-WBI;
-dyu;
-Ku;
-dx;
-MDD;
-OO;
-SFO;
-wpe;
-qc;
-FIC;
-aûx;
-JRM;
-Ctm;
-vei;
-pts;
-InB;
-Vat;
-eow;
-JIE;
-Vcp;
-TTV;
-EFI;
-ala;
-ets;
-BPP;
-UAS;
-HiQ;
-IEE;
-vus;
-CYC;
-tri;
-WLM;
-tcp;
-OoC;
-cà;
-SRP;
-Zth;
-NiS;
-OX;
-GDK;
-uso;
-UPG;
-Stm;
-MOs;
-era;
-RVZ;
-pvs;
-pat;
-UI;
-Die;
-oer;
-cst;
-SAx;
-sud;
-PCx;
-XL;
-qur;
-EOD;
-SGT;
-Ben;
-Usg;
-ROX;
-ITE;
-Vps;
-Gnb;
-QBF;
-CMD;
-PIT;
-HTA;
-SMW;
-Qms;
-iss;
-dût;
-YAU;
-LLL;
-Aes;
-ANG;
-SMX;
-vps;
-WHB;
-Jn;
-Mix;
-plz;
-PMU;
-BSM;
-Adl;
-DST;
-pao;
-LDP;
-qty;
-CST;
-Dac;
-Kyo;
-CAL;
-Qfp;
-Gun;
-ZQC;
-KIM;
-CoO;
-RP;
-mfc;
-Dev;
-Voi;
-SRS;
-Guo;
-ede;
-Yeu;
-wrt;
-VGS;
-fin;
-siu;
-jIE;
-pen;
-gli;
-icp;
-VCl;
-psu;
-BAE;
-cho;
-GeO;
-OPL;
-KAM;
-WFY;
-QL;
-lid;
-mI;
-puó;
-pie;
-NEL;
-OCT;
-SOU;
-EPD;
-OVI;
-ech;
-DTC;
-soo;
-dac;
-DOI;
-nad;
-INK;
-ado;
-UNA;
-TB;
-sAM;
-unm;
-bis;
-ép;
-VGT;
-rt;
-ily;
-JS;
-IB;
-GSM;
-sol;
-UTB;
-CER;
-sie;
-QC;
-ARC;
-gab;
-VCO;
-Mos;
-ILO;
-LF;
-USL;
-FPO;
-PGI;
-min;
-nov;
-ORT;
-jan;
-UAN;
-Var;
-FMT;
-KC;
-TYP;
-Jig;
-RPM;
-OFS;
-PCU;
-qoi;
-DSA;
-spm;
-LIP;
-LDV;
-IQC;
-QTA;
-BAM;
-CUV;
-SOC;
-EIC;
-Ato;
-HTj;
-Ia;
-wbp;
-MLT;
-Lee;
-Ang;
-RRQ;
-WET;
-Vib;
-SKT;
-Lm;
-EMF;
-VV;
-HIU;
-CPP;
-BSH;
-Una;
-GND;
-Vou;
-IIC;
-FIM;
-MYO;
-LRC;
-Img;
-DSP;
-RCM;
-sio;
-SIF;
-ib;
-Rec;
-ORC;
-AlW;
-Vb;
-CBB;
-QBD;
-TY;
-PAK;
-NPP;
-pbl;
-PBR;
-Efa;
-ccn;
-Pks;
-Mng;
-PID;
-Fxx;
-Heg;
-Xet;
-ZDT;
-IPT;
-cnt;
-BCD;
-JRD;
-xrd;
-bc;
-FMW;
-nei;
-Mtc;
-di;
-bie;
-MAX;
-HBT;
-eil;
-SWI;
-Shz;
-fga;
-gap;
-ZTE;
-aac;
-CSH;
-Tey;
-lto;
-Fev;
-FAI;
-Pcz;
-lke;
-KWP;
-FFA;
-FMA;
-Von;
-bug;
-SEN;
-mat;
-PTD;
-PTP;
-IVY;
-ola;
-pd;
-Okm;
-FD;
-MRb;
-PMC;
-AP;
-spa;
-wel;
-uin;
-TSI;
-LIN;
-FIV;
-VBR;
-MLD;
-BU;
-BDV;
-Oos;
-Ipg;
-SAR;
-cmd;
-MSW;
-WoT;
-wth;
-ORR;
-SCD;
-Abs;
-noj;
-DUR;
-Sic;
-Adm;
-LCB;
-MSK;
-Nég;
-RPP;
-DMT;
-MTK;
-IND;
-drs;
-PFI;
-adh;
-hoc;
-DDT;
-lue;
-Mat;
-USW;
-KGL;
-eur;
-EWs;
-GeB;
-UFF;
-PPR;
-EMP;
-Iag;
-Ion;
-CTR;
-gas;
-Sot;
-NGs;
-IFH;
-svg;
-VBC;
-ARR;
-ZP;
-nb;
-iW;
-UOP;
-Ric;
-inj;
-bit;
-DHL;
-rdT;
-QX;
-shz;
-Bag;
-MBT;
-Pch;
-ber;
-ZCD;
-WWS;
-PWT;
-whe;
-Ths;
-SEI;
-soc;
-CTM;
-wpt;
-Fu;
-ARD;
-VTH;
-MRB;
-Rgs;
-bel;
-TSV;
-KGD;
-DAY;
-SHS;
-hsd;
-Div;
-tie;
-Imp;
-vie;
-Hvg;
-RJ;
-ox;
-SOT;
-TUM;
-zag;
-Sia;
-dsa;
-RT;
-TRF;
-XeF;
-DFB;
-IVf;
-imc;
-BMW;
-bak;
-rwk;
-smd;
-Pie;
-Lot;
-IGM;
-tar;
-fs;
-THB;
-ctc;
-Mev;
-dì;
-WID;
-MQB;
-hub;
-PTX;
-OOV;
-boy;
-Aye;
-Mi;
-ing;
-Ev;
-fog;
-DTI;
-EEW;
-LDO;
-Wai;
-STA;
-Psv;
-dut;
-OP;
-SS;
-uma;
-UE;
-FMS;
-FBK;
-Vz;
-DFU;
-coc;
-SPV;
-Ali;
-Asy;
-vio;
-MOE;
-Sx;
-Dpt;
+%;Percentage
+2D;two-dimensional
+2DEG;Two Dimensional Electron Gas
+3D;three-dimensional
+4G;4th Generation
+AAF;Assembly Analytical Forum 
+ACF;Anisotropically Conductive Film
+AEI;Absorbed Electron Image
+AES;Auger Electron Spectroscopy
+AET;Accelerated Environmental Test
+AFM;Atomic Force Microscopy
+AFP;Atomic Force Probing
+AIAG;Automotive Industry Action Group
+ALD;Atomic Layer Deposition
+ALT;Accelerated Life Test
+AOI;Automatic Optical Inspection
+AP;Atom Probe
+APD;Avalanche Photodiode
+APDs;Generally Avalanche Photodiodes
+APQP;Advanced Product Quality Planning
+APS;Active Pixel Sensor
+AQL;Acceptable Quality Level
+ASIC;Application Specific Integrated Circuit
+ASICs;Application Specific Integrated Circuits
+AST;Accelerated Stress Test
+ASTM;American Society For Testing And Materials
+AVR;Applied Voltage Ratio
+AVRs;Applied Voltage Ratios
+Ag;Silver
+Al;Aluminum
+Al2Cu;Metal Caused By Theta Phase
+Au;Gold
+BD;Breakdown
+BEI;Backscattered Electron Imaging
+BEM;Backside Emission Microscopy
+BEOL;Back End of  Line  
+BFA;Bouncing Failure Analysis
+BGA;Ball Grid Array
+BGAs;Ball Grid Arrays
+BGBC;Gate Bottom Contact
+BHT;Bias-Humidity-Temperature
+BIR;Building-In Reliability
+BISR;Built-In Self-Repair
+BIST;Built-In-Self-Test
+BJT;Bipolar Junction Transistor
+BLT;Bond Line Thickness
+BME;Base Metal Electrode
+BOE;Buffered Oxide Etch
+BSE;Backscattered Electron
+BSEs;Topology Differences Backscattered Electrons
+BT;Bias Temperature
+Bi;Bipolar
+BiMOS;Bipolar Mos
+BiR;Building In Reliability
+BioMEMS;Biological Mems
+C-SAM;C-Mode Scanning Acoustic Microscopy
+C60;Buckminsterfullerene
+CAA;Corrective Action Assessment
+CAD;Computer-Aided Design
+CAE;Computer-Aided Engineering
+CAFM;Conductive Atomic Force Microscopy
+CALCE;Computer-Aided Life-Cycle Engineering
+CATV;Community Access Television or Community Antenna Television
+CBR;Based Reasoning
+CCD;Charge-Coupled Devices
+CCGA;Ceramic Column Grid Array
+CCS;Constant Current Stress
+CCSs;Constant Current Stresses
+CCVC;Capacitive Coupling Voltage Contrast
+CDEs;Radiation Cable Discharge Events
+CDM;Charged Device Model
+CE;Circuit Edit
+CERDIP;Ceramic Dual-In-Line Package
+CERQUAD;Ceramic Quad Flat Package
+CESL;Contact Etch Stop Layer
+CFM;Charge Force Microscopy
+CFR;Constant Failure Rate
+CHC;Channel Hot Carrier
+CHE;Channel Hot Electrons
+CHEs;Carriers Channel Hot Electrons
+CI;Continuous Improvement
+CLSM;Confocal Laser Scanning Microscopy
+CMOS;Complementary Metal Oxide Semiconductor
+CMP;Chip Multi-Processor
+CNT;Carbon Nano Tube
+CNTs;Carbon Nanotubes
+COTS;Commercial Off-The-Shelf
+CP;Charge Pumping
+CPI;Continuous Process Improvement
+CPMT;Packaging And Manufacturing Technology
+CPU;Central Processing Unit
+CRT;Cathode Ray Tube
+CSG;Silicon On Glass
+CSIC;Compound Semiconductor IC
+CSLM;Confocal Scanning Laser Microscope
+CSM;Continuous Stiffness Measurement
+CSP;Chip-Scale Packaging
+CST;Constant-Stress Test
+CT;Computed Tomography
+CTE;Coefficient of Thermal Expansion
+CTR;Current Transfer Ratio
+CVD;Chemical Vapour Deposition
+CVS;Constant Voltage Stress
+Cl;Chlorine
+CoWP;Cobalt Tungsten Phosphide
+Cr;Chromium
+Cu;Copper
+D;Deuterium
+DAC;Design Analysis Cycle
+DAFs;Die Attach Films
+DAHCs;Field Drain Avalanche Hot Carriers
+DB;Dielectric Breakdown
+DBS;Dual Beam Spectroscopy
+DC;Direct Current
+DCV;Direct Contact Via
+DD;Dual Damascene
+DDAF;Dicing Die Attach Film
+DEMO;Demonstration
+DFFA;Design For Failure Analysis
+DFM;Design For Manufacturing
+DFR;Decreasing Failure Rate
+DFS;Design For Safety
+DFSS;Design For Six Sigma
+DFT;Design For Testability
+DG;Double Gate
+DGSOI;Double-Gate Silicon-On- Insulator
+DIL;Dual In-Line
+DIMM;Dual In-Line Memory Module
+DIP;Dual In-Line Plastic
+DLTS;Deep Level Transient Spectroscopy
+DMD;Digital Micromirror Device
+DMOS;Diffused Metal-Oxide Semiconductor
+DPA;Destructive Physical Analysis
+DPM;Defects Per Million
+DPPM;Defects Parts Per Million
+DRAM;Dynamic Random Access Memory
+DRAMs;Dynamic Random Access Memories
+DSC;Differential Scanning Calorimetry
+DSO;Digital Sampling Oscilloscope
+DSSC;Dye Sensitized Solar Cell
+DTA;Differential Thermal Analysis
+DUT;Device Under Test
+DUV;Deep Ultraviolet
+DfM;Design For Manufacturability
+DfR;Design For Reliability
+DoD;Department Of Defense
+E.q.;Exempli Gratia
+EAPROM;Electrically Alterable Prom
+EAROM;Electrically Alterable
+EB;Emitter Base
+EBAC;Electron Beam Absorbed Current
+EBIC;Electron Beam Induced Current
+EBIV;Electron-Beam-Induced Voltage
+EBL;Encapsulated Beam Lead
+EBSD;Electron Backscatter Diffraction
+ECTC;Electronic Components and Technology Conference
+ECU;Engine Control Unit
+EDS;Energy Dispersive X-Ray Spectroscopy
+EDX;Energy-Dispersive X-Ray
+EELS;Electron Energy-Loss Spectrometry
+EEPROM;Electrically Erasable Prom
+EEROM;Electrically Erasable Rom
+EFA;Electrical Failure Analysis
+EFDIA;Failure Detection And Isolation Arrangement
+EFM;Electrical Force Microscopy
+EFR;Early Failure Rate
+EIA;Electronic Industries Alliance
+EIS;Impedance Spec Troscopy
+EM;Electromigration
+EMC;Electromagnetic Compatibility
+EMF;Electromagnetic Field
+EMP;Electromagnetic Pulse
+EOS;Electrical Overstress
+EOTPR;Electro Optical Terahertz Pulsed Reflectometry
+EPMA;Electron-Probe Micro-Analysis
+EPROM;Erasable Rom
+ERCS;Exponential Ramped Current Stress
+ESC;Environmental Stress Cracking
+ESCA;Electron Spectroscopy For Chemical Analysis
+ESD;Electrostatic Discharge
+ESEM;Environmental Sem
+ESP;Electronic Stability Control
+ESR;Equivalent Series Resistance
+ESREF;European Symposium on Reliability of Electron Devices
+ESS;Environmental Stress Screening
+ESTC;Electronics System-Integration Technology Conferences
+ESTM;Electrochemical Scanning Tunneling Microscope
+ETA;Event Tree Analysis
+EVA;Ethylene Vinyl Acetate
+F;Fluorine
+FA;Failure Analysis
+FC;Flip Chip
+FCA;Free-Carrier Absorption
+FCBGA;Flip-Chip Ball Grid Array
+FD;Fully Depleted
+FDSOI;Fully Depleted Silicon On Insulator
+FE;Finite Element
+FEA;Finite Element Analysis
+FEM;Finite Element Modelling
+FESEM;Field Emission Scanning Electron Microscopy
+FESEMs;Field Emission Scanning Electron Microscopes
+FET;Tem Transmission Electron
+FFDM;Function Failure Design Method
+FFT;Fast Fourier Transform
+FI;Fault Isolation
+FIB;Focused Ion Beam
+FID;Failure Interaction And Dependency
+FIM;Field Ion Microscopy
+FIT;Failure In Unit Time
+FM;Failure Mechanism
+FMA;Failure Mode Assessment
+FMEA;Failure Mode And Effect Analysis
+FMECA;Failure Mode Effect And Criticality Analysis
+FMEDA;Failure Modes Effects And Diagnostic Analysis
+FMI;Fluorescent Microthermal Imaging
+FMMEA;Failure Modes Mechanisms And Effects Analysis
+FMo;Failure Mode
+FMos;Failure Modes
+FMs;Failure Mechanisms
+FO;Fiber Optic
+FOWLP;Fan-Out Wafer Level Package
+FP;Flat Package
+FPBGA;Flip-Chip Ball Grid Array
+FPGA;Field Programmable Gate Array
+FPNI;Field Programmable Nanowire Interconnect
+FRACAS;Failure Reporting Analysis And Corrective Action System
+FTA;Fault Tree Analysis
+FTIR;Fourier Transform Infrared Spectroscopy
+FTTF;First Time To Failure
+FUSI;Fully Silicided
+Fe;Iron
+GHz;Giga Hertz
+GI;Gate Insulator
+GIDL;Gate Induced Leakage Current
+GIQLP;Industry Quality Liaison Panel
+GIS;Gas Injection System
+GSCI;Generated Subordinate Carrier Injection
+GTO;Gate-Turn-Off Thyristor
+Ga+;Gallium
+GaAs;Transistors Mems Gallium Arsenide
+GaN;Gallium Nitride
+H;Hydrogen
+HALT;Highly Accelerated Life Testing
+HASS;Highly Accelerated Stress Screening
+HAST;Highly Accelerated Stress Test
+HASTs;Highly Accelerated Stress Tests
+HBM;Human Body Model
+HBT;Heterojunction Bipolar Transistor
+HBTs;The Heterojunction Bipolar Transistors
+HC;Hot-Carrier
+HCD;Hot-Carrier Degradation
+HCI;Hot-Carrier Injection
+HEMT;High-Electron-Mobility Transistor
+HEMTs;The High Electron Mobility Transistors
+HFET;Heterojunction Field Effect Transistor
+HFETs;Heterostructure Field Effect Transistors
+HI;Holographic Interferometry
+HICs;Manufacture Hybrid Integrated Circuits
+HMOS;High-Performance, N-Channel Silicon Gate Mos
+HR;High Resolution
+HREM;High Resolution Electron Microscopy
+HRTEM;High Resolution Tem
+HTOL;High Temperature Operating Life
+HTRB;High Temperature Reverse Bias
+HVPE;Hydride Vapour Phase Epitaxy
+IAEA;International Atomic Energy Agency
+IBM;International Business Machine
+IC;Integrated Ciruit
+ICBO;Increase Of Leakage Current
+ICE;Collectoremitter Current
+ICs;Integrated Circuits
+IF;Interface
+IFR;Increasing Failure Rate
+IGBT;Insulated Gate Bipolar Transistor
+IITRI;Iit Research Institute
+ILD;Inter Layer Dielectric
+IMAPS;International Microelectronics And Packaging Society
+IMD;Inter Metal Dielectric
+IME;Institute Of Microelectronics
+IMEC;Interuniversitary Microelectronics Centre
+IMMA;Ion Microprobe Mass Analysis Integrated Circuits
+IMPATT;Diodes Impact Ionization Avalanche Transit Time
+IP;Intellectual Property
+IPAD;Integrated Passive And Active Device
+IR;Infrared
+IRAS;Infrared Absorption Spectrometry
+IRED;Infrared Emitting Diode
+IREM;Infrared Emission Microscopy
+IRLIT;Infrared Lock-In Thermography
+IRM;Infrared Microscopy
+IRPS;International Reliability Physics Symposium
+ISS;Ion Scattering Spectrometry
+ISTFA;International Symposium for Testing and Failure Analysis
+ITC;International Test Conference
+ITO;Indium Tin Oxide
+ITP;In-Target Probe
+ITRS;International Technology Roadmap for Semiconductors
+Idlin;Linear Drain Current
+InGaAS;Indium Gallium Arsenide
+JAN;Joint Army-Navy
+JEDEC;Joint Electron Device Engineering Council
+JFET;Junction Field Effect Transistors
+JFETs;Junction Field Effect Transistors
+KPFM;Kelvin Probe Force Microscope
+LASER;Light Amplification By Stimulated Emission Of
+LBIC;Laser Beam Induced Current
+LC;Liquid Crystal
+LCA;Liquid Crystal Analysis
+LCC;Leadless Chip Carrier
+LCD;Liquid Crystal Display
+LCs;Liquid Crystals
+LD;Laser Diode
+LDCC;Leaded Chip Carriers
+LDD;Lightly Doped Drain
+LDMOS;Lateral Mos Transistors
+LED;Light Emitting Diode
+LEDs;Light Emitting Diodes
+LEED;Low-Energy Electron Diffraction
+LEM;Light Emission Microscopy
+LGA;Land Grid Array
+LIFT;Laser Induce Forward Transfer
+LIGA;Lithographie Galvanoformung
+LIT;Lock-in Thermography
+LIVA;Light Induced Voltage Alteration
+LPCVD;Low Pressure Chemical Vapour Deposition
+LRVS;Linear Voltage Ramp Stress
+LSI;Large Scale Integration
+LTEM;Laser Terahertz Emission Microscopy
+LTPD;Lot Tolerance Percent Defective Management
+LTRM;Term Reliability Monitor
+LVRS;Linear Voltage Ramp Stress
+Li;Lithium
+MBB;Messerschmitt Boilkow Blohm
+MC;Multichip
+MCM;Multi-Chip Module
+MCOV;Maximum Continuous Operating Voltage
+MCP;Multi-Chip Package
+MCPs;Multichip Packages
+MDM;Metal-Dielectric-Metal
+MEMS;Micro Electro Mechanical Systems
+MEMSs;Developing Micro Electro Mechanical Systems
+MESFET;Metal-Semiconductor Fet
+MFM;Magnetic Force Microscopy
+MGT;Mos-Gated Thyristor
+MHz;Mega Hertz
+MI;Moirae Interferometry
+MIC;Mobile Ionic Contamination
+MIEL;International Conference On Microelectronics
+MIL;Military Electronics
+MIL-HDBK;Military Handbook
+MIL-STD;Military Standard
+MIM;Metal-Insulator-Metal
+MIS;Metal-Insulator-Semiconductor
+MISFET;Metal Insulator Semiconductor
+MJ;Multijunction 
+MLCC;Multilayer Ceramic Capacitor
+MLCCs;Studied Multilayer Ceramic Capacitors
+MLE;Maximum Likelihood Estimation
+MLP;Multi Layer Perception
+MM;Man Month
+MMIC;Monolithic Microwave Integrated Circuit
+MMICs;Gaas Monolithic Microwave Integrated Circuits
+MNOS;Metal-Nitride-Oxide-Semiconductor
+MOCVD;Metal-Organic Chemical Vapour Deposition
+MODFETs;Modulation Doped Field Effect Transistors
+MOEMS;Micro-Optical Electromechanical Systems
+MOEMSs;Micro Optical Electrome Chanical Systems
+MOS;Metal-Oxide Semiconductor
+MOSFET;Metallic Oxide-Semiconductor Field-Effect Transistor
+MOST;Metal-Oxide Semiconductor Transistor
+MOV;Metal Oxide Varistors
+MOVs;Metal Oxide Varistors
+MQW;Multi-Quantum Well
+MS;Milestone
+MST;Microsystem Technology
+MTBF;Mean Time Between Failures
+MTTF;Mean Time To Failure
+MTTFF;Mean Time To First Failure
+MTTR;Mean Time To Repair
+Mn2O3;Highly Resistive State
+MnO2;Semi Conductive State
+MtM;More than Moore
+M€;Million Euro
+NAA;Neutron Activation Energy
+NASA;Aeronautics And Space Administration
+NBT;Negative Bias Temperature
+NBTI;Negative Bias Temperature Instability
+NCF;Nonconductive Film
+NDE;Non-Destructive Evaluation
+NEMS;Nano-Electro-Mechanical Switches
+NEMSs;Nanoelectronic Circuits And Nanoelectromechanical Systems
+NF;Noise Figure
+NFF;No Fault Found
+NIL;Network Nanoimprint Lithography
+NIST;Standards And Technology
+NMOS;N-Channel (Type) Mos
+NOM;Nomarski Optical Microscopy
+NSOM;Near-Field Scanning Optical
+NTF;Troubled Found
+Ni;Contacts Nickel
+NiCr;Coated With Nickel Chromium
+O;Oxygen
+OAPVD;Oblique Angle Physical Vapour Deposition
+OBIC;Optical Beam-Induced Current
+OBIRCH;Optical Beam Induced Resistance Change
+OES;Optical Emission Spectrometry
+OFET;Organic Fet
+OLED;Organic Light-Emitting Diode
+OM;Optical Microscopy
+OSF;Oxidation-Induced Stacking Faults
+PA;Power Amplifier
+PAM;Photo-Acoustic Microscopy
+PBGA;Plastic-Ball-Grid-Array
+PBTI;Positive Bias Temperature Instability
+PC;Personal Computer
+PCB;Printed Circuit Board
+PCBs;Printed Circuit Boards
+PCD;Plasma Charging Damage
+PCT;Pressure Cooking Test
+PCs;Personal Computers
+PD;Preliminary Design
+PDA;Personal Digital Assistant
+PDIP;Plastic Dual In-Line Package
+PDP;Plasma Display Panels
+PDT;Product Development Test
+PEALD;Plasma Enhanced Atomic Layer Deposition
+PECVD;Plasma Enhanced Chemical Vapour Deposition
+PED;Plastic Encapsulated Device
+PEM;Plastic Encapsulated Microcircuit
+PEMs;Plastic Encapsulated Microcircuits
+PEN;Polyethylene Naphthalate
+PET;Polyethylene Terephthalate
+PFA;Physical Failure Analysis
+PFIB;Plasma Focused Ion Beam
+PGA;Pin Grid Array
+PHEMT;Pseudomorphic High Electron Mobility Transistor
+PHM;Prognostics And Health
+PIND;Particle Impact Noise
+PL;Photoluminescence
+PLZT;Lead Lanthanum Zirconate Titanate
+PM;Preventive Maintenance
+PMOS;P-Channel (Type) Mos
+PPS;Polyphenylene Sulfide
+PQFN;Power Quad Flat-Pack No-Lead
+PQFP;Plastic Quad Flat Pack
+PRA;Probabilistic Risk Assessment
+PRAM;Phase-Change Random Access Memory
+PROACT;"Preserving Failure Data; Ordering The Analysis"
+PROM;Programmable Rom
+PSA;Photoemission Spectrum Analyzer
+PSG;Phosphosilicate Glass
+PSGA;Polymer Stud Grid Array
+PV;Photovoltaics
+PVD;Physical Vapour Deposition
+PVT;Physical Vapour Transport
+PVs;Heading Photovoltaics
+PWB;Printed Wire/Wiring Board
+PWBA;Printed Wiring Board Assembly
+PWBs;Organic Printed Wire Boards
+PZT;Passive Components
+Pa;Pressure
+Pb;Lead
+PbO;Lead Oxide
+PoF;Physics Of Failure
+Pt;Platinum
+Q&RA;Quality And Reliability Assurance
+QA;Quality Assurance
+QALT;Quantitative Accelerated Life Test
+QB;Quasi-Breakdown
+QBD;Charge-To-Breakdown
+QC;Quality Control 
+QCT;Spc Quality Control Team Qd Vcsels
+QD;Quantum Dot
+QDs;Cnts Quantum Dots
+QFD;Quality Function Deployment
+QFN;Quad Flat No-Lead
+QFP;Quad Flat Package
+QLT;Quantitative Life Test
+QLTs;Category Quantitative Life Tests
+QML;Qualified Manufacturer List
+QMP;Quality Measurement Plan
+QPL;Qualified Parts List
+QRA;Quality Reliability Assurance
+QRRM;Quick Reaction Reliability Monitor
+R&D;Research and Development
+R&M;Reliability And Maintainability
+RA;Reliability Assurance
+RAC;Reliability Analysis Centre
+RADAR;Radio Detection and Ranging
+RAM;Random Access Memory
+RAMS;Reliability Availability Maintainability And Safety
+RB;Base Resistance
+RBD;Reliability Block Diagram
+RBS;Rutherford Back-Scattering Spectrometry
+RBSOA;Reverse Bias Safe Operation Area
+RDL;Redistribution Layers
+RE;Emitter Resistance
+REDR;Recombination Enhanced Defect Reaction
+REPROM;Reprogrammable Rom
+RF;Radio Frequency
+RFIC;Radio Frequency Integrated Circuits
+RGA;Residual Gas Analysis
+RH;Relative Humidity
+RHEED;Reflected High-Energy Electron Diffraction
+RIAC;Reliability Information Analysis Centre
+RIE;Reactive Ion Etch(Ing)
+ROC;Receiver Operating Characteristic
+ROHS;Restriction Of Hazardous Substances
+ROI;Region of Interest
+ROM;Read-Only Memory
+RPNs;Steps Risk Priority Numbers
+RTA;Rapid Thermal Annealing
+RTESA;Real Time Electrical Stress Analysis
+RVS;Ramped Voltage Stress
+Raman;Raman6 Spectroscopy Uses The Inelastic
+Rem−1;Raman Frequency
+RoHS;Restriction Of Hazardous Substances
+Ru;Ruthenium
+RuO2;Ruthenium Dioxide
+S-SNOM;Scanning Near-field Optical Microscopy
+S1;Sample
+SAB;Aligned Barrier
+SAC305;Sn Wt% Ag Wt% Cu
+SAE;Automotive Engineers
+SAF;Stuck-At-Fault
+SAM;Scanning Acoustic Microscopy
+SAT;Scanning Acoustic Test
+SB;Soft-Breakdown
+SBD;Schottky Barrier Diode
+SBE;Single Bit Errors
+SBH;Schottky Barrier Height
+SC;Silicon carbide
+SCAT;Scanning Acoustic Tomography
+SCM;Scanning Capacitance Microscopy
+SCP;Single Chip Package
+SCPs;Package Single Chip Packages
+SCR;Silicon-Controlled Rectifier
+SCS;Single Crystal Silicon
+SDRAM;Synchronous Dram
+SEB;Single Event Burnout
+SECC;Single Edge Contact Cartridge
+SED;Strain Energy Density
+SEE;Single Event Effect
+SEGD;Single Event Gate Damage
+SEGR;Single Event Gate Rupture
+SEI;Seebeck Effect Imaging
+SEL;Single Event Latch-Up
+SEM;Scanning Electron Microscopy
+SER;Soft-Error Rate
+SERs;Soft Error Rates
+SET;Single Event Transient
+SEU;Single Event Upset
+SEUs;Single Event Upsets
+SG;Stage Gate
+SHEs;Substrate Hot Electrons
+SHPBs;Split Hopkinson Pressure Bars
+SHRT;Solder Heat Resistance Test
+SIA;Semiconductor Industry Association
+SILC;Stress-Induced Leakage Current
+SILCs;Stress Induced Leakage Currents
+SILOX;Silicon Oxide
+SIMOX;Separation By Implanted Oxygen
+SIMS;Secondary-Ion Mass Spectrometry
+SIP;System-In-Package
+SM;Stress Migration
+SMD;Surface Mount Devices
+SME;Small and Medium-Sized Enterprise
+SMM;Scanning Microwave Microscopy
+SMT;Surface-Mount Technology
+SMU;Source Measure Unit
+SNOM;Scanning Near-Field Optical Microscopy
+SNPEM;Scanning Near-Field Photon Emission Microscopy
+SO;Small Outline
+SOA;Safe Operating Area Sob
+SOI;Silicon On Insulator
+SOIC;Small Outline IC
+SOJ;Small Outline J-Leaded
+SOM;Scanning Optical Microscopy
+SOP;System On Package
+SOS;Silicon On Sapphire
+SPAM;Scanning Photo-Acoustic Microscopy
+SPC;Statistical Process Control
+SPEM;Spectroscopic Photon Emission Microscopy
+SPM;Scanning Probe Microscopy
+SPP;Steam Pressure Pot
+SQC;Statistical Quality Control
+SQUID;Superconducting Quantum Interference Device
+SRAM;Static Ram
+SRQAC;Software Reliability And Quality Acceptance Criteria
+SSDI;Shadow Spectral Digital Imaging
+SSF;Shadow Spectral Filming
+SSG;Selective Silicon Growth
+SSHE;Scraped Surface Heat Exchanger
+SSHEs;Source Side Hot Electrons
+SSI;Small Scale Integration
+SSL;Solid State Lighting
+SSM;Scanning Squid Microscopy
+SSMS;Spark Source Mass Spectrometry
+SSR;Step-Stacked-Routing
+SSRM;Scanning Spreading Resistance Microscopy
+SST;Step-Stress Tests
+SSTL;Stub Series Terminated Logic
+SSY;Small-Scale Yielding
+ST;Stress Test
+STEM;Scanning Transmission Electron
+STI;Shallow Trench Isolation
+STM;Scanning Thermal Microscopy
+SThM;Techniques Scanning Thermal Microscopy
+STs;Called Stress Tests
+SWAT;Software Anomaly Treatment
+SWC;Solderless Wire Wrap Connecting
+SWCNT;Single-Walled Carbon Nanotube
+SWEAT;Standard Wafer Level Electromigration Accelerated
+SXAPS;Soft X-Ray Appearance Potential Spectroscopy
+SYRP;Synergetic Reliability Prediction
+Si;Silicon
+Si3N4;Stress Measurements Long Silicon Nitride
+SiC;Time Silicon Carbide
+SiNx;Silicon Nitride
+SiO2;Dose Of L08 Rad
+SiOC;Κ Materials
+SiP;System-in-Package
+SoC;System-on-Chip
+SoP;System-on-Package
+T-RAM;Thyristor-Based Random Access Memory
+TAB;Tape Automated Bonding
+TAP;Test Access Port
+TBC;Thermal Barrier Coating
+TBD;Time To Breakdown
+TBFD;Trace Based Fault Diagnosis
+TBJD;Trench Bipolar Junction Diode
+TC;Temperature Cycling
+TCAD;Technology Computer Aided Design
+TCCT;Thin Capacitively-Coupled Thyristor
+TCR;Temperature Coefficient Of Resistance
+TCT;Thermal Cycling Test
+TD;Threading Dislocation
+TDBI;Test During Burn-In
+TDDB;Time-Dependent Dielectric Breakdown
+TDI;Test Data In
+TDO;Test Data Output
+TDR;Time Domain Reflectometry
+TDTR;Time Domain Thermal Reflectance
+TED;Transient Enhanced Diffusion
+TEELS;Transmission Electron
+TEGFET;Two-Dimensional Electron Gas
+TEM;Transmission Electron
+TEM-ED;Transmission Electron Microscopy – Electron
+TEV;Through Encapsulant Via
+TFD;Thin Film Delamination
+TFH;Thin Film Hybrid
+TFO;Thick Field Oxide
+TFT;Thin-Film Transistor
+TGA;Thermo Gravimetric Analysis
+TGO;Thermally Grown Oxide
+TH;Lead-Free Through-Hole Flow Soldering
+THB;Temperature Humidity Bias
+TI;Texas Instruments
+TID;Total Ionising Dose
+TIR;Testing-In Reliability
+TIVA;Thermally-Induced Voltage Alteration
+TIs;Texas Instruments
+TLM;Transfer Length Method
+TLP;Transmission Line Pulsing
+TLPS;Transmission Line Pulse Spectroscopy
+TLS;Thermal Laser Stimulation
+TLU;Transient Induced Latch-Up
+TMA;Thermo-Mechanical Analysis
+TMAH;Tetramethylammonium Hydroxide
+TMIC;Transition Metal Ion Chromatography
+TMR;Tunnelling Magneto-Restrictive
+TMS;Test Mode
+TNI;Troubled-Non-Identified
+TO;Transistor Outline
+TOC;Tactical Operations Centres
+TOF;Time-Of-Flight 
+TOFSIMS;Time-Of-Flight Secondary Ion Mass Spectroscopy
+TOV;Temporary Overvoltage
+TPR;Technical Plan For Resolution
+TQL;Total Quality Leadership
+TQM;Total Quality Management
+TRM;Thermal Reflectance Microscopy
+TRPE;Time-Resolved Photon Emission Prober
+TRST;Test Reset
+TRXRFA;Total Reflection X-Ray Fluorescence Analysis
+TSC;Two-Step Crystallization
+TSI;Top-Surface Imaging
+TSOP;Thin Small Online Plastic
+TSPD;Thyristor Surge Protection Devices
+TST;Thermal Shock Test
+TSV;Through Silicon Via
+TSVs;Through Silicon Vias
+TTAA;Time To Acceptable Analysis
+TTF;Time To Failure
+TTL;Transistor-Transistor Logic
+TTL-LS;Transistor-Transistor Logic-Low Power Schottky
+TTR;Time To Repair
+TTS;Transistor-Transistor Logic Schottky Barrier
+TVS;Transient Voltage Suppressor
+TXRF;Total Reflection X-Ray Fluorescence
+TZDB;Time-Zero Dielectric Breakdown
+Ta;Tantalum
+TaN;Tantalum Nitride
+Tg;Transition Temperature
+T€;Thousand Euro
+UBM;Under Bump Metallization / Metallurgy
+UCL;Upper Confidence Level
+UF;Underfilling
+UFP;Ultra Fine Pitch
+UHV;Ultra High Vacuum
+UJT;Unijunction Transistor
+UK;Materials Centre
+ULSI;Ultra Large Scale Integration
+UPH;Units Per Hour
+UPS;Ultraviolet Photoelectron Spectrometry
+UPW;Ultra-Pure Water
+UR;Usage Rates
+US;United States of America
+USA;United States of America
+USG;Undoped Silica Glass
+USJ;Ultra-Shallow Junctions
+UUT;Unit Under Test
+UV;Ultraviolet
+VC;Voltage Contrast
+VCE;Collectoremitter Voltage
+VCSEL;Vertical-Cavity Surface- Emitting Laser
+VDMOS;Vertical Double Diffused Mos
+VDMOSFET;Vertical Diffused Mosfet
+VDSM;Very Deep Submicron
+VFB;Voltage Flat Band
+VHDL;Very High Density Logic
+VHSIC;Very High Speed Integrated Circuit
+VLSI;Very Large Scale Integration
+VMDP;Velocity-Matched Distributed Photodetectors
+VMOS;V-Groove Mos / Vertical Mos
+VPE;Vapour Phase Epitaxy
+VSMI;Volumetric System Miniaturization And
+VTC;Voltage Transfer Characteristics
+VTCMOS;Variable Threshold Voltage
+Vp;Voltage
+W;Tungsten
+WBC;Wafer Backside Coating
+WDM;Wavelength Division Multiplexing
+WDX;Wavelength Dispersive X-Ray
+WGPD;Waveguide Photodiode
+WGPDs;Reliability Of Planar Waveguide Photodiodes
+WIP;Work In Progress
+WL;Word Line
+WLCSP;Wafer-Level Chip Scale Packaging
+WLI;White Light Interferometry
+WLP;Wafer-Level Packaging
+WLR;Wafer-Level Reliability
+WLTBI;Wafer-Level Testing During
+WP;Workpackage
+WSI;Wafer Scale Integration
+WSN;Wireless Sensor Networks
+X;Cycle
+XAES;X-Ray-Induced Auger Electron Spectrometry
+XEDS;X-Ray Energy Dispersive Spectroscopy
+XES;X-Ray Energy Spectroscopy
+XIVA;External Induced Voltage Alteration
+XPD;X-Ray Photoelectron Diffraction
+XPS;X-Ray Photoelectron
+XRD;X-Ray Diffraction
+XRF;X-Ray Fluorescence
+XRFA;X-Ray Fluorescence Spectrometric Analysis
+XRM;X-Ray Microscopy
+XRPM;X-Ray Projection Microscopy
+XRR;X-Ray Reflectivity
+XTEM;X-Ray Transmission Electron Microscopy
+XeF2;Xenon Difluoride
+Z;Depth
+ZD;Zero Defect
+ZIF;Zero Insertion Force
+ZMR;Zone-Melting Recrystallized 
