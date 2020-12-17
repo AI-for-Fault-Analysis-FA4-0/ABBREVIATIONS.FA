@@ -5,12 +5,14 @@
 A detail description of the folders/files is seen below
 
 ```bash
-|---abbreviations.csv: Contains english abbreviations and technical jargons used in the microelectronic industries.
+|---abbreviations.csv: Contains english abbreviations and technical 
+jargons used in the microelectronic industries.
 	
 ```
 
 ### Contributors
 ```bash
-The repo can be forked and updated by the public especially those whose domain jargon is correlated with the microelectronic industries.
+The repo can be forked and updated by the public especially those whose domain 
+jargon is correlated with the microelectronic industries.
 	
 ```
