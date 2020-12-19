@@ -1,7 +1,7 @@
 # ABBREVIATIONS USED IN MICROELECTRONIC INDUSTRIES
 
 ### The repo is publicly maintained by researchers of the FA4.0 project
-#### This folder contains information relating to abbreviations and technical jargons used in Semiconcductor industry as mined from the reference:
+#### This folder contains information relating to abbreviations and technical jargons used in Semiconcductor manufacturing industry as mined from the reference:
 
 ```bash
 @article{article,
