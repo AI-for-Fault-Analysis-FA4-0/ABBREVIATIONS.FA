@@ -1,7 +1,19 @@
 # ABBREVIATIONS USED IN MICROELECTRONIC INDUSTRIES
 
 ### The repo is publicly maintained by researchers of the FA4.0 project
-#### This folder contains information of the preprocessed data we are working on. 
+#### This folder contains information relating to abbreviations and technical jargons used in Semiconcductor industry as mined from the reference below:
+
+```bash
+@article{article,
+author = {Bazu, Marius and Bajenescu, Titu / Titu-Marius},
+year = {2011},
+month = {04},
+pages = {},
+title = {Failure Analysis: A Practical Guide for Manufacturers of Electronic Components and Systems},
+journal = {Failure Analysis: A Practical Guide for Manufacturers of Electronic Components and Systems},
+doi = {10.1002/9781119990093}
+}
+```
 A detail description of the folders/files is seen below
 
 ```bash
