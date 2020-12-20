@@ -363,9 +363,12 @@ class AbbreviationMiner(object):
 
 #%%
 if __name__ == '__main__':
+    
+    #--Section A: this section mines abbreviation fro Wiley book
     #abbr = AbbreviationMiner().preprocess_final(filename = 'fa_houari.txt')
     #abbr.to_csv(join(paths['data'], "abbr/abbreviations_up.csv"), index = False, sep = ';') #unprocessed abbreviations...
     
+    #---Section B: mines abbreviation from MC --> You need to comment this section to run the first section and vice-versa
     #----Update the abbreviations with Matiel Consulting
     '''Matiel Consulting Abbreviations
     Source: http://maltiel-consulting.com/Semiconductor_Technology_Acronyms_List_maltiel_consulting.htm#B
