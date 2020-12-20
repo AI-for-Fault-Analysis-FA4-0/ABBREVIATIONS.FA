@@ -352,9 +352,9 @@ class AbbreviationMiner(object):
         self.method_scrap_acronym()
         self.pascal_update()
         #preprocess updated abbreviations and meaning...
-        ddt = pd.DataFrame({'abbreviations': list(self.kv.keys()), 'meaning': list(self.kv.values())})
-        ddt = ddt[ddt.meaning != ' ']
-        ddt = ddt.sort_values(by = 'abbreviations')
+        ddt = pd.DataFrame({'Abbreviations': list(self.kv.keys()), 'Meaning': list(self.kv.values())})
+        ddt = ddt[ddt.Meaning != ' ']
+        ddt = ddt.sort_values(by = 'Abbreviations')
         ddt.index = np.arange(ddt.shape[0])
         ddt = ddt.iloc[:slice_, :]
         return ddt
@@ -363,11 +363,31 @@ class AbbreviationMiner(object):
 
 #%%
 if __name__ == '__main__':
-    abbr = AbbreviationMiner().preprocess_final(filename = 'fa_houari.txt')
-    abbr.to_csv(join(paths['data'], "abbr/abbreviations_up.csv"), index = False, sep = ';') #unprocessed abbreviations...
+    #abbr = AbbreviationMiner().preprocess_final(filename = 'fa_houari.txt')
+    #abbr.to_csv(join(paths['data'], "abbr/abbreviations_up.csv"), index = False, sep = ';') #unprocessed abbreviations...
     
+    #----Update the abbreviations with Matiel Consulting
+    '''Matiel Consulting Abbreviations
+    Source: http://maltiel-consulting.com/Semiconductor_Technology_Acronyms_List_maltiel_consulting.htm#B
+    '''
     
+    kw = {}
+    with open(join(paths['utils'], 'semi_a.txt'), 'r+', encoding='utf-8') as st:
+        pas = st.readlines()
     
+    abbr = pd.read_csv(join(paths['data'], 'abbr/abbreviations.csv'), sep = ',')
+    for ii in np.array(abbr):
+        kw[f'{ii[0]}'] = ii[1]
+    
+    for enum, ii in enumerate(pas):
+        aa_ii = ii.split(',')
+        if len(aa_ii) > 1:
+            kw[f'{aa_ii[0]}'] = aa_ii[1].strip().title()
+    mc = pd.DataFrame({'Abbreviations': list(kw.keys()), 'Meaning': list(kw.values())})
+    mc = mc[mc.Meaning != ' ']
+    mc = mc.sort_values(by = 'Abbreviations')
+    mc.index = np.arange(mc.shape[0])
+    mc.to_csv(join(paths['data'], "abbr/Abbreviation_complete.csv"), index = False, sep = ';')
     
     
     
