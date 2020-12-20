@@ -11,38 +11,38 @@ import string
 import numpy as np
 from os.path import join
 import pandas as pd
-from itertools import chain #recurssive list flatening...
+from itertools import chain #recursive list flatening...
 from tika import parser #extract text from pdf
 
-pdf_path = 'pdf path'
+pdf_path = '/home/ifeanyi.ezukwoke/Documents/FA4.0/Houari'
 
-path = {'data': 'data path', #hdf5 database
-        'utils': 'stopword path' #kenneth utils
+paths = {'data': '/home/ifeanyi.ezukwoke/Documents/FA4.0/Mireille/Donnes/hdf5', #hdf5 database
+        'utils': '/home/ifeanyi.ezukwoke/Documents/FA4.0/kenneth/Scripts/utils' #kenneth utils
         }
 
 #import stopwords
-with open(join(path['utils'], 'stopwords.txt'), 'r+',encoding="utf8") as st:
+with open(join(paths['utils'], 'stopwords.txt'), 'r+',encoding="utf8") as st:
     stopwords = set([x for x in st.read().split()]) #mix of Italia, English and French words...
         
 
 
-# text = np.load(join(path['data'], 'book_mine\\fa_.npy'), allow_pickle=True)
+# text = np.load(join(path['data'], 'book_mine\\fa_houari.npy'), allow_pickle=True)
 # text = list(np.atleast_1d(text))[0]
 # text = text.replace('\n', ' ')
 
 class AbbreviationMiner(object):
     '''AbbreviationMiner is used for extracting abbreviations in the Wiley book:
         
-        'Failure Analysis : A Practical Guide for Manufacturers of Electronic Components and Systems , First Edition.
+        'Failure Analys is : A Practical Guide for Manufacturers of Electronic Components and Systems , First Edition.
         Marius I. Bazu and Titu-Marius I. Bajenescu.
-        © 2011 John Wiley & Sons, Ltd. Publis hed 2011 by John Wiley & Sons , Ltd. ISBN: 978-0-470-74824-4'
+        © 2011 John Wiley & Sons, Ltd. P ublis hed 2011 by John Wiley & Sons , Ltd. ISBN: 978-0-470-74824-4'
         
         Source: https://www.wiley.com/en-us/Failure+Analysis%3A+A+Practical+Guide+for+Manufacturers+of+Electronic+Components+and+Systems-p-9781119990000
         
         
         
     '''
-    def __init__(self, stopword = None):
+    def __init__(self, stopword = None, path:str = None):
         '''
         
 
@@ -61,6 +61,11 @@ class AbbreviationMiner(object):
             self.stopwords = stopword
         else:
             self.stopwords = stopword
+        if not path:
+            path = paths
+            self.path = path
+        else:
+            self.path = path
         return
     
     def remove_hyp_uds(self, text:str):
@@ -148,7 +153,7 @@ class AbbreviationMiner(object):
         upper, lower = ck.count(True), ck.count(False) #return frequency counts
         if any(ck):
             return True
-        elif any(ck):
+        elif not any(ck):
             return False
         elif upper > lower:
             return True
@@ -158,6 +163,30 @@ class AbbreviationMiner(object):
             return False
     
     
+    def check_file_ext(self, filename):
+        '''Check file extension
+        
+
+        Parameters
+        ----------
+        filename : str
+            file name.
+
+        Raises
+        ------
+        ValueError
+            DESCRIPTION.
+
+        Returns
+        -------
+        None.
+
+        '''
+        self.filename = filename
+        if not self.filename[-3:] == 'txt':
+            raise ValueError(f'{self.filename} not a text file.\nFile extension should be a .txt format')
+        else:
+            return True
     
     def method_scrap_all(self, filename:str = None):
         '''
@@ -176,37 +205,44 @@ class AbbreviationMiner(object):
         if filename == None:
             filename = 'fa_houari.pdf'
             self.filename = filename
-        raw = parser.from_file(join(pdf_path, self.filename))
-        text = raw['content']
-        text = text.replace('\n', ' ')
+            raw = parser.from_file(join(pdf_path, self.filename))
+            text = raw['content']
+            text = text.replace('\n', ' ')
+        else:
+            self.filename = filename
+            assert self.check_file_ext(self.filename) == True, 'something went wrong'
+            with open(join(self.path['data'], self.filename), 'r+', encoding = "utf8") as st:
+                text = st.read()
+            text = text.replace('\n', ' ')
         #--technique one for extracting abbreviation and meaning extraction
         self.kv = {}
         txt = self.remove_specific_characters(self.remove_hyp_uds(text))
         self.tok = [x for x in txt.split(' ') if not x == '' if not x == ' ' if not x.isdigit()]
         for enum, ii in enumerate(self.tok):
-            if ii.strip()[0] == '(' and ii.strip()[-1] == ')':
-                abb, tmp_tt = ii.strip('()'), len(ii.strip('()')) #remove braces and check length of word
-                if not abb.isdigit() and len(abb) < 6 or self.check_upper_higher_than_lower(abb):
-                    self.tt_af = ' '.join(self.tok[(enum-tmp_tt):enum]).replace("'", "")
-                    self.tt_af = re.sub(r"[\(\[].*?[\)\]]", '',self.tt_af).replace("'", '')
-                    self.tt_af = re.sub(r"[\(\[].", '',self.tt_af).replace("'", '')
-                    self.tt_af = re.sub(r".*?[\)\]]", '',self.tt_af).replace("'", '')
-                    self.tt_af = self.tt_af.replace("'", '').replace("‘", '').replace("’", '')
-                    self.tt_ff = self.remove_stopwords(' '.join(x for x in self.tt_af.split(' ') if not x == ''))
-                    if '%' in abb:
-                        if len(abb) == 1:
-                            self.kv[f'{abb}'] = self.tt_ff
-                    else:
-                        if abb[0] == 'X' and len(abb[:3]) > 1:
-                            if not self.tt_ff[:1] == 'x':
-                                self.kv[f'{abb}'] = 'x-' + self.tt_ff
-                            else:
+            if len(ii) > 2:
+                if ii.strip()[0] == '(' and ii.strip()[-1] == ')':
+                    abb, tmp_tt = ii.strip('()'), len(ii.strip('()')) #remove braces and check length of word
+                    if not abb.isdigit() and len(abb) < 6 or self.check_upper_higher_than_lower(abb):
+                        self.tt_af = ' '.join(self.tok[(enum-tmp_tt):enum]).replace("'", "")
+                        self.tt_af = re.sub(r"[\(\[].*?[\)\]]", '',self.tt_af).replace("'", '')
+                        self.tt_af = re.sub(r"[\(\[].", '',self.tt_af).replace("'", '')
+                        self.tt_af = re.sub(r".*?[\)\]]", '',self.tt_af).replace("'", '')
+                        self.tt_af = self.tt_af.replace("'", '').replace("‘", '').replace("’", '')
+                        self.tt_ff = self.remove_stopwords(' '.join(x for x in self.tt_af.split(' ') if not x == ''))
+                        if '%' in abb:
+                            if len(abb) == 1:
                                 self.kv[f'{abb}'] = self.tt_ff
                         else:
-                            self.kv[f'{abb}'] = self.tt_ff
+                            if abb[0] == 'X' and len(abb[:3]) > 1:
+                                if not self.tt_ff[:1] == 'x':
+                                    self.kv[f'{abb}'] = 'x-' + self.tt_ff
+                                else:
+                                    self.kv[f'{abb}'] = self.tt_ff
+                            else:
+                                self.kv[f'{abb}'] = self.tt_ff.title()
                     
-                    
-    def method_scrap_acronym(self):
+    
+    def method_scrap_acronym(self, filename:str = None):
         '''
         
 
@@ -215,9 +251,14 @@ class AbbreviationMiner(object):
         None.
 
         '''
+        if filename == None:
+            filename = 'fa_houari.pdf'
+            self.filename = filename
+        else:
+            self.filename = filename
         #---technique two for extracting tables only...      
         pf_rng = np.arange(310, 318) #acronym pages in FA book
-        pdfr = fitz.open(join(pdf_path, 'fa_houari.pdf'))
+        pdfr = fitz.open(join(pdf_path, self.filename))
         
         abt = {}
         for ij in pf_rng:
@@ -229,7 +270,7 @@ class AbbreviationMiner(object):
                 if not ii == 'Acronyms':
                     #chek if the first index is in upper case
                     if ii.isupper():
-                        #check that the index following it is lower case (or atleast, mostly lowercase)
+                        #check the the index that follows it is lower case (or atleast, mostly lowercase)
                         if not self.txt[enum+2].strip('-').strip('()').strip(';').isupper():
                             pp = ' '.join(x for x in self.txt[enum+2].strip('-').split(';'))
                             #remove punctuations before appending...
@@ -244,7 +285,6 @@ class AbbreviationMiner(object):
                         pass
                 else:
                     pass
-        
         
         '''compare both methods/results and update global abbr. with acronym.
             This is because the acronym page contains most but not all abbreviations; but the
@@ -274,7 +314,7 @@ class AbbreviationMiner(object):
 
         '''
         #update abbreviations with pascal abbreviations..
-        with open(join(path['utils'], 'pascal_abb.txt'), 'r+') as st:
+        with open(join(self.path['utils'], 'pascal_abb.txt'), 'r+', encoding='windows-1252') as st:
             self.pas = st.read().split('\t\t')
         
         self.pas = [w.replace('\t', '').split('\n') for w in self.pas]
@@ -297,8 +337,18 @@ class AbbreviationMiner(object):
             pass
         
     
-    def preprocess_final(self):
-        self.method_scrap_all()
+    def preprocess_final(self, slice_:int = None, filename:str = None):
+        if not slice_:
+            slice_ = 1000
+            self.slice_ = slice_
+        else:
+            self.slice_ = slice_
+        if not filename:
+            filename = 'fa_houari.pdf'
+            self.filename = filename
+        else:
+            self.filename = filename
+        self.method_scrap_all(filename = self.filename)
         self.method_scrap_acronym()
         self.pascal_update()
         #preprocess updated abbreviations and meaning...
@@ -306,16 +356,23 @@ class AbbreviationMiner(object):
         ddt = ddt[ddt.meaning != ' ']
         ddt = ddt.sort_values(by = 'abbreviations')
         ddt.index = np.arange(ddt.shape[0])
-        ddt = ddt.iloc[:800, :]
+        ddt = ddt.iloc[:slice_, :]
         return ddt
 
-#ddt.to_csv(join(path['data'], "abbr\\abbreviations.csv"), index = False, sep = ';')
+
 
 #%%
 if __name__ == '__main__':
+    abbr = AbbreviationMiner().preprocess_final(filename = 'fa_houari.txt')
+    abbr.to_csv(join(paths['data'], "abbr/abbreviations_up.csv"), index = False, sep = ';') #unprocessed abbreviations...
     
-    abbr = AbbreviationMiner().preprocess_final()
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
