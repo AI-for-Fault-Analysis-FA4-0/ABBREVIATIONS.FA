@@ -370,7 +370,7 @@ if __name__ == '__main__':
     
     #---Section B: mines abbreviation from MC --> You need to comment this section to run the first section and vice-versa
     #----Update the abbreviations with Matiel Consulting
-    '''Matiel Consulting Abbreviations
+    '''Maltiel Consulting Abbreviations
     Source: http://maltiel-consulting.com/Semiconductor_Technology_Acronyms_List_maltiel_consulting.htm#B
     '''
     
