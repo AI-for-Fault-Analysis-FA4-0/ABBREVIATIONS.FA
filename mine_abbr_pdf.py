@@ -33,9 +33,9 @@ with open(join(paths['utils'], 'stopwords.txt'), 'r+',encoding="utf8") as st:
 class AbbreviationMiner(object):
     '''AbbreviationMiner is used for extracting abbreviations in the Wiley book:
         
-        'Failure Analys is : A Practical Guide for Manufacturers of Electronic Components and Systems , First Edition.
+        'Failure Analysis : A Practical Guide for Manufacturers of Electronic Components and Systems, First Edition.
         Marius I. Bazu and Titu-Marius I. Bajenescu.
-        © 2011 John Wiley & Sons, Ltd. P ublis hed 2011 by John Wiley & Sons , Ltd. ISBN: 978-0-470-74824-4'
+        © 2011 John Wiley & Sons, Ltd. Publis hed 2011 by John Wiley & Sons, Ltd. ISBN: 978-0-470-74824-4'
         
         Source: https://www.wiley.com/en-us/Failure+Analysis%3A+A+Practical+Guide+for+Manufacturers+of+Electronic+Components+and+Systems-p-9781119990000
         
