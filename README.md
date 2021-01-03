@@ -27,13 +27,17 @@ Source two:
 http://maltiel-consulting.com/Semiconductor_Technology_Acronyms_List_maltiel_consulting.htm#B
 ```
 
-'''
+
 A detail description of the folders/files is seen below
 
 ```bash
 |---abbreviations.csv: Contains english abbreviations and technical 
 jargons used in the microelectronic industries.
-	
+
+|---Abbreviations_complete.csv: Contains complete list of abbreviations
+
+|---mine_abbr_pdf.py: python mining script
+
 ```
 
 ### Contributors
