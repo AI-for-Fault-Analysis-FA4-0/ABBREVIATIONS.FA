@@ -4,6 +4,10 @@
 #### This folder contains information relating to abbreviations and technical jargons used in Semiconcductor manufacturing industry as mined from the reference:
 
 ```bash
+Source One:
+```
+
+```bash
 @article{article,
 author = {Bazu, Marius and Bajenescu, Titu / Titu-Marius},
 year = {2011},
@@ -14,6 +18,16 @@ journal = {Failure Analysis: A Practical Guide for Manufacturers of Electronic C
 doi = {10.1002/9781119990093}
 }
 ```
+
+```bash
+Source two:
+```
+
+```bash
+http://maltiel-consulting.com/Semiconductor_Technology_Acronyms_List_maltiel_consulting.htm#B
+```
+
+'''
 A detail description of the folders/files is seen below
 
 ```bash
