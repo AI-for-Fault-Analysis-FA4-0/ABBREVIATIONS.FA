@@ -1,0 +1,2709 @@
+Abbreviations;Meaning
+ω;Frequency
+%;Percentage
+1;1-Trichloroethane
+1D;One Dimensional
+1T-1C;1 Transistor/1 Capacitor
+1T-2C;1 Transistor/2 Capacitor
+2D;Two Dimensional
+2DEG;Two Dimensional Electron Gas
+3D;Three Dimensional
+4G;4th Generation
+A&P;Assembly And Packaging
+A-GEMTF;Advanced Gem Task Force
+A/D;Analog To Digital
+A/R;Aspect Ratio
+AA;Atomic Absorption
+AAF;Assembly Analytical Forum 
+AAS;Atomic Absorption Spectroscopy
+AAS/GFAAS;Atomic Absorption Spectroscopy/Graphite Furnace Atomic Absorption Spectroscopy
+ABC;Activity-Based Costing
+ABM;Activity-Based Management
+ABS;Antilock Braking System
+ABT;Abrasive Technology
+ABW;Apparent Beam Width
+AC;Alternating Current
+ACCESS;Analysis Computer For Component Engineering Services Support
+ACF;Anisotropic Conductive Film
+ACGHIC;American Conference Of Governmental Industrial Hygienists
+ACI;After Clean Inspection
+ACLV;Across-Chip Linewidth Variation
+ACP;Anisotropic Conductive Paste
+ACPR;Adjacent Channel Power Ratio
+ACT;Alternative Control Techniques
+ADC;Analog-To-Digital Converter
+ADC/DAC;Analog-Digital Converter/Digital-Analog Converter
+ADE;Advanced Development Environment
+ADI;After Develop Inspection
+ADIG;Application Development Interface Guidelines
+ADIO;Analog/Digital Input/Output
+ADL;Add Lot
+ADP;Administrative Data Processing
+ADR;Automatic Defect Review
+ADSL;Asymmetrical Digital Subscriber List
+ADT;Applied Diagnostic Techniques
+ADTSEM;Apply/Develop Track Specific Equipment Model
+AE;Atomic Emission
+AEC;Advanced Equipment Controller
+AECS;Advanced Equipment Control System
+AEI;After Etch Inspection
+AEM;Analytical Electron Microscopy
+AES;Auger Emission Spectroscopy
+AET;Accelerated Environmental Test
+AEX;Acid Exhaust
+AFD;Application Framework Definition
+AFM;Atomic Force Microscopy
+AFP;Abrasive-Free Polish
+AGC;Automatic Gain Control
+AGREE;Advisory Group Reliability Of Electronic Equipment
+AGV;Automated Guided Vehicle
+AHF;Anhydrous Hydrogen Fluoride
+AHU;Air Handling Unit
+AI;Artificial Intelligence
+AIAG;Automotive Industry Action Group
+AIMS;Aerial Image Microscope
+AIR;Automated Image Retrieval
+ALCVD;Atomic Layer Chemical Vapor Deposition
+ALD;Atomic Layer Deposition
+ALE;Atomic Layer Epitaxy
+ALID;Alarm Event Identifier
+ALS;Advanced Light Source (Lbnl)
+ALT;Accelerated Life Test
+ALU;Arithmetic Logic Unit
+AMC;Airborne Molecular Contamination
+AMH;Automated Material Handling
+AMHS;Automated Material Handling System
+AML;Automatic Model Linking
+AMS;Analog/Mixed-Signal
+AMSRF;Analog
+AMT;Advanced Manufacturing Technology
+AMU;Atomic Mass Unit
+ANN;Artificial Neural Network
+ANOVA;Analysis Of Variance
+ANS;Advanced Nanodefect Surface Inspection System
+ANSI;American National Standards Institute
+AOI;Automatic Optical Inspection
+AOQL;Average Outgoing Quality Level
+AOV;Air-Operated Valve
+AP;Adhesion Promoter
+APA;Advanced Performance Algorithm
+APC;Advanced Process Control
+APCD;Add-On Pollution Control Devices
+APCFI;Advanced Process Control Framework Initiative
+APCVD;Atmospheric Pressure Chemical Vapor Deposition
+APD;Adhesion Promoter Dispense
+APDs;Generally Avalanche Photodiodes
+APEC;Advanced Process Equipment Control
+APG;Algorithmic Pattern Generator
+API;Application Programming Interface
+APIMS;Atmospheric Pressure Ionization Mass Spectroscopy
+APM;Atmospheric Passivation Module
+APQP;Advanced Product Quality Planning
+APRDL;Advanced Products Research And Development Laboratory
+APS;Active Pixel Sensor
+APT;Advanced Probe Technology
+AQ;Administrative Quality
+AQI;Access Query Interface
+AQL;Acceptance Quality Level: Acceptable Quality Level
+AQTX;Aquatic Toxicity
+AR;Aspect Ratio
+ARAMS;Automated Reliability
+ARC;Antireflective Coating
+ARDE;Aspect Ratio-Dependent Etching
+ARIMA;Auto Regressive Moving Average With Integration
+ARO;After Receipt Of Order
+ARPA;Advanced Research Projects Agency (See Darpa)
+ARRC;Advanced R2R Control
+ARS;Angle-Resolved Scattering
+AS/RS;Automated Storage And Retrieval System
+ASAP;Advanced Stepper Application Program
+ASHRAE;American Society Of Heating Refrigeration And Airconditioning Engineers
+ASIC;Application Specific Integrated Circuit
+ASIC/LP;Low Power Asic
+ASICs;Application Specific Integrated Circuits
+ASME;American Society For Mechanical Engineering
+ASO;Automatic Shutoff
+ASP;Advanced Strip And Passivation
+ASR;Automated Send Receive
+ASSP;Application-Specific Standard Product
+AST;Accelerated Stress Test
+ASTM;American Society For Testing And Materials
+ASV;Advanced Safety Vehicle
+ATA;Advanced Test Accelerator
+ATDF;Advanced Tool Development Facility
+ATE;Automatic Test Equipment
+ATF;Automation Test Facility (Recently Renamed Sil)
+ATG;Automatic Test Generation
+ATLAS;Abbreviated Test Language For All Systems
+ATP;Advanced Technology Program
+ATPG;Automatic Test Pattern Generation
+ATR;Attenuated Total Reflectance
+ATR-FTIR;Attenuated Total Reflectance Fourier Transform Infrared Spectroscopy
+ATS;Aggressive Thread Seal
+AVA;Automatic Variable Aperture
+AVP;Advanced Vertical Processor
+AVR;Applied Voltage Ratio
+AVRs;Applied Voltage Ratios
+AVS;Advanced Visualization System
+AWE;Asymptotic Waveform Evaluation
+AWG;Array Waveguide Gratings
+AWG/Sin;Arbitrary Waveform Generations/Sine Wave
+AWISPM;Above-Wafer In Situ Particle Monitoring
+AWS;Advanced Wet Station
+Ac;Actinium
+Ad;Analog Design
+Ag;Silver
+Al;Aluminum
+AlF;Aluminum Fluoride
+Alt;Alternating
+Am;Americium
+Ar;Argon
+ArF;Exposure Wavelength
+As;Arsenic
+At;Astatine
+Att;Attenuated
+Au;Gold
+B;Billion
+BACT;Best Available Control Technology
+BARC;Backside Antireflective Coating
+BASE;Boston Area Semiconductor Education (Council)
+BAW;Bulk Acoustic Wave
+BC;Bias Contrast
+BCAD ;Business Computer-Aided Manufacturing
+BCB;Benzocyclobutene
+BCD;Binary Coded Decimal
+BD;Breakdown
+BDEV;Behavior-Level Deviation
+BDS;Brownian Dynamics Simulation
+BED;Boron Enhanced Diffusion
+BEI;Backscattered Electron Imaging
+BEM;Backside Emission Microscopy
+BENU;Bull'S Eye Nonuniformity
+BEOL;Back End-Of-Line
+BER;Bit Error Rate
+BERT;Bit Error Rate Tester
+BES;Backscatter Electron Signal
+BESOI;Bonded And Etchback Soi
+BF;Brightfield I
+BFA;Bouncing Failure Analysis
+BFGS;Broyden-Fletcher-Goldfarb-Shanno Optimization Algorithm
+BFL ;Buffered Field-Effect-Transistor Logic
+BGA;Ball Grid Array
+BGAs;Ball Grid Arrays
+BGBC;Gate Bottom Contact
+BGS;Bulk Gas System
+BHT;Brinell Hardness Test
+BI;Burn In
+BIFET;Bipolar Field-Effect Transistor
+BILLI;P+ Buried Layer
+BIM;Binary Intensity Mask
+BIR;Building-In Reliability
+BIRA;Built-In Redundancy Allocation
+BISR;Built-In Self Repair
+BIST;Built-In Self Test
+BIT;Bulk Ion Temperature
+BITE;Built-In Test Equipment
+BJT;Bipolar Junction Transistor
+BKM;Best Known Methods
+BLD;Beam Lead Device
+BLEVE;Boiling Liquid Expanding Vapor Explosion
+BLOK;Barrier Low-K
+BLT;Bismuth Lanthanum Titanate
+BMC;Bubble Memory Controller
+BMD;Bulk Micro Defect
+BME;Base Metal Electrode
+BOE;Buffered Oxide Etchant
+BOR;Bottom Of Range
+BOSS;Book Of Semi Standards
+BOST;Built Off-Chip Self Test
+BOX;Buried Oxide
+BPE;Beam Profile Ellipsometry
+BPR;Beam Profile Reflectometry
+BPSG;Boro Phosphosilicate Glass
+BPTEOS;Borophosphosilicate Glass From A Teos Oxysilane Source
+BSE;Backscattered Electron Detection
+BSEs;Topology Differences Backscattered Electrons
+BSR;Backside Rinse
+BST;Barium Strontium Titanate
+BT;Bismallimide Triazene
+BTAB;Bumped Tape Automated Bonding
+BTS;Biased Thermal Stress
+BV;Breakdown Voltage
+BVH;Buried Via Hole
+BVcbo;Collector Base Breakdown Voltage With Open Emitter
+BVceo;Collector Emitter Breakdown Voltage With Open Base
+BVdgo;Drain And Gate Breakdown Voltage With Open Source
+BVdso;Drain Source Breakdown Voltage With Open Gate
+BW;Bandwidth
+Ba;Barium
+Be;Beryllium
+Bi;Bismuth
+BiCMOS;Bipolar Complementary Metal-Oxide Semiconductor
+BiMOS;Bipolar Metal-Oxide Semiconductor
+BiR;Building In Reliability
+BioMEMS;Biological Mems
+Bk;Berkelium
+Br;Bromine
+C;Carbon
+C-SAM;C-mode Scanning Acoustic Microscopy
+C-V;Capacitance-To-Voltage
+C-to-C;Cassette-To-Cassette
+CA ;Cim Architecture
+CAA;Cim Applications Architecture
+CAB;Competitive Analysis Benchmarking
+CAD;Computer-Aided Design
+CADS;Computer Aided Design System
+CADT;Control Application Development Tool
+CAE;Computer-Aided Engineering
+CAF;Controlled Ambient Facility
+CAFM;Conductive Atomic Force Microscopy
+CAG;Competitive Analysis Group
+CAI;Computer-Assisted Instruction
+CALCE;Computer-Aided Life-Cycle Engineering
+CALS;Computer-Aided Logistics Support (Air Force Program)
+CAM;Computer-Aided Manufacturing
+CAP;Consumables Acceleration Program
+CAPS;Computer-Assisted Problem Solving
+CAR;Computer-Aided Research
+CARC;Critical Aspect Ratio Collapse
+CARL;Chemically Amplified Resist Lithography
+CARR;Compound Annual Reduction Rate
+CARRI;Computerized Assessment Of Relative Risk Impacts
+CASE;Computer-Aided Software Engineering
+CAT;Computer-Aided Testing
+CATV;Community Access Television or Community Antenna Television
+CAW;Construction Analysis Workgroup
+CAWC;Cryogenic Aerosol Wafer Cleaning
+CBD;Chemical Bath Deposition
+CBGA;Ceramic Ball Grid Array
+CBIR;Content-Based Image Retrieval
+CBL;Bitline Capitance Per Cell
+CBR;Based Reasoning
+CBS;Chemical Bottle Storage Area
+CBT;Computer-Based Training
+CC;Chip Carrier
+CCC;Ceramic Chip Carrier
+CCD;Charge-Coupled Device
+CCGA;Ceramic Column Grid Array
+CCOS;Computer-Controlled Optical Surfacing
+CCS;Constant Current Stress
+CCSL;Compatible Current-Sinking Logic
+CCSs;Constant Current Stresses
+CCVC;Capacitive Coupling Voltage Contrast
+CCW;Counterclockwise
+CD;Critical Dimension
+CD-ROM;Compact Disk Read-Only Memory
+CD/OL;Critical Dimension Overlay
+CDA;Clean Dry Air
+CDC;Chemical Data Council
+CDE;Chemical Downstream Etch
+CDEM;Customer Delivery Enterprise Model
+CDEs;Cable Discharge Events
+CDG;Ceramic Diaphragm Gauge
+CDI;Collector-Diffusion Isolation
+CDM;Common Device Model For Sab
+CDMA;Code Division Multiple Access
+CDO;Controlled Decomposition/Oxidation
+CDR;Chemical Distribution Room
+CDU;Chemical Dispense Unit
+CE;Capillary Electrophoresis
+CEC;Cell Evaluation Chip
+CEE;Control Execution Environment
+CEID;Collection Event Identifier
+CEM;Continuous Emissions Monitoring
+CEN;Change Engineering Notice
+CEP;Chemically Enhanced Planarization
+CEPT;Comets Equipment Performance Tracking
+CER-DIP;Ceramic Dual In-Line Package
+CERDIP;Ceramic Dual-In-Line Package
+CERQUAD;Ceramic QUAD Flat Package
+CESL;Contact Etch Stop Layer
+CFA;Component Failure Analysis
+CFC;Chlorofluorocarbon
+CFD;Computational Fluid Dynamics
+CFE;Cold Field Emission
+CFI;Cad Framework Initiative
+CFM;Contamination-Free Manufacturing
+CFMRC;Contamination-Free Manufacturing Research Center
+CFR;Constant Failure Rate
+CFT;Cross-Functional Team
+CFU;Colony Forming Unit
+CGA;Compressed Gas Association
+CHC;Channel Hot Carrier
+CHE;Channel Hot Electrons
+CHEs;Carriers Channel Hot Electrons
+CHP;Coat Hotplate
+CHR;Communication History Report
+CI;Carrier Illumination
+CIC;Cleanroom Interface Chamber
+CID;Charge-Injection Device
+CIE;Computer-Integrated Engineering
+CIM;Computer-Integrated Manufacturing
+CIM-OSA;Computer-Integrated Manufacturing-Open Systems Architecture (Esprit Program)
+CIP;Continuous Improvement Program
+CIS;Center For Integrated Systems
+CISC;Complex Instruction Set Computer
+CLC;Cancel Lot Cycle
+CLCC;Ceramic Leaded Chip Carrier
+CLIC;Closed-Loop Intensity Control
+CLSM;Confocal Laser Scanning Microscopy
+CLY;Circuit-Limited Yield
+CM;Configuration Management
+CMA;Cylindrical Mirror Analyzer
+CMC;Cassette Module Controller
+CML;Current Mode Logic
+CMM;Capability Maturity Model
+CMOS;Complementary Metal-Oxide-Silicon
+CMP;Chemical Mechanical Planarization
+CMR;Common-Mode Rejection Ratio
+CMS;Coordinate Measuring System
+CMUG;Cost Modeling Users Group
+CNC;Computer Numerical Control
+CNN;Cellular Non-Linear Network
+CNS;Central Nervous System
+CNT;Carbon Nanotube
+CNTs;Carbon Nanotubes
+COB;Chip-On-Board
+COC;Cost Of Consumables
+CODEC;Coder-Decoder
+COED;Computer Optimized Experimental Design
+COGS;Cost Of Goods Sold
+COO;Chief Operating Officer
+COOL;Cost Of Ownership Luminator (Wright
+COP;Crystal Originated Pit
+COPS;Crystal Oriented Pits
+CORBA;Common Object Request Broker Architecture
+CORE;Composite Object Reference
+COS;Coronoa-Oxide-Semiconductor
+COSS;Common Object Services Specification
+COT;Customer-Owned Tooling
+COTS;Commercial Off-The-Shelf
+COV;Coefficient Of Variance
+CP;Cost-Performance
+CP/M;Computer Program/Maintenance
+CPA;Commerical Product Adhesive
+CPD;Concurrent Product Development
+CPE;Communications
+CPGA;Ceramic Pin Grid Array
+CPI;Continuous Process Improvement
+CPM;Chamber Pressure Management
+CPMT;Packaging And Manufacturing Technology
+CPU;Central Processing Unit
+CQED;Cavity Quantum Electrodynamics
+CQFP;Ceramic Quad Flat Pack
+CQN;Closed-Queuing Network
+CRADA;Cooperative Research And Development Agreement
+CRC;Cyclic Redundancy Check
+CRM;Cost/Resource Model
+CRT;Cathode Ray Tube
+CSA;Cim Systems Architecture
+CSD;Chemical Solution Deposition
+CSE;Control Systems Engineering
+CSF;Critical Success Factor
+CSG;Silicon On Glass
+CSIC;Ieee Compound Semiconductor Ic
+CSL;Current-Steering Logic
+CSLM;Confocal Scanning Laser Microscope
+CSM;Continuous Stiffness Measurement
+CSMA/CD;Carrier-Sense
+CSP;Chip-Scale Package
+CSPED;Concurrent Semiconductor Production And Equipment Development
+CST;Cim Systems Technology
+CSTR;Continuously Stirred Tank Reactor
+CSV;Comma-Separated Variable
+CT;Cycle Time
+CTC;Cluster Tool Controller
+CTE;Coefficient Of Thermal Expansion
+CTI;Computer-Telephone Integration
+CTL;Complementary Transistor Logic
+CTMC;Cluster Tool Modular Communications
+CTR;Current Transfer Ratio
+CUB;Central Utility Building
+CUBES;Capacity Utilization Bottleneck Efficiency System
+CUI;Common User Interface
+CUSUM;Cumulative Sum
+CV;Capacitance Voltage
+CV-BTS;Capacitance-To-Voltage Iased Thermal Stress
+CV/I;Intrinsic Transistor Delay
+CVA;Continuous Variable Aperture
+CVC;Chemical Vapor Cleaning
+CVCM;Collected Volatile Condensable Materials
+CVD;Chemical Vapor Deposition
+CVS;Cyclic Voltammetry Stripping
+CW;Continuous Wave
+CWL;Wordline Capacitance Per Cell
+CWS;Chilled Water System
+CYM;Cycle Model
+CZ;Czochralski
+Ca;Calcium
+Cb;Columbiun
+Cd;Cadmium
+Ce;Cerium
+Cf;Californium
+Cgate;Gate Capacitance
+Cl;Chlorine
+Cm;Curium
+Co;Cobalt
+CoO;Cost Of Ownership
+CoV;See Cov
+CoWP;Cobalt Tungsten Phosphide
+Cox;Oxide Capacitance
+Cp;Process Capability
+Cparasitic;Parasitic Capacitance
+Cpk;Process Capability Index
+Cr;Chromium
+Cr ;Chromium
+Cs;Cesium
+Cu;Copper
+Cz;Czochralski Process
+D;Deuterium
+D/A;Digital To Analog
+D/B;Die Bonding
+D/I;Develop Inspect
+D0;Defect Density
+DAC;Digital-To-Analog Converter
+DAFs;Die Attach Films
+DAHCs;Field Drain Avalanche Hot Carriers
+DARPA;Defense Advanced Research Projects Agency (See Arpa)
+DAS;Direct Absorption Spectroscopy
+DASSL;Differential Algebraic System Solver
+DAT;Direct Access Dft
+DB;Dielectric Breakdown
+DBIE;Db Induced Epitaxy
+DBMS;Database Management System
+DBP;Data Processing Board
+DBS;Dual Beam Spectroscopy
+DC;Direct Current
+DC-DC;Dc To Dc Conversion
+DCA;Direct Chip Attachment
+DCATS;Double-Contained Acid Transfer System
+DCCF;Discounted Cumulative Cash Flow
+DCE;Distributed Computer Environment
+DCFL;Direct Coupled Fet Logic
+DCG;Distortion Calibration Grid
+DCL;Digital Command Language
+DCS;Dichlorosilane
+DCV;Direct Contact Via
+DCVD;Dieletric Chemical Vapor Deposition
+DD;Defect Density
+DDAF;Dicing Die Attach Film
+DDH;Direct-To-Digital Holography
+DDL;Device Description Language
+DDMS;Defect Data Management System
+DECT;Digital European Cordless Telephone
+DEDS ;Discrete-Event Dynamic Simulation
+DEE;Detailed Equipment Events
+DEMO;Demonstration
+DEMUX;To Be Filled In
+DES;Data Encryption Standard
+DF;Darkfield
+DFC;Densified Fluid Clean
+DFE;Dual Frequency Etch
+DFESH;Design For Esh
+DFFA;Design For Failure Analysis
+DFLP;Design For Low Power
+DFM;Design For Manufacture
+DFR;Design For Reliability
+DFS;Design for Safety
+DFSS;Design For Six Sigma
+DFT;Design For Testability
+DG;Double Gate
+DGM;Dynamic Grid Matching
+DGSOI;Double-Gate Silicon-On- Insulator
+DHF;Dilute Hydrofluoric Acid
+DI;Deionized
+DIBL;Drain-Induced Drain Leakage
+DIC;Differential Interference Contrast
+DICE;Darpa Initiative In Concurrent Engineering
+DIL;Dual Inline
+DIMM;Dual In-line Memory Module
+DIP;Dual Inline Package
+DJ;Deterministic Jitter
+DLBI;Device Level Burn-In
+DLL;Dynamic Link Library
+DLM;Dual-Level Metal
+DLOC;Developed Source Lines Of Code
+DLS;Display Lot Status
+DLT;Device Level Test
+DLTS;Deep Level Transient Spectroscopy
+DM;Defect Management
+DMA;Direct Memory Access
+DMD;Digital Micromirror Device
+DMH ;Display Message Helps
+DML;Data Manipulation Language
+DMM;Digital Multimeter
+DMOS;Diffused Metal-Oxide Semiconductor
+DMR;Display Move Requests
+DMS;Data Management Standard
+DNN;Dark Narrow Normal
+DNO;Dark Narrow Oblique
+DO;Dynamic Optimization
+DOA;Dead-On Alignment
+DOAS;Differential Optical Absorption Spectroscopy
+DOE;Design Of Experiments
+DOF;Depth Of Field
+DOP;Dioctylphthalate
+DOS;Disk Operating System
+DOTS;Digital-Optical Technology System
+DPA;Destructive Physical Analysis
+DPB;Data Processing Board
+DPI;Dots Per Inch
+DPM;Digital Panel Meter
+DPPM;Defects Parts Per Million
+DPS;Display Process Status
+DPSRAM;Dual-Port Static Random Access Memory
+DRAM;Dynamic Random Access Memory
+DRAMs;Intact Dynamic Random Access Memories
+DRAPAC;Design Rule And Process Architecture Council
+DRC ;Design Rule Check
+DRE;Destruction Removal Efficiency
+DRIFTS;Diffuse Reflectance Infrared Fourier Transform Spectroscopy
+DRT;Defect Review Tool
+DS;Decision Support
+DSA;Display System Activity
+DSC;Differential Scanning Calorimetry
+DSE;Droplet Surface Etching
+DSF;Dead Space Free
+DSM;Data Storage Management
+DSMC;Direct Simulation Monte Carlo
+DSO;Digital Sampling Oscilloscope
+DSP;Differential Signal Processing
+DSQ;Downstream Quartz
+DSS;Display Stocker Status
+DSSC;Dye Sensitized Solar Cell
+DSW;Direct Step-On-Wafer
+DT;Dynamic Test
+DTA;Differential Thermal Analysis
+DTC;Direct Thermocouple Control
+DTL;Diode Transistor Logic
+DTM;Defect Test Monitor
+DTMPN;Defect Test Monitor Phase Number
+DTV;Digital Television
+DUF;Diffusion Under Epitaxial Film
+DUT;Device Under Test
+DUV;Deep Ultraviolet
+DUVSE;Deep Ultraviolet Spectroscopic Ellipsometry
+DV;Design Verification
+DVER;Design Rule Verification
+DVI;Digital Video Interactive
+DVM;Digital Voltmeter
+DVS;Display Vehicle Status
+DWG;Domain Work Group
+DWN;Dark Wide Normal
+DWO;Dark Wide Oblique
+DfM;Design For Manufacturability
+DfR;Design For Reliability
+Dlasoi;Large Area Soi Defects
+DoC;Department Of Commerce
+DoD;Department Of Defense
+DoE;Department Of Energy
+Dsasoi;Small Area Soi Defects
+Dt;Thermal Budget
+Dy;Dysprosium
+E;Modulus
+E-beam;Electron Beam
+E.q.;Exempli Gratia
+E/D;Enhanced Depletion
+E/W;Erase/Write
+EAPROM;Electrically Alterable PROM
+EAPSM;Enbedded-Attenuated Phase Shift Msk
+EAROM;Electrically Alterable Read-Only Memory
+EASE;Equipment And Software Emulator
+EB;Electron Beam
+EBAC;Electron Beam Absorbed Current
+EBHT;Electron Beam High Throughput Lithography
+EBIC;Electron Beam-Induced Current
+EBIV;Electron-Beam-Induced Voltage
+EBL;Encapsulated Beam Lead
+EBR;Edge Bead Removal
+EBSD;Electron Backscattering Diffraction
+EC;Engineering Change
+ECA;Engineering Capability Assessment
+ECAD;Electronic Computer-Aided Design
+ECAE;Electronic Computer-Aided Engineering
+ECAG;Equipment Class Application Guideline
+ECC;Error Control Coding
+ECD;Electron Capture Detector
+ECL;Emitter Coupled Logic
+ECMD;Electrochemical-Mechanical Deposition
+ECMP;Electro-Chemical-Mechanical Polishing
+ECN;Engineering Change Notice
+ECO;Engineering Change Order
+ECP;Electrochemical Plating
+ECQB;Electrochemical Quartz Crystal Balance
+ECR;Electron Cyclotron Resonance
+ECTC;Electronic Components and Technology Conference
+ECTFE;Ethylene Chlorotrifluoroethylene
+ECU;Engine Control Unit
+EDA;Electronic Design Automation
+EDD;Earliest Due Date
+EDGE;Enhanced Data Rates For Global Standard For Mobile (Gsm) Evolution
+EDI;Electronic Data Interchange
+EDIF;Electronic Design Interchange Format
+EDP;Electronic Data Processing
+EDS;Energy-Dispersive Spectroscopy
+EDU;Equipment Dependent Uptime
+EDX;Energy-Dispersive X Ray
+EDXA;Energy-Dispersive X-Ray Analysis
+EE;Electrical Engineering
+EEDF;Electron Energy Distribution Function
+EELS;Electron Energy-Loss Spectroscopy
+EEPROM;Electrically Erasable Programmable Read Only Memory
+EEROM;Electrically Erasable ROM
+EES;Equipment Engineering System
+EFA;Electrical Failure Analysis
+EFDIA;Failure Detection And Isolation Arrangement
+EFEM;Equipment Front End Module
+EFM;Electrical Force Microscopy
+EFO;Electronic Flame-Off
+EFOCS;Evanescent Fiber Optic Chemical Sensors
+EFR;Early Failure Rate
+EFS;Extendibility
+EFTIR;Emission Fourier Transform Infrared Spectroscopy
+EFV;Excess Flow Valve
+EG;Extrinsic Gettering
+EGE;Ethylene Glycol Ethers
+EHO;Estimated Hourly Output
+EHS;Extremely Hazardous Substances
+EI;Equipment Integration
+EIA;Electronic Industries Association
+EIC;Extracted Ion Count
+EID;Equipment Interface Development
+EIP;Equipment Improvement Program
+EIS;Electrochemical Impedance Spectroscopy
+EKF;Extended Kalman Filter
+EL;Experience Level
+ELF;Extremely Low Frequency
+ELK;Extreme Low K
+ELL;Entrance Loadlock
+ELS;Extended Life Source
+ELU;Environmental Loan Unit
+EM;Enterprise Model
+EMA;Effective Medium Approximation
+EMC;Electromagnetic Capability
+EMF;Electromagnetic Field
+EMF ;Electromagnetic Field
+EMG;Electromigration
+EMI;Electromagnetic Interference
+EMMA;Electron Microscopy And Microanalysis
+EMO;Emergency Off
+EMP;Electromagnetic Pulse
+EMR;Enter Move Request
+EMU;Electromagnetic Unit
+ENOB;Effective Number Of Bits
+EO;Electro-Optical
+EOL;End Of Line
+EOS;Electrical Overstress
+EOT;End Of Transfer
+EOTPR;Electro Optical Terahertz Pulsed Reflectometry
+EOY;End Of Year
+EP;Extreme Pressure
+EPA;Environmental Protection Agency
+EPI;Epitaxial Silicon
+EPIC;To Be Filled In
+EPL;Electron Projection Lithography
+EPM;Equipment Performance Metrics
+EPMA;Electron-Probe Micro-Analysis
+EPO;Emergency Power Off
+EPR;Electron Paramagnetic Resonance
+EPRI;Electrical Power Research Institute
+EPROM;Electrically Programmable Read-Only Memory
+EPSM;Embedded Phase Shift Mask
+EPSS;Electronic Performance Support System
+EPT;Equipment Performance Tracking
+EQCA;Electronic Qca
+EQUIP C/I;Equipment Control And Integration
+EQUIP RTC;Equipment Real-Time Control
+ERAM;Equipment Reliability
+ERBW;Effective Resolution Bandwidth
+ERC;Equivalent Release Concentration
+ERCS;Exponential Ramped Current Stress
+ERD;Elastic Recoil Detection
+ERG;Enhancement And Review Group
+ERM;Enterprise Reference Model
+ERN;External Recurrent Neural Network
+ERP;Extended Range Pyrometer
+ERS;Event Reporting Standard
+ERT;Emergency Response Time
+ES;Engineering Specification
+ES-level;Electronic System Level
+ESA;Electrostatic Attracted
+ESC;Electrostatic Chuck
+ESCA;Electron Spectroscopy (For) Chemical Analysis
+ESD;Electrostatic Discharge
+ESEM;Environmental Scanning Electron Microscope
+ESH;Environment
+ESIA;European Semiconductor Industry Association
+ESM;Electronic Service Manual
+ESP;Electronic Stability Control
+ESPRIT;European Strategic Program For Research In Information Technology
+ESR;Equivalent Series Resistance
+ESREF;European Symposium on Reliability of Electron Devices
+ESS;Environmental Stress Screening
+ESTC;Electronics System-Integration Technology Conferences
+ESTM;Electrochemical Scanning Tunneling Microscope
+ESW;Embedded Software
+ETA;Event Tree Analysis
+ETAB;Executive Technical Advisory Board
+ETQR;External Total Quality And Reliability
+ETS;Engineering Test Stand
+EUV;Extreme Ultraviolet
+EUVL;Extreme Ultraviolet Lithography
+EUVLLC;Euv Limited Liability Corporation
+EVA;Ethylene Vinyl Acetate
+EVC;Equilibrium Vapor Concentration
+EW;Electrolyzed Water
+EWMA;Exponentially Weighted Moving Average
+EYE;Edinburgh Yield Estimator
+Ec;Coercive Field
+Er;Erbium
+Es;Einsteinium
+Eu;Europium
+F;Fluorine
+F/E;Focus/Exposure
+F/I;Final Inspect
+FA;Failure Analysis
+FAB;Fast Atom Bombardment
+FACS;Fast Access To Critical Solutions
+FAMOS;Floating-Gate Avalanche-Injection Metal-Oxide Semiconductor
+FB;Floating Body
+FBAR;Filter Bulk Acoustic Resonator
+FBGA;Fine Pitch Ball Grid Array
+FC;Flip Chip
+FCA;Free-Carrier Absorption
+FCB;Flip Chip Bonding
+FCBGA;Flip-Chip Ball Grid Array
+FCM;Facilities Cost Model
+FCS;Factory Control System
+FD;Fully Depleted
+FD-SOI;Fully Depleted Soi
+FDA;Food And Drug Administration
+FDC;Fault Detection And Classification
+FDE;Frequency Domain Experiments
+FDSOI;Fully Depleted Silicon On Insulator
+FDTD;Finite Difference Time Domain
+FE;Finite Element
+FEA;Finite Element Analysis
+FEC;Fabrication Evaluation Chip
+FEG;Field Emission Gun
+FEM;Finite Element Model
+FEOL;Front End Of Line
+FEP ;Front-End Processes
+FESEM;Field Emission Scanning Electron Microscope/Microscopy
+FESEMs;Field Emission Scanning Electron Microscopes
+FET;Field-Effect Transistor
+FFDM;Function Failure Design Method
+FFT;Fast Fourier Transform
+FFU;Filter Fan Unit
+FG;Finished Goods
+FI;Filterability Index
+FIA;Field Interferometer Alignment
+FIB;Focused Ion Beam
+FICS;Factory Information And Control Systems
+FID;Flame Ionization Detector
+FIDAP;Fluid Dynamics Analysis Package
+FIFO;First-In
+FIM;Field Ion Microscope
+FIMA;Factory Integration Maturity Assessment
+FIMS;Front-Opening Interface Mechanical Standard
+FIT;Failure Unit
+FITS;Failures In Time
+FL;Fuzzy Logic
+FLASH;Flash Memory Device
+FLOODS;Florida Object-Oriented Device Simulator
+FLOOPS ;Florida Object-Oriented Process Simulator
+FLOPC;Floating Point Operations Needed Per Cycle
+FLOTOX;Floating Gate Tunnel Oxide
+FLRT;Factory Layout/Relayout Tool
+FM;Foreign Material
+FMA;Failure Mode Assessment
+FMEA;Failure Mode And Effects Analysis
+FMECA;Failure Mode  Effect and Criticality Analysis
+FMEDA;Failure Modes Effects and Diagnostic Analysis
+FMI;Fluorescent Microthermal Imaging
+FMMC;Factory Material Movement Component
+FMMEA;Failure Modes Mechanisms and Effects Analysis
+FMS;Forms Management System
+FMVP;Framework Member Validation Project
+FMo;Thyristors Failure Mode
+FMos;Failure Modes
+FMs;Failure Mechanisms
+FNN;Feed-Forward Neural Network
+FO;Fan-Out
+FO INV;Fan Out Inverter
+FO4 INV;Fanout-Of-4 Inverter
+FOCS;Fiber Optic Chemical Sensors
+FOSB;Front Opening Shipping Box
+FOUP;Front Opening Unified Pod
+FOV;Field Of View
+FOWLP;Fan-Out Wafer Level Package
+FOX;Field Oxide
+FP;Flash Point
+FPBGA;Flip-chip Ball Grid Array
+FPD;Focal Plane Deviation
+FPGA;Field-Programmable Gate Array
+FPLA;Field-Programmable Logic Array
+FPLF;Field-Programmable Logic Family
+FPLS;Field-Programmable Logic Switch
+FPM;Flexual Plate Mode
+FPMS;Factory Performance Modeling Software
+FPNI;Field Programmable Nanowire Interconnect
+FPROM;Field-Programmable Read-Only Memory
+FQA;Fixed Quality Area
+FRACAS;Failure Reporting
+FRAM;Ferroelectric Ram
+FRAME;Failure Rate Analysis And Modeling
+FRMB;Fast Ramp Mini Batch
+FS;Fused Silica
+FSE;Field Service Engineers
+FSG;Fused Silica Glass
+FSM;Finite State Machine
+FT;Final Test
+FTA;Fault Tree Analysis
+FTAB;Focus Technical Advisory Board
+FTICR;Fourier Transform Ion Cyclotron Resonance Spectroscopy
+FTIR;Fourier Transform Infrared Spectroscopy
+FTP;Fast Thermal Processing
+FTTF;First Time To Failure
+FUSI;Discharge Fully Silicided
+FW;Full Wave
+FWHM;Full-Width Half-Maximum
+FWT;Fluoride Wastewater Treatment
+FZ;Float Zone
+Fab;Fabrication
+Fe;Iron
+FeRAM;Ferroelectric Ram
+FinFET;Fin Structure Field Effect Transistor
+Fm;Fermium
+Fmax;Maximum Frequency At Unity Power Gain
+Fmin;Minimum Noise Figure
+FoM;Figures Of Merit
+Fr;Francium
+Fs;Sample Rate
+GAC;Granular Activated Carbon
+GAE;Gas-Assisted Etch
+GALS;Globally Asynchronous And Locally Synchronous
+GASAD;Gate And Source And Drain
+GB;Gigabyte
+GC;Gas Chromatography
+GCC;Generic Cell Controller
+GCD;Gas Chromatography Distillation
+GCMS;Gas Chromatography Mass Spectroscopy
+GCR;Generalized Cambridge Ring
+GDP;Gas Distribution Plate
+GDPP;Gas Drive Plasma Pinch
+GDS;Generalized Data Stream
+GEM;Generic Equipment Model
+GEMVS;Gem Verification System
+GES;Generic Equipment Simulator
+GFA;Gas Fusion Analysis
+GFAAS;Graphite Furnace Atomic Absorption Spectrometry/Spectroscopy
+GFC;Gas Filter Correlation
+GFCI;Ground Fault Circuit Interrupter
+GFIS;Gas Field Ion Source
+GHG;Greenhouse Gas
+GHz;Gigahertz
+GI;Global Irrigation
+GIDL;Gate-Induced Drain Leakage
+GILD;Gas Immersion Laser Doping
+GIQLP;Industry Quality Liaison Panel
+GIS;Gas Injection System
+GJG;Global Joint Guidance
+GLC;Gas Liquid Chromatography
+GMR;Giant Magneto Resistance
+GND;Ground
+GOF;Goodness Of Fitness
+GOI;Gate Oxide Integrity
+GPIB;General-Purpose Interface Bus
+GPM;Gross Profit Margin
+GPRS;General Packet Radio Service
+GPS;Global Positioning System
+GRC;Gas Reactor Column
+GRTV;Graphite Rapid Thermal Vulcanization
+GSCE;Gas Source Control Equipment
+GSCI;Generated Subordinate Carrier Injection
+GSM;Global Standard For Mobile
+GSPID;Gain-Scheduled Proportional Integro-Differential
+GTO;Gate-Turn-Off
+GTS;Gem Test System
+GUI;Graphical User Interface
+GWIM;Global Warming Impact Model
+GWLE;Good Wafer Level Exposure
+GWP;Global Warming Potential
+Ga;Gallium
+GaAs;Gallium Arsenide
+GaN;Gallium Nitride
+Gassoc;Associated Gain
+Gb;Gigabit
+Gb/s;Gigabit Per Second
+Gce;Transconductance Between Collector And Emitter Gcib
+Gd;Gadolinium
+Gds;Transconductance Between Drain And Source
+Ge;Germanium
+Gi-XRR;Grazing Incidence X-Ray Reflectivity
+Gm;Transconductance Between Drain And Gate
+H;Hydrogen
+HAC;High Aspect Contact
+HALT;Highly Accelerated Life Testing
+HAP;Hazardous Air Pollutant
+HAR;High Aspect Ratio
+HARC;High Aspect Ratio Contact
+HARI;High Aspect Ratio Inspection
+HASS;Highly Accelerated Stress Screening
+HAST;Highly Accelerated Stress Testing
+HASTs;Highly Accelerated Stress Tests
+HAZCOM;Hazard Communication Standard
+HB;Horizontal Bridgeman Crystal
+HBM;Human Body Model
+HBT;Heterojunction Bipolar Transistor
+HBTs;The Heterojunction Bipolar Transistors
+HC;Hot-Carrier
+HCD;Hot-Carrier Degradation
+HCI;Hot Carrier Injection
+HCM;Hollow Cathode Magnetron
+HCMOS;High Density Complementary Metal-Oxide Semiconductor
+HCS;Hot-Carrier Suppressed
+HCl;Hydrochloric Acid
+HD;High Density
+HDD;High Density Disk
+HDL;Hardware Description Language
+HDP;High Density Plasma
+HDPE;High Density Polyethylene
+HE;High Energy
+HEM;High Efficiency Matching
+HEMT;High Electron Mobility Transistor
+HEMTs;The High Electron Mobility Transistors
+HEPA;High Efficiency Particulate Air
+HEX;Heat Exhaust
+HF;Hydrofluoric Acid
+HFET;Heterojunction Field Effect Transistor
+HFETs;Gan Heterojunction Field Effect Transistors
+HFRR;Hydrofluoric Acid Reprocessor Return System
+HI;Holographic Interferometry
+HIBS;Heavy Ion Backscattering Spectrometry
+HICs;Hybrid Integrated Circuits
+HIM;Heated Injection Manifold
+HLF;Horizontal Laminar Flow
+HMDS;Hexamethyldisilizane
+HMIS;Hazardous Materials Inventory Statement
+HMMP;Hazardous Materials Management Plan
+HMOS;High Performance Mos
+HOMER;Hazardous Organic Mass Emission Rate
+HOPG;Highly Oriented Pyrolitic Graphite
+HP;High-Performance
+HPCC;High Performance Computing And Communicating
+HPEM;Hybrid Plasma Equipment Model
+HPL;High Performance Logic
+HPLC;High Performance Liquid Chromatography
+HPM;Hazardous Production Materials
+HPV;High Pressure Vent
+HR;High Resolution
+HRA;Human Reliability Analysis
+HREM;High Resolution Electron Microscopy
+HRR;High Ramp Rate
+HRTEM;High Resolution TEM
+HRTEM ;High Resolution Transmission Electron Microscopy
+HSFR;High Spatial Frequency Roughness
+HSMS;High Speed Messaging Services
+HSQ;Hydrogen Silsesquioxane
+HTDR;High Temperature Data Retention
+HTF;High Temperature Film
+HTH;Head-To-Head
+HTL;High Threshold Logic
+HTO;High Temperature Oxidation
+HTOL;High Temperature Operating Life
+HTRB;High Temperature Reverse Bias
+HTU;Height Of Transfer Unit
+HUPW;Hot Ultrapure Water
+HV;High Voltage
+HVAC;Heating
+HVC;High Value Compound
+HVM;High Volume Manufacturing
+HVP;High Volume Production
+HVPE;Hydride Vapour Phase Epitaxy
+HW;Hardware
+HWS;Heating Water System
+HY;Hybrid
+He;Helium
+Hf;Hafnium
+Hg;Mercury
+HiPOx;High-Pressure Oxygen
+Ho;Holmium
+I-V;Current Voltage
+I/O;Input/Output
+I2L;Integrated Injector Logic
+I300I;International 300 Mm Initiative
+IA;Instrument Air
+IAEA;International Atomic Energy Agency
+IBF;Ion Beam Figure
+IBM;International Business Machine
+IC;Integrated Circuit
+ICAP;Inductively-Coupled Argon-Plasma Spectrometry
+ICCG;Incomplete Conjugate Gradient
+ICMS;Integrated Circuit Measurement System
+ICP;Inductively-Coupled Plasma
+ICP-AES;Inductively-Coupled Plasma Atomic Emission Spectroscopy
+ICP-MS;Inductively-Coupled Plasma Mass Spectrometry
+ICT;Ideal Cycle Time
+ICW;Industrial City Water
+ICs;Integrated Circuits
+ID;Identity
+IDA;Intentional Defect Array
+IDDQ;Direct Drain Quiescent Current
+IDL;Interface Definition Language
+IDLH;Immediately Dangerous To Life Or Health
+IDM;Integrated Device Manufacturer
+IDS;Interactive Diagnostic System
+IEA;Ion Energy Analysis
+IEC;Infused Emitter Coupling
+IEDF;Ion Energy Distribution Function
+IEDM;International Electron Devices Meeting
+IEEE;Institute Of Electrical And Electronics Engineers
+IEICE;Institute Of Electronics
+IEM;Industry Economic Modeling
+IEP;Interferometric Endpoint
+IERN;Internal-External Recurrent Neural Network
+IF;Interface
+IFR;Increasing Failure Rate
+IFS;Iterated Function System
+IG;Intrinsic Gettering
+IGBT;Insulated Gate Bipolar Transistor
+IGFET;Insulated-Gate Field-Effect Transistor
+IH;Industrial Hygiene
+IHT;Ideal Handler Time
+II;Ion Implant (Also I2)
+IIAP;Imec Industrial Affiliation Programs
+IITRI;Iit Research Institute
+ILB;Inner Lead Bond
+ILD;Interlevel Dielectric
+ILDS;Integrated Liquid Delivery System
+ILS;Intracavity Laser Spectroscopy
+IM;Integrated Model
+IMAPS;International Microelectronics And Packaging Society
+IMD;Intermetal Dielectric
+IME;Institute Of Microelectronics
+IMEC;Interuniversity Microelectronics Center
+IMMA;Ion Microphobe Mass Analysis
+IMP;Ion Metal Plasma
+IMPATT;Impact Ionization Avalanche Transit Time
+IMR;Integrated Model Repository
+IMS;Ion Mobility Spectroscopy
+INCAMS;Individual Cassette Manufacturing System
+IOC;Input/Output Controller
+IP;Intellectual Property
+IPA;Isopropyl Alcohol
+IPAD;Integrated Passive and Active Device
+IPC;Interconnecting And Packaging Electronic Circuits
+IPD;In-Plane Distortion
+IPL;Ion Projection Lithography
+IPO;Initial Public Offering
+IPP;Inplane Distortion
+IPS;Inductive Plasma Source
+IPT;Ideal Process Time
+IR;Infrared
+IR-OBIRCH;Infrared Optical Beam-Induced Resistance Charge
+IRAS;Infrared Reflection-Absorption Spectroscopy
+IRC;International Roadmap Committee
+IRED;Infrared Emitting Diode
+IREM;Infrared Emission Microscopy
+IRIS;Imaging Of Radicals Interacting With Surfaces
+IRLAS;Infrared Laser Absorption Spectroscopy
+IRLIT;IR Lock-in Thermography
+IRM;Infrared Microscopy
+IRN;Internal Recurrent Neural Network
+IRONMAN;Improving Reliability Of New Machines At Night
+IRPS;International Reliability Physics Symposium
+IRTC-1;Interconnect Reliability Test Chip-1
+IS;Information Systems
+ISA;Instrumentation Society Of America
+ISC;Industry Steering Council
+ISDN;Integrated Services Digital Network
+ISEM;Inspection/Review Specific Equipment Model
+ISM;Inductor Super Magnetron
+ISMT;International Sematech
+ISO;International Standards Organization
+ISPM;In Situ Particle Monitor
+ISR;In Situ Rinse
+ISS;Ion Scattering Spectroscopy
+ISSCC;International Solid State Circuits Conference
+ISSG;In Situ Steam Generation
+IST;Information Society Technologies
+ISTFA;International Symposium for Testing and Failure Analysis
+ITC;International Test Conference
+ITO;Indium–Tin–Oxide
+ITP;In-Target Probe
+ITRI;Interconnection Technology Research Institute
+ITRS;International Technology Roadmap For Semiconductors
+ITU;Input Terminal Unit
+ITWG;International Technology Working Group
+IVH;Interstitial Via Hole
+IVP;Integrated Vacuum Processing
+IWN;Industrial Waste Neutralization
+IYM;Integrated Yeild Management
+Ic;Collector Current
+Idd;Leak
+Ids;Current Between Drain And Source
+Ig;Gate Current
+Igate;Gate Current
+Imax;Maximum Via Current
+In;Indium
+InGaAS;Indium Gallium Arsenide
+Ioff;Off Current
+Ion;On Current
+Ir;Iridium
+JAN;Joint Army-Navy
+JDP;Joint Development Program
+JEDEC;Joint Electron Device Engineering Council
+JEIDA;Japanese Electronic Industries Development Association
+JEITA;Japan Electronics And Information Technologies Association
+JESSI;Joint European Submicron Silicon
+JFET;Junction Field Effect Transistor
+JFETs;Junction Field Effect Transistors
+JIC;Joint Industrial Council
+JIS;Japanese Industrial Standard
+JIT;Just-In-Time
+JJ;Josephson Junction
+JJT;Josephson Junction Transistor
+JSNM;Japan Society Of New Metals
+JVD;Jet Vapor Deposition
+Jmax;Maximum Junction Current Density
+K;Potassium
+KBr;Potassium Bromide Crystal
+KC;Kinematic Coupling
+KDLOC;1000 Developed Source Lines Of Code
+KGD;Known Good Die
+KIT;Key Intelligence Topics
+KPA;Key Process Area
+KPFM;Kelvin Probe Force Microscope
+KSIA;Korea Semiconductor Industry Association
+KSLOC;1000 Source Lines Of Code
+KWh;Kilowatt Hour
+Kbps;Kilobits
+KeV;Kilo Electron Volt
+Kr;Krypton
+L;Inductance
+LA;Laser Anneal
+LAMMA;Laser Micro-Mass Analysis
+LAMMS;Laser Micro-Mass Spectroscopy
+LAN;Local Area Network
+LANL;Los Alamos National Laboratory
+LAR;Lot Age Report
+LASER;Light Amplification by Stimulated Emission of Radiation
+LASOI;Large Area Soi
+LBIC;Laser Beam Induced Current
+LBNL;Lawrence Berkeley National Laboratory
+LC;Liquid Chromatography
+LCA;Lifecycle Analysis
+LCC;Leaded Chip Carrier
+LCD;Liquid Crystal Display
+LCI;Lifecycle Inventory
+LCL;Lower Confidence Limit
+LCs;Liquid Crystals
+LD;Laser Diode
+LDA;Linear Discriminant Analysis
+LDCC;Leaded Chip Carriers
+LDD;Lightly Doped Drain
+LDL;Lower Detection Limit
+LDMOS;Laterally Diffused Metal Oxide Semiconductor
+LDP;Low Density Plasma
+LDPE;Low Density Polyethylene
+LDS;Liquid Delivery System
+LEC;Liquid Encapsulated Czochralski Crystal
+LED;Light-Emitting Diode
+LEDs;Characteristics Light Emitting Diodes
+LEED;Low-Energy Electron Diffraction
+LEL;Lower Explosive Limit
+LEM;Light Emission Microscopy
+LER;Line Edge Roughness
+LF;Laminar Flow
+LFL;Lower Flammable Limit
+LFSR;Linear Feedback Shift Registers
+LGA;To Be Filled In
+LGQ;Linear Gaussian Quadratic
+LI;Laser Interferometry
+LIC;Linear Integrated Circuit
+LID;Leadless Inverted Device
+LIDAR;Light Detection And Ranging Technology
+LIFO ;Last In First Out
+LIFT;Laser Induce Forward Transfer
+LIGA;Lithographie Galvanoformung
+LIMA;Laser-Induced Mass Analysis
+LIMS;Laser-Induced Mass Spectrometry
+LIR;Location Inventory Report
+LIT;Lock-in Thermography
+LIVA;Light Induced Voltage Alteration
+LKDM;Low K Dielectric Material
+LLCC;Leadless Chip Carrier
+LLD;Lower Limit Of Detection
+LLM;Local Linear Models
+LLNL;Lawrence Livermore National Laboratory
+LLNQ;Least Lots Next Queue
+LLS;Localized Light Scatterer
+LM;Light Microscope
+LMDS;Local Multiple Distributed Services
+LMIS;Liquid Metal Ion Source
+LMMA;Laser Microprobe Mass Analysis
+LNA;Low Noise Amplifier
+LOC;Level Of Concern
+LOCOS;Local Oxidation Of Silicon
+LOD;Limit Of Detection
+LOP;Low Operating Power
+LOS;Loss Of Selectivity
+LOTO;Lockout/Tagout
+LP;Low Power
+LPC;Linear Predictive Coding
+LPCVD;Low Pressure Chemical Vapor Deposition
+LPD;Light Point Defect
+LPE;Liquid Phase Epitaxy
+LPI;Liquid Photo Image
+LPP;Laser-Produced Plasma
+LPR;Laser Plasma Reflectometer
+LPSM;Levenson Phase Shift Mask
+LPT;Linear Polishing Technology
+LPV;Low Pressure Vent
+LRP;Long-Range Plan
+LRS;Laser Raman Spectroscopy
+LRVS;Linear Voltage Ramp Stress
+LSB;Least Significant Bit
+LSCVD;Liquid Source Misted Chemical Vapor Deposition
+LSE;Latex Sphere Equivalent
+LSHI;Large-Scale Hybrid Integration
+LSI;Large-Scale Integration
+LSM;Laser Scanning Microscope
+LSS;Localized Light Scatterers
+LSTP;Low Standby Power
+LTA;Laser Thermal Anneal
+LTC;Lithographic Test Chip
+LTCC;Low Temperature Co-Fired Ceramic
+LTCVD;Low-Temperature Chemical Vapor Deposition
+LTDR;Low Temperature Data Retention
+LTEM;Low Thermal Expansion Material
+LTI;Laser Thermal Implantation
+LTL;Lot-To-Lot
+LTO;Low-Temperature Oxidation (Or Oxide)
+LTPD;Lot Tolerance Percent Defective
+LTRM;Term Reliability Monitor
+LTV;Local Thickness Variation
+LUW;Logical Unit Of Work
+LV;Latent Variable
+LVDT;Linear Voltage Differential Transducer
+LVI;Low-Voltage Inverter
+LVP;Laser Voltage Probe
+LVRS;Linear Voltage Ramp Stress
+LVS;Layout Verification Of Schematic
+LWB;Lithography Workbench
+LWR;Line Width Reduction
+LWS;Large Wafer Study
+La;Lanthanum
+Leff;Effective Channel Length
+Lgate;Gate Length
+Li;Lithium
+Lmin-digital;Minimum Channel Length For Low Operational Power Logic Device
+Lr;Lawrencium
+Lu;Lutetium
+M;Million
+MACT;Maximum Achievable Control Technology
+MALDI;Matrix-Assisted Laser Desorption And Ionization
+MAN;Metropolitan Area Network
+MAP;Manufacturing Automation Protocol
+MAWP;Maximum Allowable Working Pressure
+MB;Machine Batch
+MB/s;Megabits Per Second
+MBB;Messerschmittb¨Olkow Blohm
+MBC;Machine Bath Collection
+MBE;Molecular Beam Epitaxy
+MBL;Model-Based Library
+MBMS;Molecular Beam Mass Spectrometry
+MBP;Materials And Bulk Processes
+MBPC;Model-Based Process Control
+MBTC;Model-Based Temperature Control
+MBX;Message Bus Exchange
+MByte;Megabyte
+MC;Multichip
+MCA;Measurement Capability Analysis
+MCBA;Mean Cycles Between Assists
+MCBF;Mean Cycles Between Failures
+MCBI;Mean Cycles Between Interrupts
+MCBSE;Mean Cycles Between Scrap Event
+MCM;Multichip Module
+MCOV;Maximum Continuous Operating Voltage
+MCP;Master Control Processor
+MCPs;Multichip Packages
+MCR;Mechanical Cold Run
+MCS;Material Control System
+MCT;Mercury Cadmium Telluride
+MCU;Microprocessor Control Unit
+MCVD;Metal Chemical Vapor Deposition
+MD;Molecular Dynamics
+MD-MOS;Multi-Drain Metal-Oxide Semiconductor
+MDC;Mechanical Dry Cycle
+MDL;Minimum Detection Limit
+MDM;Metal-Dielectric-Metal
+MDQ;Market-Driven Quality
+MDS;Modify Device Status
+MDU;Modular Dispensing Unit
+MEBS;Medium Energy Backscattering Spectrometry
+MED ;Modeling For Equipment Design
+MEEF;Mask Error Enhancement Factor
+MEF;Mask Error Factors
+MEM;Manufacturing Enterprise Model
+MEMS;Microelectromechanical System
+MEMSs;Micro Electro Mechanical Systems
+MERIE;Magnetically Enhanced Reactive Ion Etching
+MES;Manufacturing Execution System
+MESC;Modular Equipment Standards Committee
+MESFET;Metal-Semiconductor Field Effect Transistor
+MET;Micro-Exposure Tool
+METL;Multielement Two-Layer
+METS;Materials And Equipment Trading Service
+MFC;Mass Flow Controller
+MFLOPS;Million Floating Point Operations Per Second
+MFM;Mass Flow Meter
+MFS;Modified Fused Silica
+MG;Manufactured Goods
+MGC;Manufactured Goods Collection
+MGE;Modulator Generalized Ellipsometry
+MGT;MOS-Gated Thyristor
+MHEMT;Metamorphic High Electron Mobility Transistor
+MHI;Material Hazard Index
+MHT;Mechanical Handling Test
+MHz;Megahertz
+MI;Metal Illumination
+MIC;Monolithic Integrated Circuit
+MID;Material Id
+MIE;Magnetron Ion Etching
+MIEL;International Conference On Microelectronics
+MIL;Military Electronics
+MIL-HDBK;Military Handbook
+MIL-STD;Military Standard
+MIM;Metal-Insulator-Metal
+MIMAC;Measurement And Improvement Of Manufacturing Capacity
+MIMD;Management Information Of Metrology Data
+MIMO;Multi-Input
+MIPs;Millions Of Instructions Per Second
+MIS;Metal Insulator Silicon
+MISFET;Metal Insulator Semiconductor
+MJ;Multijunction 
+ML2;Maskless Lithography
+MLC;Multilevel Cell
+MLCC;Multilayer Ceramic Capacitors
+MLCCs;Studied Multilayer Ceramic Capacitors
+MLE;Maximum Likelihood Estimation
+MLL;Modify Lot Location
+MLM;Multilevel Metal
+MLP;Multi-Layer Perceptron
+MLR;Message Log Report
+MLV;Modify Logging Versions
+MM;Manufacturing Methods
+MMC;Manufacturing Methods Council
+MMD;Microlithographic Mask Development Program
+MMIC;Monolithic Microwave Integrated Circuit
+MMICs;Gaas Monolithic Microwave Integrated Circuits
+MMM;Material Movement Management
+MMMC;Machine Material Movement Component
+MMMS;Material Movement Management Standard
+MMO;Multimodel Optimization
+MMOS;Modified Mos
+MMST;Microelectronics Manufacturing Science And Technology
+MMU;Mass Memory Unit
+MMU-DSP;Mass Memory Unit Digital Signal Processor
+MNA;Match Network Analyzer
+MNOS;Metal-Nitride-Oxide Semiconductor
+MNPD;Maximum Non-Printable Defect
+MNS;Metal-Nitride Semiconductor
+MO;Metal-Organic
+MOC;Model Of Computation
+MOCVD;Metal-Organic Chemical Vapor Deposition
+MODFETs;Modulation Doped Field Effect Transistors
+MOEMS;Micro-Optical Electromechanical Systems
+MOEMSs;Developed Towards Micro Optical Electromechanical Systems
+MOP;Modify Operating Procedures
+MOS;Metal-Oxide Semiconductor
+MOS-C;Metal Oxide Semiconductor Capacitor
+MOSCAP;Metal-Oxide Semiconductor Capacitor
+MOSFET;Metal-Oxide Semiconductor Field Effect Transistor
+MOST;Metal-Oxide Semiconductor Transistor
+MOV;Metal Oxide Varistors
+MOVs;Metal Oxide Varistors
+MP;Massively Parallel
+MP-OES;Multipoint Optical Emission Spectroscopy
+MPP;Multiphase Printing
+MPRES;Modular Plasma Reactor Simulator
+MPU;Microprocessor Unit
+MPX;Multiplex
+MPa;Mega Pascal
+MQCA;Magnetic Qca
+MQW;Multi-Quantum Well
+MR ;Magneto Resistance
+MRAM;Magnetic Ram
+MRF;Magnorheological Finishing
+MRP;Materials Requirements Planning
+MRP-II;Manufacturing Resource Planning
+MRS;Materials Research Society
+MS;Mass Spectrometry
+MS/s;Megasamples Per Second
+MSB;Most Significant Bit
+MSD;Mass Selective Detector
+MSDS;Material Safety Data Sheet
+MSEM;Metrology Specific Equipment Model
+MSFR;Mid-Spatial Frequency Roughness
+MSG;Management Steering Group
+MSHA;Mine Safety And Health Administration
+MSI;Medium-Scale Integration
+MSID;Mass Spectrometer Lead Detector
+MSL;Modify System Logging
+MSLD;Mass Spectrometer Leak Detector
+MSQ;Methyl Silsesquiozane
+MSS;Modify System State
+MST;Microsystem Technology
+MSTAB;Manufacturing Systems Technical Advisory Board
+MT;Multi-Technology Integration
+MT/s;Magatransfers Per Second
+MTAS;Methyltriacetoxysilene
+MTBA;Mean Time Between Assists
+MTBAp;Mean (Productive) Time Between Assists
+MTBC;Mean Time Between Cleans
+MTBF;Mean Time Between Failures
+MTBFp;Mean (Productive) Time Between Failures
+MTBI ;Mean Time Between Interrupt
+MTBIp ;Mean (Productive) Time Between Interrupt
+MTJ;Magnetic Tunnel Junction
+MTOL;Mean Time Off Line
+MTS;Material Tracking Standard
+MTTA ;Mean Time To Assist
+MTTC;Mean Time To Correct
+MTTCR;Mean Time To Correct And Recover
+MTTF;Mean Time To Failure
+MTTFF;Mean Time To First Failure
+MTTR;Mean Time To Repair
+MUL;Modify User Login
+MUP;Modify User Password
+MUX;Multiplex
+MV;Megavolt
+MVC;Model View Controller
+MVH;Micro Via Hole
+MVTR;Moisture Vapor Transmission Rate
+MW;Molecular Weight
+MWBC;Mean Wafers Between Cleans
+MWBF;Mean Wafers Between Failures
+MWBI;Mean Wafers Between Interrupt
+MWT;Monitor Wafer Turner
+MaxFt;Maximum Frequency At Unity Current Gain
+Mb ;Megabit
+Md;Mendelevium
+MeOx;Metal Oxide
+MeV;Megaelectrovolt
+Mg;Magnesium
+Mn;Manganese
+Mo;Molybdenum
+Mpa;Mega Pascals
+MtM;More than Moore
+M€;Million Euro
+N;Nitrogen
+NAA;Neutron Activation Analysis
+NAND;Nand Logic Gate
+NASA;National Aeronautics And Space Administration
+NBE;Neutral Beam Etching
+NBT;Negative Bias Temperature
+NBTI;Negative Temperature Bias Instability
+NCF;Nonconductive Film
+NCMS;National Center For Manufacturing And Science
+NCS;Network Communication Standard
+NDA;Nondisclosure Agreement
+NDC;Nitrogen-Doped Carbide
+NDE;Non-Destructive Evaluation
+NDE ;Nondestructive Evaluation
+NDIR ;Nondispersive Infrared Spectroscopy
+NDP;Neutron Depth Profiling
+NDR ;Negative Differential Resistance Regime
+NDRO;Nondestructive Readout
+NDT;Nondestructive Testing
+NDUV;Nondispersive Ultraviolet Spectroscopy
+NEA;Noise Equivalent Absorbance
+NEC;National Electric Code
+NEMI;National Electronics Manufacturers Institute
+NEMS;Nanoeletro-Mechanical Systems
+NEMSs;Nanoelectromechanical Systems
+NESHAP;National Emissions Standards For Hazardous Air Pollutants
+NF;Noise Figure
+NFET;N Channel Field Effect Transistor
+NFF;No Fault Found
+NFGM;Nanofloating Gate Memory
+NFOM;Near Field Optical Microscopy
+NFPA;National Fire Protection Association
+NFmin;Noise Figure Minimum
+NGL;Next Generation Lithography
+NGL-MCOC;Next Generation Lithography - Mask Center Of Competence
+NIL;Network Nanoimprint Lithography
+NILS;Normalized Image Log Shape
+NIRA;Near Infrared Reflection Analysis
+NIST;National Institute Of Standards And Technology
+NMOS;Negative Channel Metal-Oxide Semiconductor
+NMOSFET;Negative Channel Metal-Oxide Semiconductor Field Effect Transistor
+NMR;Nuclear Magnetic Resonance
+NN;Neural Network
+NOM;Nomarski Optical Microscopy
+NOR;Nor Logic Gate
+NP;Nutrification Potential
+NPN;Negative-Positive-Negative
+NPV;Net Present Value
+NPW;Nonproduct Wafer
+NRA;Nuclear Reaction Analysis
+NRDD;Non-Referential Defect Detection
+NRE;Nonrecurring Engineering
+NRZ;Non-Return To Zero
+NSE;Neutral Stream Etch
+NSF;National Science Foundation
+NSOM;Near-field Scanning Optical
+NTF;No Troubled Found
+NTP;Normal Temperature And Pressure
+NTRM;Nist Traceable Reference Materials [Tm]
+NTRS;National Technology Roadmap For Semiconductors
+NTU;Nephelometric Turbidity Units
+NVD;Non-Visual Defect
+NVM;Non-Volatile Memory
+NVR;Nonvolatile Residue
+NWL;Next Wavelength
+Na;Sodium
+Nb;Niobium
+Nd;Neodymium
+Ne;Neon
+Ni;Nickel
+NiCr;Nickel Chromium
+No;Nobelium
+Np;Neptunium
+O;Oxygen
+O-D;Zero Dimensional
+OAI;Off-Axis Illumination
+OAPVD;Oblique Angle Physical Vapour Deposition
+OBA;Object Behavior Analysis
+OBEM;Object-Based Equipment Model
+OBIC;Optical Beam Induced Current
+OBIRCH;Optical Beam Induced Resistance Change
+OBL;Object-Based Language
+OC;Open Cassette
+OCR;Optical Character Recognition
+OD;Outside Diameter
+ODBC;Open Database Connectivity
+ODC;Oxygen-Doped Carbide
+ODP;Ozone Depletion Potential
+ODS;Ozone-Depleting Substances
+OEBR;Optical Edge Bead Removal
+OEE;Overall Equipment Effectiveness
+OEL;Occupational Exposure Limit
+OEM;Original Equipment Manufacturer
+OES;Optical Emission Spectroscopy
+OFA;Oil-Free Air
+OFE;Overall Factory Effectiveness
+OFET;Organic FET
+OHS;Overhead Hoist Shuttle
+OHT;Overhead Transport
+OHV;Overhead Vehicle
+OHVC;Overhead Hoist Vehicle Controller
+OID;Object Interaction Diagram
+OIM;Orientation Imaging Microscopy
+OIP;Order Intercept Point
+OK;Okay
+OL;Objective Lens
+OLB;Outer Lead Bond
+OLE;Object Linking And Embedding
+OLED;Organic Light Emitting Diode
+OLS;Ordinary Least Squares
+OM;Operational Modeling
+OMA;Object Management Architecture
+OMS;Optical Mass Spectroscopy
+OMT;Object Modeling Technique
+ONO;Oxide/Nitride/Oxide
+OO;Object-Oriented
+OOA;Object-Oriented Analysis
+OOD;Object-Oriented Design
+OODB;Object-Oriented Database
+OODBMS;Object-Oriented Database Management System
+OOP;Object-Oriented Programming
+OOPS;Object-Oriented Programming System
+OPC;Optical Proximity Correction
+OPD;Out-Of-Plane Distortion
+OPL;Optical Pathlength
+ORB;Object Request Broker
+ORM;Other Regulated Material
+ORNL;Oak Ridge National Laboratory
+ORP;Oxidation-Reduction Potential
+ORTC;Overall Technology Roadmap Characteristics
+OS;Operating System
+OSF;Open Systems Foundation
+OSFs;Oxidation Induced Stacking Faults
+OSG;Organosilicate Glass
+OSI;Open System Interconnection
+OSRM;Office Of Standard Reference Materials
+OSS;Object Services Standard
+OSV;Offset Scan Voting
+OTA;Overall Ate Accuracy
+OTD;On-Time Delivery
+OTF;Optical Transfer Function
+OUM;Ovionic Unified Memory
+OVL;Overlay
+Os;Osmium
+Ox;Oxide
+P;Phosphorous
+P-GILD;Projection Gas Immersion Laser Doping
+P/E;Program/Erase
+P/T;Precision-Tolerance
+PA;Power Amplifier
+PA-FTIR;Photoacoustic Fourier Transform Infrared Spectroscopy
+PAB;Post-Apply Bake
+PAC;Photoactive Compound
+PACVD;Plasma-Assisted Chemical Vapor Deposition
+PAE;Power Added Efficiency
+PAG;Photoacid Generator
+PAL;Process Automation Language
+PALS;Positron Annihilation Lifetime Spectroscopy
+PAM;Photo-Acoustic Microscopy
+PAM ;Process Application Module
+PAN;Personal Area Network
+PAS;Photoacoustic Spectroscopy
+PAT;Process Action Team
+PAWS;Portable Acoustic Wave Sensor
+PBET;Performance-Based Equipment Training
+PBGA;Plastic Ball Grid Array
+PBL;Poly-Buffered Locos
+PBN;Plasma Bridge Neutralizer
+PBS;Photon Backscattering
+PBTI;Positive Bias Temperature Instability
+PC;Personal Computer
+PCA;Principal Component Analysis
+PCAD;Packaging Computer-Aided Design
+PCB;Printed Circuit Board
+PCBs;Printed Circuit Boards
+PCC;Power Connectivity Cost
+PCD;Photochemical Darkening
+PCHP;Pre-Coat Hotplate
+PCM;Pulse-Code Modulation
+PCMP;Post Chemical-Mechanical Polishing
+PCMS;Plasma Chemistry Monte-Carlo Simulation
+PCO;Photocatalytic Oxidation
+PCOMP;Pressure Compensation
+PCR;Principle Component Regression
+PCS;Production Cost Savings
+PCSA;Polarizer-Compensator Sample Analyzer
+PCT;Process Change Teams
+PCW;Process Cooling Water
+PCWR;Process Cooling Water Returns
+PCs;Personal Computers
+PD;Partially Depleted
+PD-SOI;Partially Depleted Soi
+PDA;Personal Digital Assistant
+PDC;Passive Data Collection
+PDF;Portable Document Format
+PDIP;Plastic Dual In-line Package
+PDL;Plastics Design Library
+PDP;Plasma Display Panels
+PDS;Photothermal Displacement Spectroscopy
+PDSA;Peroxydisulfuric Acid
+PDT;Product Development Test
+PDU;Protocol Data Unit
+PDVC;Phase-Dependent Voltage Contrast
+PE;Power Efficient
+PEALD;Plasma Enhanced Atomic Layer Deposition
+PEB;Post-Exposure Bake
+PEC;Proximity Effect Correction
+PECVD;Plasma-Enhanced Chemical Vapor Deposition
+PED;Post-Exposure Delay
+PEDS;Plasma-Enhanced Deposition System
+PEEK;Polyetheretherkeytone
+PEELS;Parallel Electron Energy Loss Spectrometry
+PEEM;Photo-Electron Emission Microscope
+PEF;Plasma-Enhanced Floodgun
+PEL;Proximity Electron Lithography
+PEM;Plastic Encapsulated Microcircuit
+PEMs;Plastic Encapsulated Microcircuits
+PEN;PolyEthylene Naphthalate
+PERT;Program Evaluation Review Technique
+PES;Photoelectron Spectroscopy
+PET;Post-Etch Treatment
+PETEOS;Plasma-Enhanced Tetraethylosilicate
+PFA;Perfluoroalkoxy
+PFC;Perfluorocompound
+PFIB;Plasma Focused Ion Beam
+PFO;Perfluorooctyl Sulfonates
+PFOS;Perfluorooctyl Sulfonates
+PFPE;Perfluorinated Polyether
+PFR;Plug-Flow Reactor
+PFS;Plasma Flood System
+PGA;Pin Grid Array
+PGI;Purge Gas Inlet
+PGV;Person Guided Vehicle
+PHEMT;Psuedomorphic High Electron Mobility Transistor
+PHI;Physical Electronics Co.
+PHM;Prognostics and Health
+PHOST;Poly Hydroxystyrene
+PI;Proportional Integral
+PIC;Physical Interfaces And Carriers
+PICA;Picosecond Imaging Circuit Analysis
+PID;Proportional Integral Derivative
+PIDS;Process Integration
+PIII;Plasma Immersion Ion Implantation
+PIND;Particle Impact Noise Detection
+PIP;Process-Induced Particles
+PIV;Peak Inverse Voltage
+PL;Photoluminescence
+PLA;Programmable Logic Array
+PLC;Programmable Logic Controller
+PLCC;Plastic Leaded Chip Carrier
+PLDD;P-Type Lightly Doped Drain
+PLED ;Phase-State Low-Electron-Number Drive Memory
+PLIS;Precision Liquid Injection System
+PLL;Plasma Lockload
+PLS;Partial Least Squares
+PLY;Photolimited Yield
+PLZT;Lead Lanthanum Zirconate Titanate
+PM;Particle Monitor
+PMC;Process Module Controller
+PMCC;Pensky-Martens Closed Cup
+PMI;Phase Measuring Interferometer
+PMM;Phase Measuring Microscope
+PMMA;Polymethyl Methacrylate
+PMOS;Positive Channel Metal-Oxide Semiconductor
+PMOSFET;Positive Channel Metal-Oxide Semiconductor Field Effect Transistor
+PMP;Particles Per Wafer Pass
+PMS;Particle Measuring System
+PMT;Photomultiplier Tube
+PMTF;Product Management Task Force
+PNL;Pulsed Nucleation Layer
+PNNL;Pacific Northwest National Laboratories (Battelle)
+PNWD;Pacific Northwest Division (Battelle
+PO;Projection Optics
+POB;Projection Optics Box
+POC;Point Of Connection
+POCP;Photochemical Ozone Creation Potential
+POD;Point Of Distribution
+POE;Point Of Entry
+POP;Part Of Process
+POR;Process Of Record
+POS;Point Of Supply
+POSIX;Portable Operating System Interface For Computing Environments
+POU;Point-Of-Use
+POUCG;Point-Of-Use Chemical Generation
+PP;Polypropylene
+PPB;Parts-per-billion
+PPE;Personal Protective Equipment
+PPGA;Plastic Pin Grid Array
+PPID;Process Program Identification
+PPM;Point Projection Microscope
+PPPL;Princeton Plasma Physics Laboratory
+PPRef;Process Program Reference
+PPS;Temperatures Polyphenylene Sulfide
+PQFN;Power Quad Flat-pack No-lead
+PQFP;Plastic Quad Flat Pack
+PRA;Probabilistic Risk Assessment
+PRAM;Phase-change Random Access Memory
+PRAS;Particle Reactor Analysis Services
+PRAT;Production Reliability Acceptance Test
+PRB;Pseudo-Random Binary
+PRBS;Pseudo Random Bit Sequence
+PRD;Process Research And Development
+PRESS;Prediction Error Sum Of Squares
+PROACT;Preserving failure data Ordering the analysis
+PROM;Programmable Read-Only Memory
+PRPG;Pseudo Random Pattern Generators
+PRSC;Parametric Response Surface Control
+PRTR;Pollutant Release And Transfer Disclosure
+PRV;Person Rail Guided Vehicle
+PS;Porous Silicon
+PSA;Photoemission Spectrum Analyzer
+PSAM;Probabilistic Shape And Appearance Model
+PSB;Phase Shifting Blank
+PSC;Porous Silicon Capacitor
+PSD;Power Spectral Density
+PSDI;Phase-Shifting Diffraction Interferometer
+PSG;Phosphosilicate Glass
+PSGA;Polymer Stud Grid Array
+PSII;Plasma Source Ion Implantation
+PSL;Polystyrene Latex
+PSLS;Polystyrene Latex Sphere
+PSM;Phase Shifting Mask
+PSR;Perfectly Stirred Reactor
+PSV;Pseudo Spin Valve
+PTAB;Project Technical Advisory Board
+PTC;Pre- And Post-Process Treatment Chambers
+PTFE;Polytetrafluorethylene
+PTH;Plated Through Hole
+PTPA;Probe-To-Pad Alignment
+PV;Process Vacuum
+PVA;Polyvinylacetate
+PVC;Polyvinylchloride
+PVD;Physical Vapor Deposition
+PVDF;Polyvinylidene Fluoride
+PVT;Physical Vapour Transport
+PVs;Heading Photovoltaics
+PWB;Printed Wiring Board
+PWBA;Printed Wiring Board Assembly
+PWBs;Organic Printed Wire Boards
+PWP;Particles Per Wafer Pass
+PXL;Proximity X-Ray Lithography
+PZT;Lead Zirconate Titanate
+Pa;Protactinium
+Pb;Lead
+PbO;Lead Oxide
+Pd;Palladium
+PfTQ;Partnering For Total Quality
+Pm;Promethium
+Po;Polonium
+PoF;Physics Of Failure
+Pout;Power Out
+Pr;Praseodymium
+Pt;Platinum
+Pu;Plutonium
+Q;Quality Factor
+Q factor;Loss Factor For A Resonant Circuit
+Q&RA;Quality and Reliability Assurance
+QA;Quality Assurance
+QALT;Quantitative Accelerated Life Test
+QB;Quasi-Breakdown
+QBD;Charge To Breakdown
+QC;Quality Control
+QCA;Quantum Cellular Automata
+QCM;Quartz Crystal Microbalance
+QCT;Quality Control Team QD VCSELs
+QD;Quantum Dot
+QDR;Quick Dump Rinse
+QDs;Quantum Dots
+QFD;Quality Function Deployment
+QFN;Quad Flat No-lead
+QFP;Quad Flat Pack
+QFPN;Quad Flat Pack Nonleaded
+QIC;Quartz Inlet Capillary
+QLT;Quantitative Life Test
+QLTs;Category Quantitative Life Tests
+QM;Qualification Model
+QML;Qualified Manufacturer List
+QMP;Quality Measurement Plan
+QMS;Quadrupole Mass Spectrometer
+QPL;Qualified Parts List
+QRA;Quality Reliability Assurance
+QRRM;Quick Reaction Reliability Monitor
+QSR;Quality System Review
+QTAT;Quick Turnaround Time
+Qsw;Q-Switch
+R;Resistance
+R&D;Research And Development
+R&M;Reliability and Maintainability
+R/W;Read/Write
+R2R;Run-To-Run
+RA;Reliability Assurance
+RAC;Remote Access And Control
+RADAR;Radio Detection and Ranging
+RAE;Residue After Evaporation
+RAHU;Recirculation Air Handling Unit
+RAIRS;Reflection-Absorption Infrared Spectroscopy
+RAM;Random Access Memory
+RAMP;Reliability Analysis And Modeling Program
+RAMS;Reliability  Availability Maintainability and Safety
+RBA;Rotary Bonded Abrasive
+RBB;Base Sheet Resistance
+RBD;Reliability Block Diagram
+RBMT;Region-Based Multi-Thresholding
+RBS;Refractive Backscattering
+RBSOA;Reverse Bias Safe Operation Area
+RBV;Ramp Breakdown Voltage
+RC;Resistance-Capacitance
+RCA;Clean Process Invented By Rca
+RCE;Rotating Compensator Ellipsometer
+RCS;Revision Control System
+RCT;Reference Cluster Tool
+RCWA;Rigorous Coupled Wave Analysis
+RDD;Reliability Defect Density
+RDI;Raw Data Interface
+RDL;Redistribution Layers
+RDLY;Random Limited Yield
+RDMT;Radio Dispatch Mobile Data Transportation Management
+RDR;Rotating Disk Reactor
+RDS;Remote Dispense System
+REDR;Recombination Enhanced Defect Reaction
+REL;Recommended Exposure Limit
+REPROM;Reprogrammable ROM
+RESSFOX;Recessed Sealed Sidewall Field Oxidation
+RET;Reticle Enhancement Technology
+RF;Radio Frequency
+RFI ;Request For Information
+RFIC;Radio Frequency Integrated Circuit
+RFM;Radio Frequency Monitoring
+RFO;Restricted Flow Orifice
+RFP;Request For Plan
+RFQ;Request For Quote
+RFT;Resonant Frequency Tool
+RGA;Residual Gas Analysis
+RGV;Rail Guided Vehicle
+RH;Relative Humidity
+RHEED;Reflected High-Energy Electron Diffraction
+RI;Reliability Improvement
+RIAC;Reliability Information Analysis Centre
+RIE;Reactive Ion Etch
+RIM;Read-In Mode
+RISC;Reduced Instruction Set Computer/Computing
+RIST;Rule Induction And Statistical Testing
+RLC;Resistance-Inductance-Capacitance
+RLI;Resist Lithography
+RMI;Remote Method Invocation
+RMOS;Refractory Metal-Oxide Semiconductor
+RMS;Root Mean Square
+RMSEP;Root Mean Square Error Of Prediction
+RMTF;Recipe Management Task Force
+RNN;Recurrent Neural Network
+RO;Reverse Osmosis
+ROC;Remote Object Communications
+ROE;Return On Equity
+ROHS;Restriction of Hazardous Substances
+ROI;Return On Investment
+ROM;Read-Only Memory
+ROMP;Ring Opening Metathesis Polymerization
+ROX;Run Of Experiments
+RPAO;Remote Plasma Assisted Oxidation
+RPC;Remote Procedure Call
+RPD;Relative Percent Deviation
+RPECVD;Rapid Plasma-Enhanced Chemical Vapor Deposition
+RPN;Remote Plasma Nitridation
+RPNs;Risk Priority Numbers
+RPS;Relative Phase Shift
+RQ;Reportable Quantity
+RR;Removal Rate
+RRMSEP;Relative Root Mean Square Error Of Prediction
+RS&TM;Reliability Screens And Test Methods
+RSA;Range Standardization And Automation
+RSE;Reactive Sputter Etch
+RSF;Relative Sensitivity Factor
+RSFQ;Rapid Single Flux Quantum
+RSM;Response Surface Methodology
+RT;Room Temperature
+RT-level;Resistor-Transistor Logic
+RTA;Rapid Thermal Anneal
+RTB;Real-Time Backplane
+RTC;Resist Test Center
+RTCVD;Rapid Thermal Chemical Vapor Deposition
+RTD;Resistance Temperature Detector
+RTD-FET;Resonant Tunneling Diode Fet
+RTESA;Real Time Electrical Stress Analysis
+RTL;Resistor-Transistor Logic
+RTM;Rapid Thermal Multiprocessing
+RTO;Rapid Thermal Oxidation
+RTOS;Real-Time Operating System
+RTP;Rapid Thermal Processing (Or Processor)
+RTR;Real-Time Reporting
+RTS;Request To Send
+RTSPC;Real-Time Statistical Process Control
+RTV;Room Temperature Vulcanizing
+RTY;Retry Limit
+RVS;Ramped Voltage Stress
+RWOH;Reliability Without Hermiticity
+RZ;Return To Zero
+Ra;Radium
+Raman;Raman6 Spectroscopy Uses The Inelastic
+Rb;Rubidium
+Re;Rhenium
+Rem−1;Raman Frequency
+Rh;Rhodium
+Rn;Radon
+RoHS;Restriction Of Hazardous Substances
+Rs;Sheet Resistance
+RsXj;Sheet Resistance/Junction Depth
+Rsd;Series Source/Drain Parasitic Resistance
+Ru;Ruthenium
+Rx;Receive Unit
+S;Sulfur
+S-SNOM;Scanning Near-field Optical Microscopy
+S/A;Sensor/Actuator
+S/D;Source/Drain
+S/N;Signal-To-Noise
+S1;Sample
+SA;Surface Area
+SAA;Static Automated Analysis
+SAB;Sensor/Actuator Bus
+SACVD;Sub-Atmospheric Chemical Vapor Deposition
+SAE;Society Of Automotive Engineers
+SAF;Stuck-At Fault
+SAM;Scanning Auger Microscopy
+SANS;Angle Neutron Scattering
+SASOI;Small Area Soi
+SAT;Spray Acid Tool
+SAT TV;Satellite Television
+SAW;Surface Acoustic Wave
+SB;Strong Base Ion Exchange
+SBD;Schottky Barrier Diode
+SBE;Single Bit Errors
+SBH;Schottky Barrier Height
+SBT;Strontium Barium Titanate
+SBl;Safety Bulletin
+SC;Silicon carbide
+SC-1;Standard Clean 1
+SC-2;Standard Clean 2
+SC1;Standard Clean 1
+SC2;Standard Clean 2
+SCA ;Surface Charge Analysis
+SCALE;Sematech Cell Application Learning Environment
+SCALPEL;Scattering With Aperture Limited Projection Lithography
+SCAT;Scanning Acoustic Tomography
+SCBA;Self-Contained Breathing Apparatus
+SCC;Strategic Cell Controller
+SCCS;Source Code Control System
+SCDS;Super Catalytic Decomposition System
+SCE;Saturated Calomel Electrode
+SCF;Super Critical Fluid
+SCFH;Standard Cubic Feet Per Hour
+SCI;Surface Charge Imaging
+SCIC;Semiconductor Integrated Circuit
+SCM;Scanning Capacitance Microscopy
+SCOE;Sematech Center Of Excellence
+SCP;Single Chip Package
+SCPs;Package Single Chip Packages
+SCR;Silicon Controlled Rectifier
+SCS;Single Crystal Silicon
+SD;Small Dual In-Line Package
+SDE;Source/Drain Extension
+SDFL;Schottky-Diode Fet Logic
+SDLC;Synchronous Data Link Control
+SDLY;Systemic Defect Limited Yield
+SDM;Specific Device Model For Sab
+SDRAM;Synchronous Dram
+SDS;Smart Distributed System
+SDSI;Synchronous Data-Link Control
+SE;Spectroscopic Ellipsometry
+SEAJ;Semiconductor Equipment Association Of Japan
+SEB;Single Event Burnout
+SEC;Size Exclusion Chromatography
+SECC;Single Edge Contact Cartridge
+SECS;Semiconductor Equipment Communications Standard
+SED;Strain Energy Density
+SEE;Single Event Effect
+SEG;Selective Epitaxial Growth
+SEGD;Single Event Gate Damage
+SEGR;Single Event Gate Rupture
+SEI;Seebeck Effect Imaging
+SEIM;Software Engineering Improvement Method
+SEL;Single Event Latch-up
+SEM;Scanning Electron Microscopy
+SEMI;Semiconductor Equipment And Materials International
+SEP;Software Engineering Process
+SEPG;Software Engineering Process Group
+SEQDB;Semiconductor Equipment Database
+SER;Soft Error Rate
+SERs;Soft Error Rates
+SET;Single Electron Transistor
+SETEC;Semiconductor Equipment Technology Center
+SEU;Single Event Upset
+SEUs;Single Event Upsets
+SFC;Supercritical Fluid Chromatography
+SFCS;Shop Floor Control System
+SFCS I/F;Shop Floor Control System Interface
+SFDR;Spurious Free Dynamic Range
+SFP;Stress-Free Polishing
+SFQR;Site Flatness
+SFSR;Site Flatness
+SG;Stage Gate
+SGML;Standard Generalized Markup Language
+SGMM;Semiconductor Generic Manufacturing Model
+SGMRS;Semiconductor Generic Manufacturing Requirements Specification
+SHEs;Substrate Hot Electrons
+SHPBs;Split Hopkinson Pressure Bars
+SHRT;Solder Heat Resistance Test
+SIA;Semiconductor Industry Association
+SIDP;Sputter Ion Depth Profiling
+SIL;Solid Immersion Lens
+SILC;Stress-Induced Leakage Current
+SILCs;Stress Induced Leakage Currents
+SILOX;Silicon Oxide
+SIM;Selective Ion Marketing
+SIMO ;Single Input
+SIMOX;Separation By Implantation Of Oxygen
+SIMS;Secondary Ion Mass Spectroscopy
+SINAD;Signal-To-Noise-And-Distortion
+SIP;Sematech Internal Program
+SIRIJ;Semiconductor Industry Research Institute Of Japan
+SISO;Single Input
+SISR;Single Input Signature Registers
+SIV;Sensors In Vacuum
+SL;Specification Limit
+SLAM;Scanning Laser Acoustic Microscopy
+SLC;Single Level Cell
+SLDY;Systematic Limited Yield
+SLM;Single-Level Metal
+SLOC;Source Lines Of Code
+SLSI;Super Large Scale Integration
+SM;Stress Migration
+SMB;Single-Mask Bumping
+SMC;Surface-Mounted Components
+SMD;Surface-Mounted Device
+SME;Subject Matter Expert
+SMG;Screen Management Guide
+SMIF;Standard Mechanical Interface
+SMLY;Systematic Mechanisms Limited Yield
+SMM;Scanning Microwave Microscopy
+SMP;Symmetric Multiprocessing
+SMPM;Secs Message Protocol Machine
+SMR;Semiconductor Mask Representation
+SMS;Secs Message Service
+SMT;Surface Mount Technology
+SMTS;Strategic Material Transport System
+SMU;Source Measure Unit
+SN;Storage Node
+SNL;Sandia National Laboratory
+SNMS;Sputtered Neutral Mass Spectroscopy
+SNOM;Scanning Nearfield Optical Microscopy
+SNPEM;Scanning Near-Field Photon Emission Microscopy
+SNR ;Signal-To-Noise Ratio
+SO;Small Outline (Package)
+SOA;Safe Operating Area SoB
+SOC;System On A Chip
+SOC-LP PDA;Soc-Low Power Pda
+SOD;Spin-On Dielectric
+SODAS;Sematech Organized Damage Analysis Software
+SOG;Spin-On Glass
+SOHO;Small Office Home Office
+SOI;Silicon-On-Insulator
+SOIC;Small Outline Integrated Circuit
+SOJ;Small Outline J-Leaded
+SOM;Scanning Optical Microscopy
+SON;Small Outline Nonleaded Package
+SONET;Synchronous Optical Network
+SONET/SDH;See Sonet
+SONOS;Silicon/Oxide/Nitride/Oxide/Silicon
+SOP;Standard Operating Procedure
+SOS;Silicon On Sapphire
+SOW;Statement Of Work
+SPAM;Scanning Photo-Acoustic Microscopy
+SPC;Statistical Process Control
+SPEM;Spectroscopic Photon Emission Microscopy
+SPI;Software Process Improvement
+SPICE;Simulation Program With Integrated Circuit Emphasis
+SPIDER;Sematech Process Induced Damage Effect Revealer
+SPIDER-MEM;Spider-Manufacturing Equipment Monitor
+SPIE;International Society Of Optical Engineering
+SPIN;Software Process Improvement Network
+SPM;Scanning Probe Microscope
+SPP;Single-Phase Printing
+SPR;Semiconductor Process Representation
+SPS;Surface Preparation System
+SPT;Shortest Processing Time
+SPV;Surface Photovoltage
+SQC;Statistical Quality Control
+SQL;Structured Query Language
+SQPMM;Software Quality And Process Maturity Model
+SQUID;Superconducting Quantum Interference Device
+SRAC;Supplier Relations Action Council
+SRAM;Static Random Access Memory
+SRC;Semiconductor Research Corporation
+SRM;Standard Reference Materials
+SRO;Srruo3
+SRP;Spreading Resistance Probe
+SRPT;Shortest Remaining Processing Time
+SRQAC;Software Reliability and Quality Acceptance Criteria
+SRS;Software Requirements Specification
+SS;Small Signal
+SSA;Semiconductor Safety Association
+SSC;Subsystem Controller
+SSDI;Shadow Spectral Digital Imaging
+SSE;Sum Squared Error
+SSEM;Stepper Specific Equipment Model
+SSF;Shadow Spectral Filming
+SSG;Selective Silicon Growth
+SSHE;Scraped Surface Heat Exchanger
+SSHEs;Source Side Hot Electrons
+SSI;Small Scale Integration
+SSIS;Scanning Surface Inspection Systems
+SSL;Solid State Lighting
+SSM;Strategic Sourcing Methodology
+SSMS;Spark Source Mass Spectrometry
+SSQA;Standardized Supplier Quality Assessment
+SSR;Step-Stacked-Routing
+SSRL;Sematech Software Reuse Library
+SSRM;Scanning Spreading Resistance Microscopy
+SSRP;Sematech Software Reuse Program
+SST;Step-Stress Tests
+SSTL;Stub Series Terminated Logic
+SSY;Small-Scale Yielding
+ST;Stress Test
+STA;Static Timing Analysis
+STAR;Simultaneous Transmitted And Reflected
+STEL;Short-Term Exposure Limit
+STEM;Scanning Transmission Electron Microscope/Microscopy
+STI;Shallow Trench Isolation
+STM;Scanning Tunneling Microscopy
+STO;Strontium Titanate
+STP;Standard Temperature And Pressure
+STRJ ;Semiconductor Technology Roadmap Of Japan
+STRJ-WG;Semiconductor Technology Roadmap Of Japan Working Group
+SThM;Scanning Thermal Microscopy
+STs;Stress Tests
+SU;Subresolution Attenuated
+SUT;System Under Test
+SVD;Singular Value Decomposition
+SVID;System Variable Identifier
+SW;Software
+SWAT;Software Action Team
+SWC;Solvent Waste Collection
+SWCNT;Single-Walled Carbon Nanotube
+SWEAT;Standard Wafer-Level Electromigration Accelerated Test
+SWI;Static Walkthrough/Inspection
+SWIM;Semiconductor Workbench For Integrated Modeling
+SWP;Single Wafer Processing
+SWR;Semiconductor Wafer Representation
+SWV;Square Wave Voltammetry
+SXAPS;Soft X-ray Appearance Potential Spectroscopy
+SXR;Specular X-Ray Reflectance
+SYRP;Synergetic Reliability Prediction
+Sb;Antimony
+Sc;Scandium
+Se;Selenium
+SemiSPIN;Semiconductor Software Process Improvement Network
+SerDes;Serializer And Deserializer
+Si;Silicon
+SiC;Silicon Carbide
+SiLK;Silicon Low-K
+SiP;System-in-Package
+Sm;Samarium
+Sn;Tin
+SoC;System On Chip
+SoC-C;System-On-Chip Cost Driven
+SoC-MT;System-On-Chip Multi-Technology Integration
+SoC-P;System-On-Chip Performance Driven
+SoP;System-on-Package
+Sol-Gel;"The Transition Of A System From A Liquid ""Sol"" (Mostly Colloidal) Into A Solid ""Gel"" Phase"
+Sr;Strontium
+T;Temperature
+T-M;Time-To-Market
+T-RAM;Thyristor-based Random Access Memory
+T/C;Thermocompression
+T/R;Transmit Receive
+T/S;Thermosonic
+T2C;One Transistor-Two Capacitor
+TAB;Technical Advisory Board
+TAP;Tool Application Program
+TAS;Trace Analysis System
+TASC;Technical Analysis Services For Coo
+TAT;Turnaround Time
+TB;Tied Body
+TBAH;Tetrabutylammonium Hydroxide
+TBC;Time-Based Competitiveness
+TBD;Time To Breakdown
+TBFD;Trace Based Fault Diagnosis
+TBJD;Trench Bipolar Junction Diode
+TC;Time Constant
+TCA;Test Calibration Assembly
+TCAD;Technology Computer Aided Design
+TCC;Tactical Cell Controller
+TCCT;Thin Capacitively-Coupled Thyristor
+TCDM;Tool Development Cost Model
+TCE;Temperature Coefficient Of Expansion
+TCM;Tunneling Current Microscopy
+TCP;Transformer-Coupled Plasma
+TCP/IP;Transmission Control Protocol/Internet Protocol
+TCR;Temperature Coefficient Of Resistance
+TCT;Thermal Cycling Test
+TCU;Temperature Control Unit
+TD;Thermal Desorption
+TDBI;Test During Burn-In
+TDDB;Time-Dependent Dielectric Breakdown
+TDEAT;Tetrakis (Diethylamino) Titanium
+TDEV;Transport-Level Deviation
+TDI;Time Delay Integration
+TDLAS;Tunable Diode Laser Absorption Spectroscopy
+TDMAT;Tetrakis (Dimethylamido) Titanium
+TDMS;Thermal Desorption Mass Spectrometry
+TDO;Test Data Output
+TDR;Time Domain Reflectometry
+TDS;Thermal Desorption Spectroscopy
+TDTR;Time Domain Thermal Reflectance
+TE;Transverse Electric
+TEA;Transverse Excited Atmosphere
+TEC;Thermal Expansion Coefficient
+TECAP;Transistor Electrical Characterization And Analysis Program
+TED;Transient Enhanced Diffusion
+TEG;Technical Exchange Group
+TEGFET;Two-Dimensional Electron gas
+TEM;Transmission Electron Microscopy
+TEM-ED;Transmission Electron Microscopy – Electron
+TEOS;Tetraethoxysilane
+TEPO;Triethylphosphate
+TES;Trench Etch Stop
+TEV;Through Encapsulant Via
+TFC;Total Fault Coverage
+TFD;Total Focal Deviation
+TFE;Tetrafluorethylene
+TFH;Thin Film Hybrid
+TFO;Thick Field Oxide
+TFT;Thin Film Transistors
+TFX;Toxic Effects
+TG;Thermogravimetry
+TGA;Thermal Gas Analysis
+TGM;Toxic Gas Monitoring
+TGO;Thermally Grown Oxide
+TH;Lead-Free Through-Hole Flow Soldering
+THB;Temperature Humidity Bias
+THC;Total Hydrocarbons
+TI;Texas Instruments
+TIBA;Triisobutlaluminum
+TIC;Total Ion Count
+TID;Total Ionising Dose
+TIR;Total Indicator Runout
+TIS;Tool Induced Shift
+TIVA;Thermally Induced Voltage Acceleration
+TIs;Texas Instruments
+TJ;Total Jitter
+TLC;Thin Layer Chromatography
+TLE;Tool Loading Elevator
+TLI;Thin Layer Imaging
+TLM;Tape-Laying Machine
+TLP;Transmission Line Pulse
+TLPS;Transmission Line Pulse Spectroscopy
+TLS;Thermal Laser Stimulation
+TLU;Transient induced Latch-Up
+TLV;Threshold Limit Value
+TLV/TWA;Threshold Limit Value/Time-Weighted Average
+TM;Transport Module
+TMA;Thermal Mechanical Analyzer
+TMAH;TetraMethylAmmonium Hydroxide
+TMB;Trimethylborate
+TMC;Transport Module Controller
+TMIC;Transition Metal Ion Chromatography
+TML;Total Mass Loss
+TMOR;Thermally Modulated Optical Reflectance
+TMP ;Trimethylphosphate
+TMR;Tunneling Magneto Resistance
+TMS;Test Mode
+TNI;Troubled-Non-Identified
+TO;Transistor Outline Package
+TOA;Take-Off Angle
+TOC;Total Organic Carbon
+TOF;Time-Of-Flight
+TOFSIMS;Time-Of-Flight Secondary Ion Mass Spectroscopy
+TOR;Top Of Range
+TOV;Temporary Overvoltage
+TP;Teach Pendant
+TP2;Tool Performance Tracking Platform
+TPD;Temperature Program Desorption
+TPG;Test Pattern Generation
+TPM;Total Productive Maintenance
+TPR;Technical Plan for Resolution
+TPRS;Temperature Programmed Reaction Spectroscopy
+TPU;Thermal Processing Unit
+TQ;Total Quality
+TQL;Total Quality Leadership
+TQM;Total Quality Management
+TRE;Time Resolved Photoemission
+TRM;Thermal Reflectance Microscopy
+TRPE;Time-Resolved Photon Emission prober
+TRST;Test Reset
+TRXRFA;Total Reflection X-ray Fluorescence Analysis
+TSC;Two-Step Crystallization
+TSCA;Toxic Substances Control Act
+TSI;Top Surface Imaging
+TSIA;Taiwan Semiconductor Industry Association
+TSOP;Thin Small Outline Package
+TSP;Temperature-Sensitive Parameter
+TSPD;Thyristor Surge Protection Devices
+TST;Thermal Shock Test
+TSV;Through Silicon Via
+TSVs;Through Silicon Vias
+TT;Technology Transfer
+TTAA;Time To Acceptable Analysis
+TTF;Time To Failure
+TTL;Transistor-Transistor Logic
+TTL-LS;Transistor-Transistor Logic-Low power Schottky
+TTR;Time To Repair
+TTS;Transistor-Transistor logic Schottky barrier
+TTV;Total Thickness Variation
+TVS;Triangular Voltage Sweep
+TWA;Time-Weighted Average
+TWG;Technology Working Group
+TXRF;Total Reflection X-Ray Fluorescence
+TZDB;Time-Zero Dielectric Breakdown
+Ta;Tantalum
+TaN;Include Tantalum Nitride
+Tb;Terbium
+Tc;Technetium
+Te;Tellurium
+Th;Thorium
+Ti;Titanium
+Tl;Thallium
+Tm;Thulium
+Tox;Oxide Thickness
+Tx;Transmit Unit
+T€;Thousand Euro
+U;Uranium
+U/S;Ultrasonic
+UART;Universal Asynchronous Receiver/Transmitter
+UBM;Under-Bump Metallurgy
+UCB;Unit Code Browser
+UCL;Upper Confidence Limit
+UCPSS;Ultra Clean Process Of Silicon Surface
+UEL;Upper Explosive Limit
+UF;Ultra-Filtration
+UFC;Unsaturated Fluorocarbon
+UFL;Upper Flammable Limit
+UFP;Ultra Fine Pitch
+UHF;Ultra-High Frequency
+UHP;Ultra-High Purity
+UHV;Ultra-High Vacuum
+UI;User Interface
+UID;User Identification
+UJT;Unijunction Transistor
+ULA;Uncommitted Logic Array
+ULK;Ultra Low K
+ULPA;Ultra-Low Particulate Air
+ULSI;Ultra Large-Scale Integration
+UMTS;Universal Mobile Telecommunications System
+UPA;Ultraperforming Algorithm
+UPH;Units Per Hour
+UPPER;User Group For Process Simulation European Research
+UPS;Uninterrupted Power Supply
+UPW;Ultrapure Water
+UR;Usage Rates
+URD ;User Requirement Document
+URL;Uniform Resource Locator
+US;United States of America
+USA;United States of America
+USART;Universal Synchronous/Asynchronous Receiver/Transmitter
+USB;Universal Serial Bus
+USG;Undoped Silicate Glass
+USJ;Ultra Shallow Junction
+USOP;Ultra Small Outline Package
+USRD;User System Requirement Document
+UTR;Ultrathin Resist
+UTV;Unmanned Transport Vehicle
+UUT;Unit Under Test
+UV;Ultraviolet
+UWB;Ultra Wideband
+Utt;Unattenuated
+V;Vanadium
+V-I;Vacancy-Interstitial
+V-MOS;V-Groove Metal-Oxide Semiconductor
+V/um;Volts Per Micron
+VA;Volume Absorber
+VAC;Volts Alternating Current
+VAE;Variable Aperture Electrode
+VAR;Value Added Reseller
+VASE;Variable Angle Spectroscopic Ellipsometry
+VC;Voltage Contrast
+VCO;Voltage Controlled Oscillator
+VCSEL;Vertical-Cavity Surface- Emitting Laser
+VDC;Volts Direct-Current
+VDMOS;Vertical Double Diffused Mos
+VDMOSFET;Vertical Diffused MOSFET
+VDP;Van Der Pauw
+VDS;Vapor Distribution System
+VDSL;Very High Bit-Rate Digital Subscriber Line
+VDSM;Very Deep Sub-Micron
+VFB;Voltage Flat Band
+VFD;Variable Frequency Drive
+VFDD;Via-First Dual Damascene
+VFEI;Virtual Factory Equipment Interface
+VFTL;Via First Trench Last
+VHDL;Very High Description Language
+VHF;Very High Frequency
+VHN;Vickers Hardness Number
+VHORG;Vertically And Horizontally Organized Grid
+VHP;Very High Productivity
+VHS;Variable Hard Sphere
+VHSIC;Very High-Speed Integrated Circuit
+VLA;Very Large Array
+VLE;Vapor Levitation Epitaxy
+VLF;Vertical Laminar Flow
+VLL;Video Lead Locator
+VLS;Variable Line Spacing
+VLSI;Very Large Scale Integration
+VLT;Very Low Temperature
+VLV;Very Low Voltage
+VM;Virtual Machine
+VMB;Valve Manifold Box
+VMDP;Velocity-Matched Distributed Photodetectors
+VME;Versa Micromodule Extension
+VMOS;Vertical Mos
+VMP;Valve Manifold Post
+VMW;Vertically Modulated Well
+VNL;Virtual National Laboratory (Llnl
+VOC;Volatile Organic Compound
+VODM;Vapor On Demand
+VP;Volume Production
+VPD;Vapor Phase Desorption
+VPD-ICPMS;Vapor Phase Decomposition-Inductively-Coupled Plasma Mass Spectrometry
+VPE;Vapour Phase Epitaxy
+VPP;Peak-To-Peak Voltage
+VRG;Vertical Replacement Gate
+VRT;Variable Retention Time
+VSAT;Very Small Aperture Satellite Ground Terminal
+VSMI;Volumetric System Miniaturization and
+VSP;Variable Soft Sphere
+VSS;Variable Soft Sphere
+VTC;Voltage Transfer Characteristics
+VTCMOS;Variable Threshold voltage
+VTP;Vertical Thermal Processor
+VTVM;Vacuum Tube Voltmeter
+VUV;Vacuum Ultraviolet
+Vbc;Voltage Between Base And Collector
+Vbe;Voltage Between The Base And Emitter
+Vbitline;Bitline Voltage
+Vbs;Bulk-Source Voltage
+Vcc;Bipolar Operation Voltage
+Vd;Drain Source Voltage Of A Mosfet
+Vdd;Power Supply Voltage
+Vds;Voltage Drop Source/Drain
+Vearly;Early Voltage
+Vg;Gate Voltage
+Vop;Operation Voltage
+Vs;Source Voltage
+Vt;Voltage Threshold
+Vth;Voltage Threshold
+W;Tungsten
+W-bit;Wait-Bit
+W/B;Wire Bonding
+W/E;Write/Erase
+WAN;Wide Area Network
+WB;Weak Base
+WBC;Wafer Backside Coating
+WBS;Work Breakdown Structure
+WBSEM;Wire Bonder Specific Equipment Model
+WCDMA;Wideband Code Division Multiple Access
+WCN;Tungsten-Carbon-Nitride
+WCoP;Tungsten Cobalt Phosphide
+WD;Working Distance
+WDM;Wavelength Division Multiplex
+WDS;Wavelength-Dispersive Spectrometry Of X-Rays
+WDX;Wavelength Dispersive X-Ray
+WDXA;Wavelength-Dispersive X-Ray Analysis
+WEC;Wafer Environment Control
+WECC;Wafer Environment Contamination Control
+WFT;Wafer Fabrication Template
+WGPD;Waveguide Photodiode
+WGPDs;Reliability Of Planar Waveguide Photodiodes
+WIB;Within-Batch
+WIP;Work In Process
+WIS;Water-Induced Shift
+WIW;Within-Wafer
+WIWNU;Within-Wafer Nonuniformity
+WL;Word Line
+WLAN;Wideband Local Area Network
+WLBI;Wafer-Level Burn-In
+WLCSP;Wafer-Level Chip Scale Packaging
+WLI;White light interferometry
+WLP;Wafer-Level Package
+WLR;Wafer Level Reliability
+WLS;Weighted Least Squares
+WLT;Wafer-Level Test
+WLTBI;Wafer-Level Testing during
+WN;Tungsten Nitride
+WNP;Waste Neutralization Plant
+WORM;Write Once Read Many
+WP;Workpackage
+WPAN;Wideband Personal Network
+WPC;Wafer Process Chamber
+WPH;Wafers Per Hour
+WSC;World Semiconductor Council
+WSI;Wafer-Scale Integration
+WSN;Wireless Sensor Networks
+WSPM;Wafer Starts Per Month
+WSPW;Wafer Starts Per Week
+WTC;Wafer Transfer Chamber
+WTW;Wafer-To Wafer
+WTWNU;Wafer-To Wafer Nonuniformity
+WVDS;Water Vapor Delivery System
+WVR;Water Vapor Regained
+X;Inductive Reactance
+XAES;X-ray-induced Auger Electron Spectrometry
+XANES;X-Ray Adsorption Near Edge Structure Spectroscopy
+XEDS;X-ray Energy Dispersive Spectroscopy
+XES;x-ray energy spectroscopy
+XIVA;External Induced Voltage Alteration
+XLL;Exit Loadlock
+XLS;Excimer Laser System
+XML;Extensible Markup Language
+XPD;X-ray Photoelectron Diffraction
+XPS;X-Ray Photoelectron Spectroscopy
+XRD;X-Ray Diffraction
+XRF;X-Ray Fluorescence Spectrometry
+XRFA;X-Ray Fluorescence Spectrometric Analysis
+XRM;X-Ray Microscopy
+XRPM;X-Ray Projection Microscopy
+XRR;X-Ray Reflectivity
+XSEM;Cross-Sectional Scanning Electron Microscopy
+XTEM;X-ray Transmission Electron Microscopy
+Xe;Xenon
+Xj;Junction Depth
+Y;Yttrium
+Y overall;Overall Yield
+Y random;Random Defect Limited Yield
+Y systematic;Systematic Mechanism Yield
+YAG;Yttrium Aluminum Garnet
+YIG;Yield Impact Graph
+YMS;Yield Management System
+YMT;Yield Management Tools
+YR;Yield Ramp
+Yb;Ytterbium
+Ys;Systemic Defect Limited Yield
+Z;Zinc
+ZCC;Zone Control Conveyor
+ZD;Zero Defect
+ZIF;Zero Insertion Force
+ZMR;Zone-Melting Recrystallized 
+Zn;Zinc
+Zr;Zirconium
+APSM;Attenuating Phase Shift Mask
+atm;Atmosphere
+attPSM;Attenuated Phase Shift Mask
+dB;Decibels
+dBc;Db Change From Carrier Frequency
+dBm;Db Referred To 1 Milliwatt
+dHF;Dilute Hydrofluoric
+dbRT;Decibel/Root Hertz
+di/dt;Rate Of Change Current To Time
+eDRAM;Embedded Dram
+eV;Electronvolt
+eWLB;Embedded Wafer Level Ball Grid Array
+epi;Epitaxial Silicon
+fF;Femto Farad
+ft;Cutoff Frequency
+hp;Half-Pitch
+iNemi;International Electronics Manufacturing Initiative
+k;Dielectric Constant
+kHz;Kilohertz
+kV;Kilovolt
+keff;Effective Dielectric Constant
+m/s;Meter Per Second
+mA;Milliamperes
+mELT;Modified Etch Lift-Off
+mHEMT;Mobility Transistor Metamorphic Hemt
+mHEMTs;Material Metamorphic High Electron Mobility Transistors
+mP;Microprocessor
+mW;Milliwatt
+max;Maximum
+min;Minimum
+ml;Milliliter
+mm;Millimeter
+mm-wave;Millimeter Wave
+mp;Melting Point
+nA;Nano Ampere
+nm;Nanometer
+ns;Nanosecond
+p/p;P-Type On P-Type
+pA;Picoampere
+pF;Picofarad
+pFFA;Probabilistic Functional Failure Analysis
+pHEMT;Metamorphic Hemt Pseudomorphic Hemt
+pHEMTs;Constants Pseudomorphic High Electron Mobility Transistors
+pk-pk;Peak-To-Peak
+ppb;Parts Per Billion
+ppbV;Parts Per Billion (Volume)
+ppbWT;Parts Per Billion (Weight)
+ppm;Parts Per Million
+ppmV;Parts Per Million (Volume)
+ppma;Parts Per Million Atomic
+ppt;Parts Per Trillion
+ps;Picosecond
+s/n;Serial Number
+scCO2;Supercritical Co2
+t;Transistor
+t diel;Thickness Of Dielectric
+t eq. ox;Equivalent Oxide Thickness
+uA;Microamperes
+uF;Micro-Farad
+um;Micrometer
+us;Microsecond
+°;Rotation
+κ;Constant
