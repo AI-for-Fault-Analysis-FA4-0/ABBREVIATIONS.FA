@@ -46,7 +46,7 @@ paths = {'data': '/home/ifeanyi.ezukwoke/Documents/FA4.0/Mireille/Donnes/hdf5', 
 
 #import stopwords
 with open(join(paths['utils'], 'stopwords.txt'), 'r+',encoding="utf8") as st:
-    stopwords = set([x for x in st.read().split()]) #mix of Italia, English and French words...
+    stopwords = set([x for x in st.read().split()]) #mix of Italia, English and French stop words...
         
 
 
