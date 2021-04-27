@@ -46,3 +46,4 @@ The repo can be forked and updated by the public especially those whose domain
 jargon is correlated with the microelectronic industries.
 	
 ```
+Contact me to be a contributor on this project.
