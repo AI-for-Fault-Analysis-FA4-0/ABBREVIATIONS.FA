@@ -40,8 +40,8 @@ from tika import parser #extract text from pdf
 
 pdf_path = '/home/ifeanyi.ezukwoke/Documents/FA4.0/Houari'
 
-paths = {'data': '/home/ifeanyi.ezukwoke/Documents/FA4.0/Mireille/Donnes/hdf5', #hdf5 database
-        'utils': '/home/ifeanyi.ezukwoke/Documents/FA4.0/kenneth/Scripts/utils' #kenneth utils
+paths = {'data': '.../Donnes/hdf5', #hdf5 database
+        'utils': '.../Scripts/utils' #kenneth utils
         }
 
 #import stopwords
